@@ -1,0 +1,2001 @@
+Player,Position,Age,Market Value,Nationality,Joined Club,Joined League,Transfer Fee
+Kylian Mbappe,Centre-Forward,25,EUR180.00m,France,Real Madrid,LaLiga,free transfer
+Victor Osimhen,Centre-Forward,25,EUR100.00m,Nigeria,Galatasaray,Super Lig,loan transfer
+Julian Alvarez,Centre-Forward,24,EUR90.00m,Argentina,Atletico Madrid,LaLiga,EUR75.00m
+Douglas Luiz,Central Midfield,26,EUR70.00m,Brazil,Juventus,Serie A,EUR51.50m
+Matthijs de Ligt,Centre-Back,25,EUR65.00m,Netherlands,Man Utd,Premier League,EUR45.00m
+Dani Olmo,Attacking Midfield,26,EUR60.00m,Spain,Barcelona,LaLiga,EUR55.00m
+Endrick,Centre-Forward,18,EUR60.00m,Brazil,Real Madrid,LaLiga,EUR47.50m
+Pedro Neto,Right Winger,24,EUR55.00m,Portugal,Chelsea,Premier League,EUR60.00m
+Moussa Diaby,Right Winger,25,EUR55.00m,France,Al-Ittihad,Saudi Pro League,EUR60.00m
+Joao Neves,Defensive Midfield,19,EUR55.00m,Portugal,Paris SG,Ligue 1,EUR59.92m
+Michael Olise,Right Winger,22,EUR55.00m,France,Bayern Munich,Bundesliga,EUR53.00m
+Joao Palhinha,Defensive Midfield,29,EUR55.00m,Portugal,Bayern Munich,Bundesliga,EUR51.00m
+Leny Yoro,Centre-Back,18,EUR50.00m,France,Man Utd,Premier League,EUR62.00m
+Amadou Onana,Defensive Midfield,22,EUR50.00m,Belgium,Aston Villa,Premier League,EUR59.35m
+Teun Koopmeiners,Attacking Midfield,26,EUR50.00m,Netherlands,Juventus,Serie A,EUR54.70m
+Joshua Zirkzee,Centre-Forward,23,EUR50.00m,Netherlands,Man Utd,Premier League,EUR42.50m
+Conor Gallagher,Central Midfield,24,EUR50.00m,England,Atletico Madrid,LaLiga,EUR42.00m
+Ivan Toney,Centre-Forward,28,EUR50.00m,England,Al-Ahli,Saudi Pro League,EUR42.00m
+Mikel Merino,Central Midfield,28,EUR50.00m,Spain,Arsenal,Premier League,EUR32.00m
+Savinho,Right Winger,20,EUR50.00m,Brazil,Man City,Premier League,EUR25.00m
+Manuel Ugarte,Defensive Midfield,23,EUR45.00m,Uruguay,Man Utd,Premier League,EUR50.00m
+Riccardo Calafiori,Centre-Back,22,EUR45.00m,Italy,Arsenal,Premier League,EUR45.00m
+Giorgi Mamardashvili,Goalkeeper,23,EUR45.00m,Georgia,Liverpool,Premier League,EUR30.00m
+Giorgi Mamardashvili,Goalkeeper,23,EUR45.00m,Georgia,Valencia,LaLiga,loan transfer
+Dominic Solanke,Centre-Forward,26,EUR40.00m,England,Tottenham,Premier League,EUR64.30m
+Ian Maatsen,Left-Back,22,EUR40.00m,Netherlands,Aston Villa,Premier League,EUR44.50m
+Robin Le Normand,Centre-Back,27,EUR40.00m,Spain,Atletico Madrid,LaLiga,EUR34.50m
+Serhou Guirassy,Centre-Forward,28,EUR40.00m,Guinea,Bor. Dortmund,Bundesliga,EUR18.00m
+Willian Pacho,Centre-Back,22,EUR35.00m,Ecuador,Paris SG,Ligue 1,EUR40.00m
+Evanilson,Centre-Forward,24,EUR35.00m,Brazil,Bournemouth,Premier League,EUR37.00m
+Mohamed Simakan,Centre-Back,24,EUR35.00m,France,Al-Nassr,Saudi Pro League,EUR42.00m
+Alessandro Buongiorno,Centre-Back,25,EUR35.00m,Italy,SSC Napoli,Serie A,EUR35.00m
+David Raya,Goalkeeper,28,EUR35.00m,Spain,Arsenal,Premier League,EUR31.90m
+Artem Dovbyk,Centre-Forward,27,EUR35.00m,Ukraine,AS Roma,Serie A,EUR30.50m
+Joachim Andersen,Centre-Back,28,EUR35.00m,Denmark,Fulham,Premier League,EUR29.50m
+Davide Frattesi,Central Midfield,24,EUR35.00m,Italy,Inter,Serie A,EUR29.00m
+Elye Wahi,Centre-Forward,21,EUR35.00m,France,Marseille,Ligue 1,EUR25.00m
+Khephren Thuram,Central Midfield,23,EUR35.00m,France,Juventus,Serie A,EUR20.60m
+Samu Omorodion,Centre-Forward,20,EUR35.00m,Spain,FC Porto,Liga Portugal,EUR15.00m
+Federico Chiesa,Left Winger,26,EUR35.00m,Italy,Liverpool,Premier League,EUR12.00m
+Nico Gonzalez,Right Winger,26,EUR35.00m,Argentina,Juventus,Serie A,Loan fee:EUR8.40m
+Odilon Kossounou,Centre-Back,23,EUR35.00m,Cote d'Ivoire,Atalanta BC,Serie A,Loan fee:EUR5.00m
+Raheem Sterling,Left Winger,29,EUR35.00m,England,Arsenal,Premier League,loan transfer
+Jean-Clair Todibo,Centre-Back,24,EUR35.00m,France,West Ham,Premier League,loan transfer
+Nayef Aguerd,Centre-Back,28,EUR35.00m,Morocco,Real Sociedad,LaLiga,loan transfer
+Charles De Ketelaere,Attacking Midfield,23,EUR34.00m,Belgium,Atalanta BC,Serie A,EUR22.00m
+Max Kilman,Centre-Back,27,EUR32.00m,England,West Ham,Premier League,EUR47.50m
+Scott McTominay,Central Midfield,27,EUR32.00m,Scotland,SSC Napoli,Serie A,EUR30.50m
+Lutsharel Geertruida,Right-Back,24,EUR32.00m,Netherlands,RB Leipzig,Bundesliga,EUR18.00m
+Joao Felix,Left Winger,24,EUR30.00m,Portugal,Chelsea,Premier League,EUR52.00m
+Desire Doue,Left Winger,19,EUR30.00m,France,Paris SG,Ligue 1,EUR50.00m
+Kiernan Dewsbury-Hall,Central Midfield,25,EUR30.00m,England,Chelsea,Premier League,EUR35.40m
+Mats Wieffer,Defensive Midfield,24,EUR30.00m,Netherlands,Brighton,Premier League,EUR32.00m
+Ferdi Kadioglu,Left-Back,24,EUR30.00m,Türkiye,Brighton,Premier League,EUR30.00m
+Romelu Lukaku,Centre-Forward,31,EUR30.00m,Belgium,SSC Napoli,Serie A,EUR30.00m
+Eddie Nketiah,Centre-Forward,25,EUR30.00m,England,Crystal Palace,Premier League,EUR29.70m
+Maximilian Beier,Centre-Forward,21,EUR30.00m,Germany,Bor. Dortmund,Bundesliga,EUR28.50m
+Hiroki Ito,Centre-Back,25,EUR30.00m,Japan,Bayern Munich,Bundesliga,EUR23.50m
+Bilal El Khannouss,Attacking Midfield,20,EUR30.00m,Morocco,Leicester,Premier League,EUR20.50m
+Youssouf Fofana,Defensive Midfield,25,EUR30.00m,France,AC Milan,Serie A,EUR20.00m
+Noussair Mazraoui,Right-Back,26,EUR30.00m,Morocco,Man Utd,Premier League,EUR15.00m
+Albert Gudmundsson,Second Striker,27,EUR30.00m,Iceland,Fiorentina,Serie A,Loan fee:EUR8.00m
+Tammy Abraham,Centre-Forward,26,EUR30.00m,England,AC Milan,Serie A,loan transfer
+Vitor Roque,Centre-Forward,19,EUR30.00m,Brazil,Real Betis,LaLiga,loan transfer
+Jadon Sancho,Left Winger,24,EUR30.00m,England,Chelsea,Premier League,loan transfer
+James Ward-Prowse,Central Midfield,29,EUR30.00m,England,Nottm Forest,Premier League,loan transfer
+Ermedin Demirovic,Centre-Forward,26,EUR28.00m,Bosnia-Herzegovina,VfB Stuttgart,Bundesliga,EUR21.00m
+Thiago Almada,Attacking Midfield,23,EUR27.00m,Argentina,Botafogo,Serie A,EUR19.50m
+Marcos Leonardo,Centre-Forward,21,EUR25.00m,Brazil,Al-Hilal,Saudi Pro League,EUR40.00m
+Igor Thiago,Centre-Forward,23,EUR25.00m,Brazil,Brentford,Premier League,EUR33.00m
+Alexander Sorloth,Centre-Forward,28,EUR25.00m,Norway,Atletico Madrid,LaLiga,EUR32.00m
+David Neres,Right Winger,27,EUR25.00m,Brazil,SSC Napoli,Serie A,EUR28.00m
+Deniz Undav,Centre-Forward,28,EUR25.00m,Germany,VfB Stuttgart,Bundesliga,EUR26.70m
+Mason Greenwood,Right Winger,22,EUR25.00m,England,Marseille,Ligue 1,EUR26.00m
+Matias Soule,Right Winger,21,EUR25.00m,Argentina,AS Roma,Serie A,EUR25.60m
+Joao Cancelo,Right-Back,30,EUR25.00m,Portugal,Al-Hilal,Saudi Pro League,EUR25.00m
+Andre,Defensive Midfield,23,EUR25.00m,Brazil,Wolves,Premier League,EUR22.00m
+Aaron Ramsdale,Goalkeeper,26,EUR25.00m,England,Southampton,Premier League,EUR21.40m
+Strahinja Pavlovic,Centre-Back,23,EUR25.00m,Serbia,AC Milan,Serie A,EUR18.00m
+Aleix Garcia,Central Midfield,27,EUR25.00m,Spain,B. Leverkusen,Bundesliga,EUR18.00m
+Vangelis Pavlidis,Centre-Forward,25,EUR25.00m,Greece,Benfica,Liga Portugal,EUR18.00m
+Matteo Guendouzi,Central Midfield,25,EUR25.00m,France,Lazio,Serie A,EUR13.00m
+Yan Couto,Right-Back,22,EUR25.00m,Brazil,Bor. Dortmund,Bundesliga,Loan fee:EUR4.00m
+Jorgen Strand Larsen,Centre-Forward,24,EUR25.00m,Norway,Wolves,Premier League,Loan fee:EUR3.00m
+Arthur Vermeeren,Central Midfield,19,EUR25.00m,Belgium,RB Leipzig,Bundesliga,Loan fee:EUR3.00m
+Lesley Ugochukwu,Defensive Midfield,20,EUR25.00m,France,Southampton,Premier League,loan transfer
+Kalvin Phillips,Defensive Midfield,28,EUR25.00m,England,Ipswich,Premier League,loan transfer
+Kurt Zouma,Centre-Back,29,EUR25.00m,France,Al-Orobah,Saudi Pro League,loan transfer
+Luis Guilherme,Right Winger,18,EUR24.00m,Brazil,West Ham,Premier League,EUR23.00m
+Emile Smith Rowe,Attacking Midfield,24,EUR22.00m,England,Fulham,Premier League,EUR31.80m
+Taylor Harwood-Bellis,Centre-Back,22,EUR22.00m,England,Southampton,Premier League,EUR23.00m
+Carlos Augusto,Left-Back,25,EUR22.00m,Brazil,Inter,Serie A,EUR13.00m
+Francisco Conceicao,Right Winger,21,EUR22.00m,Portugal,FC Porto,Liga Portugal,EUR10.50m
+Francisco Conceicao,Right Winger,21,EUR22.00m,Portugal,Juventus,Serie A,Loan fee:EUR7.00m
+Jesper Lindstrom,Attacking Midfield,24,EUR22.00m,Denmark,Everton,Premier League,Loan fee:EUR2.00m
+Sofyan Amrabat,Defensive Midfield,28,EUR22.00m,Morocco,Fenerbahce,Super Lig,Loan fee:EUR2.00m
+Fabio Vieira,Attacking Midfield,24,EUR22.00m,Portugal,FC Porto,Liga Portugal,Loan fee:EUR890k
+Armando Broja,Centre-Forward,22,EUR22.00m,Albania,Everton,Premier League,loan transfer
+Piotr Zielinski,Central Midfield,30,EUR22.00m,Poland,Inter,Serie A,free transfer
+Sergino Dest,Right-Back,23,EUR22.00m,United States,PSV Eindhoven,Eredivisie,free transfer
+Youssoufa Moukoko,Centre-Forward,19,EUR22.00m,Germany,OGC Nice,Ligue 1,loan transfer
+Matt O'Riley,Central Midfield,23,EUR20.00m,Denmark,Brighton,Premier League,EUR29.50m
+Crysencio Summerville,Left Winger,22,EUR20.00m,Netherlands,West Ham,Premier League,EUR29.30m
+Sander Berge,Central Midfield,26,EUR20.00m,Norway,Fulham,Premier League,EUR23.55m
+Orel Mangala,Central Midfield,26,EUR20.00m,Belgium,Olympique Lyon,Ligue 1,EUR23.40m
+Waldemar Anton,Centre-Back,27,EUR20.00m,Germany,Bor. Dortmund,Bundesliga,EUR22.50m
+Brajan Gruda,Right Winger,20,EUR20.00m,Germany,Brighton,Premier League,EUR31.50m
+Filip Jorgensen,Goalkeeper,22,EUR20.00m,Denmark,Chelsea,Premier League,EUR24.50m
+Martin Terrier,Left Winger,27,EUR20.00m,France,B. Leverkusen,Bundesliga,EUR20.00m
+Matvey Safonov,Goalkeeper,25,EUR20.00m,Russia,Paris SG,Ligue 1,EUR20.00m
+Youssef En-Nesyri,Centre-Forward,27,EUR20.00m,Morocco,Fenerbahce,Super Lig,EUR19.50m
+Georges Mikautadze,Centre-Forward,23,EUR20.00m,Georgia,Olympique Lyon,Ligue 1,EUR18.50m
+Maxence Lacroix,Centre-Back,24,EUR20.00m,France,Crystal Palace,Premier League,EUR18.00m
+Aaron Wan-Bissaka,Right-Back,26,EUR20.00m,England,West Ham,Premier League,EUR17.60m
+Hugo Ekitike,Centre-Forward,22,EUR20.00m,France,E. Frankfurt,Bundesliga,EUR16.50m
+Mohamed Camara,Defensive Midfield,24,EUR20.00m,Mali,Al-Sadd SC,Stars League,EUR16.50m
+Said Benrahma,Left Winger,28,EUR20.00m,Algeria,Olympique Lyon,Ligue 1,EUR14.40m
+Malik Tillman,Attacking Midfield,22,EUR20.00m,United States,PSV Eindhoven,Eredivisie,EUR12.00m
+Nicolo Zaniolo,Attacking Midfield,25,EUR20.00m,Italy,Atalanta BC,Serie A,Loan fee:EUR6.40m
+Pierre Kalulu,Centre-Back,24,EUR20.00m,France,Juventus,Serie A,Loan fee:EUR3.30m
+El Bilal Toure,Centre-Forward,22,EUR20.00m,Mali,VfB Stuttgart,Bundesliga,Loan fee:EUR2.50m
+Manu Kone,Central Midfield,23,EUR20.00m,France,AS Roma,Serie A,loan transfer
+Arthur Theate,Centre-Back,24,EUR20.00m,Belgium,E. Frankfurt,Bundesliga,loan transfer
+Orel Mangala,Central Midfield,26,EUR20.00m,Belgium,Everton,Premier League,loan transfer
+Guido Rodriguez,Defensive Midfield,30,EUR20.00m,Argentina,West Ham,Premier League,free transfer
+Carlos Soler,Central Midfield,27,EUR20.00m,Spain,West Ham,Premier League,loan transfer
+Tosin Adarabioyo,Centre-Back,26,EUR20.00m,England,Chelsea,Premier League,free transfer
+Djordje Petrovic,Goalkeeper,24,EUR20.00m,Serbia,R. Strasbourg,Ligue 1,loan transfer
+Lazar Samardzic,Central Midfield,22,EUR20.00m,Serbia,Atalanta BC,Serie A,loan transfer
+Raphael Varane,Centre-Back,31,EUR20.00m,France,Como,Serie A,free transfer
+Georginio Rutter,Centre-Forward,22,EUR18.00m,France,Brighton,Premier League,EUR46.70m
+Archie Gray,Central Midfield,18,EUR18.00m,England,Tottenham,Premier League,EUR41.25m
+Lewis Hall,Left-Back,19,EUR18.00m,England,Newcastle,Premier League,EUR33.00m
+Ernest Nuamah,Right Winger,20,EUR18.00m,Ghana,Olympique Lyon,Ligue 1,EUR28.50m
+Enzo Le Fee,Central Midfield,24,EUR18.00m,France,AS Roma,Serie A,EUR23.00m
+Steven Bergwijn,Left Winger,26,EUR18.00m,Netherlands,Al-Ittihad,Saudi Pro League,EUR21.00m
+Gabriel Sara,Central Midfield,25,EUR18.00m,Brazil,Galatasaray,Super Lig,EUR18.00m
+Enes Unal,Centre-Forward,27,EUR18.00m,Türkiye,Bournemouth,Premier League,EUR16.50m
+Zeno Debast,Centre-Back,20,EUR18.00m,Belgium,Sporting CP,Liga Portugal,EUR15.50m
+Emerson Royal,Right-Back,25,EUR18.00m,Brazil,AC Milan,Serie A,EUR15.00m
+Ismaila Sarr,Right Winger,26,EUR18.00m,Senegal,Crystal Palace,Premier League,EUR15.00m
+Thijs Dallinga,Centre-Forward,23,EUR18.00m,Netherlands,Bologna,Serie A,EUR15.00m
+Billy Gilmour,Defensive Midfield,23,EUR18.00m,Scotland,SSC Napoli,Serie A,EUR14.00m
+Jordan Teze,Right-Back,24,EUR18.00m,Netherlands,Monaco,Ligue 1,EUR10.00m
+Benjamin Bourigeaud,Central Midfield,30,EUR18.00m,France,Al-Duhail SC,Stars League,EUR10.00m
+Allan Saint-Maximin,Left Winger,27,EUR18.00m,France,Fenerbahce,Super Lig,Loan fee:EUR8.00m
+Michele Di Gregorio,Goalkeeper,26,EUR18.00m,Italy,Juventus,Serie A,Loan fee:EUR4.50m
+Andrea Colpani,Attacking Midfield,25,EUR18.00m,Italy,Fiorentina,Serie A,Loan fee:EUR4.00m
+Simon Banza,Centre-Forward,28,EUR18.00m,DR Congo,Trabzonspor,Super Lig,Loan fee:EUR2.00m
+Edoardo Bove,Central Midfield,22,EUR18.00m,Italy,Fiorentina,Serie A,Loan fee:EUR1.50m
+Robin Koch,Centre-Back,27,EUR18.00m,Germany,E. Frankfurt,Bundesliga,free transfer
+Pierre-Emile Hojbjerg,Defensive Midfield,28,EUR18.00m,Denmark,Marseille,Ligue 1,loan transfer
+Lloyd Kelly,Centre-Back,25,EUR18.00m,England,Newcastle,Premier League,free transfer
+Daichi Kamada,Attacking Midfield,27,EUR18.00m,Japan,Crystal Palace,Premier League,free transfer
+Facundo Buonanotte,Attacking Midfield,19,EUR18.00m,Argentina,Leicester,Premier League,loan transfer
+Luis Sinisterra,Left Winger,25,EUR17.00m,Colombia,Bournemouth,Premier League,EUR23.40m
+Hamed Junior Traore,Attacking Midfield,24,EUR17.00m,Cote d'Ivoire,AJ Auxerre,Ligue 1,loan transfer
+Leandro Barreiro,Central Midfield,24,EUR17.00m,Luxembourg,Benfica,Liga Portugal,free transfer
+Yankuba Minteh,Right Winger,19,EUR16.00m,The Gambia,Brighton,Premier League,EUR35.00m
+Moussa Niakhate,Centre-Back,28,EUR16.00m,Senegal,Olympique Lyon,Ligue 1,EUR31.90m
+Mateo Retegui,Centre-Forward,25,EUR16.00m,Italy,Atalanta BC,Serie A,EUR22.00m
+Alvaro Morata,Centre-Forward,31,EUR16.00m,Spain,AC Milan,Serie A,EUR13.00m
+Giovani Lo Celso,Central Midfield,28,EUR16.00m,Argentina,Real Betis,LaLiga,EUR5.00m
+Mohamed Amoura,Centre-Forward,24,EUR16.00m,Algeria,VfL Wolfsburg,Bundesliga,Loan fee:EUR3.00m
+Elliot Anderson,Central Midfield,21,EUR15.00m,England,Nottm Forest,Premier League,EUR41.20m
+Niclas Fullkrug,Centre-Forward,31,EUR15.00m,Germany,West Ham,Premier League,EUR27.00m
+Oliver Skipp,Defensive Midfield,23,EUR15.00m,England,Leicester,Premier League,EUR23.50m
+Jacob Greaves,Centre-Back,23,EUR15.00m,England,Ipswich,Premier League,EUR21.50m
+Antonio Nusa,Left Winger,19,EUR15.00m,Norway,RB Leipzig,Bundesliga,EUR21.00m
+Raoul Bellanova,Right-Back,24,EUR15.00m,Italy,Atalanta BC,Serie A,EUR20.00m
+Iliman Ndiaye,Centre-Forward,24,EUR15.00m,Senegal,Everton,Premier League,EUR18.00m
+Carlos Alcaraz,Central Midfield,21,EUR15.00m,Argentina,Flamengo,Serie A,EUR18.00m
+Bento,Goalkeeper,25,EUR15.00m,Brazil,Al-Nassr,Saudi Pro League,EUR18.00m
+Jack Clarke,Left Winger,23,EUR15.00m,England,Ipswich,Premier League,EUR17.70m
+Jaden Philogene,Left Winger,22,EUR15.00m,England,Aston Villa,Premier League,EUR16.00m
+Angelo,Right Winger,19,EUR15.00m,Brazil,Al-Nassr,Saudi Pro League,EUR23.00m
+Alvaro Djalo,Left Winger,24,EUR15.00m,Spain,Athletic,LaLiga,EUR15.00m
+Chadi Riad,Centre-Back,21,EUR15.00m,Morocco,Crystal Palace,Premier League,EUR15.00m
+Cameron Puertas,Attacking Midfield,26,EUR15.00m,Spain,Al-Qadsiah,Saudi Pro League,EUR15.00m
+Nikola Milenkovic,Centre-Back,26,EUR15.00m,Serbia,Nottm Forest,Premier League,EUR14.30m
+Georges Mikautadze,Centre-Forward,23,EUR15.00m,Georgia,FC Metz,Ligue 2,EUR13.00m
+Kerem Akturkoglu,Left Winger,25,EUR15.00m,Türkiye,Benfica,Liga Portugal,EUR12.00m
+Gaston Alvarez,Centre-Back,24,EUR15.00m,Uruguay,Al-Qadsiah,Saudi Pro League,EUR12.00m
+Hirving Lozano,Left Winger,29,EUR15.00m,Mexico,San Diego FC,N/A,EUR12.00m
+Morato,Centre-Back,23,EUR15.00m,Brazil,Nottm Forest,Premier League,EUR11.00m
+Luka Sucic,Central Midfield,21,EUR15.00m,Croatia,Real Sociedad,LaLiga,EUR10.00m
+Chadi Riad,Centre-Back,21,EUR15.00m,Morocco,Real Betis,LaLiga,EUR9.00m
+Jan-Niklas Beste,Left-Back,25,EUR15.00m,Germany,Benfica,Liga Portugal,EUR8.00m
+Roland Sallai,Right Winger,27,EUR15.00m,Hungary,Galatasaray,Super Lig,EUR6.00m
+Jordan Veretout,Central Midfield,31,EUR15.00m,France,Olympique Lyon,Ligue 1,EUR4.00m
+Andrea Pinamonti,Centre-Forward,25,EUR15.00m,Italy,Genoa,Serie A,Loan fee:EUR2.00m
+Yacine Adli,Defensive Midfield,24,EUR15.00m,France,Fiorentina,Serie A,Loan fee:EUR1.50m
+Valentin Carboni,Attacking Midfield,19,EUR15.00m,Argentina,Marseille,Ligue 1,Loan fee:EUR1.00m
+Fabio Miretti,Central Midfield,21,EUR15.00m,Italy,Genoa,Serie A,loan transfer
+Ilkay Gundogan,Central Midfield,33,EUR15.00m,Germany,Man City,Premier League,free transfer
+Albert Sambi Lokonga,Central Midfield,24,EUR15.00m,Belgium,Sevilla FC,LaLiga,loan transfer
+Nuno Tavares,Left-Back,24,EUR15.00m,Portugal,Lazio,Serie A,loan transfer
+Che Adams,Centre-Forward,28,EUR15.00m,Scotland,Torino,Serie A,free transfer
+Reiss Nelson,Right Winger,24,EUR15.00m,England,Fulham,Premier League,loan transfer
+Callum Doyle,Centre-Back,20,EUR15.00m,England,Norwich,Championship,loan transfer
+Gabriel Moscardo,Defensive Midfield,18,EUR15.00m,Brazil,Stade Reims,Ligue 1,loan transfer
+Romain Faivre,Right Midfield,26,EUR15.00m,France,Stade Brestois,Ligue 1,loan transfer
+Fabio Carvalho,Attacking Midfield,21,EUR14.00m,Portugal,Brentford,Premier League,EUR23.40m
+Ezequiel Fernandez,Defensive Midfield,22,EUR14.00m,Argentina,Al-Qadsiah,Saudi Pro League,EUR18.70m
+Vitinha,Centre-Forward,24,EUR14.00m,Portugal,Genoa,Serie A,EUR16.00m
+Moise Kean,Centre-Forward,24,EUR14.00m,Italy,Fiorentina,Serie A,EUR13.00m
+Moatasem Al-Musrati,Defensive Midfield,28,EUR14.00m,Libya,Besiktas,Super Lig,EUR11.00m
+Nicolo Casale,Centre-Back,26,EUR14.00m,Italy,Bologna,Serie A,Loan fee:EUR1.50m
+Rafa,Second Striker,31,EUR14.00m,Portugal,Besiktas,Super Lig,free transfer
+Bryan Gil,Left Winger,23,EUR14.00m,Spain,Girona,LaLiga,loan transfer
+Cameron Archer,Centre-Forward,22,EUR13.00m,England,Southampton,Premier League,EUR17.60m
+Cameron Archer,Centre-Forward,22,EUR13.00m,England,Aston Villa,Premier League,EUR16.65m
+Samuel Iling-Junior,Left Winger,20,EUR13.00m,England,Aston Villa,Premier League,EUR14.00m
+Mandela Keita,Defensive Midfield,22,EUR13.00m,Belgium,Parma,Serie A,EUR12.00m
+Ramon Sosa,Left Winger,24,EUR13.00m,Paraguay,Nottm Forest,Premier League,EUR12.00m
+Mandela Keita,Defensive Midfield,22,EUR13.00m,Belgium,Royal Antwerp,Jupiler Pro League,EUR5.00m
+Daniel Podence,Right Winger,28,EUR13.00m,Portugal,Al-Shabab,Saudi Pro League,EUR5.00m
+Nehuen Perez,Centre-Back,24,EUR13.00m,Argentina,FC Porto,Liga Portugal,Loan fee:EUR4.08m
+Valentin Barco,Left-Back,20,EUR13.00m,Argentina,Sevilla FC,LaLiga,loan transfer
+Manor Solomon,Left Winger,25,EUR13.00m,Israel,Leeds,Championship,loan transfer
+Alex Moreno,Left-Back,31,EUR13.00m,Spain,Nottm Forest,Premier League,loan transfer
+Trevoh Chalobah,Centre-Back,25,EUR13.00m,England,Crystal Palace,Premier League,loan transfer
+Samuel Iling-Junior,Left Winger,20,EUR13.00m,England,Bologna,Serie A,loan transfer
+Arnaut Danjuma,Left Winger,27,EUR13.00m,Netherlands,Girona,LaLiga,loan transfer
+Sepp van den Berg,Centre-Back,22,EUR12.00m,Netherlands,Brentford,Premier League,EUR23.60m
+Jake O'Brien,Centre-Back,23,EUR12.00m,Ireland,Everton,Premier League,EUR19.50m
+Ibrahim Osman,Left Winger,19,EUR12.00m,Ghana,Brighton,Premier League,EUR19.50m
+Adam Hlozek,Second Striker,22,EUR12.00m,Czech Republic,TSG Hoffenheim,Bundesliga,EUR18.00m
+Logan Costa,Centre-Back,23,EUR12.00m,Cape Verde,Villarreal,LaLiga,EUR18.00m
+Mike Tresor,Left Winger,25,EUR12.00m,Belgium,Burnley,Championship,EUR18.00m
+Rodrigo Gomes,Right Midfield,20,EUR12.00m,Portugal,Wolves,Premier League,EUR15.00m
+Kamil Grabara,Goalkeeper,25,EUR12.00m,Poland,VfL Wolfsburg,Bundesliga,EUR13.50m
+Bryan Zaragoza,Left Winger,22,EUR12.00m,Spain,Bayern Munich,Bundesliga,EUR13.00m
+Albert Gronbaek,Central Midfield,23,EUR12.00m,Denmark,Stade Rennais,Ligue 1,EUR15.00m
+Can Uzun,Attacking Midfield,18,EUR12.00m,Türkiye,E. Frankfurt,Bundesliga,EUR11.00m
+David Carmo,Centre-Back,25,EUR12.00m,Angola,Nottm Forest,Premier League,EUR11.00m
+Mauricio,Attacking Midfield,23,EUR12.00m,Brazil,Palmeiras,Serie A,EUR10.50m
+Alexander Prass,Left Midfield,23,EUR12.00m,Austria,TSG Hoffenheim,Bundesliga,EUR9.50m
+Ameen Al-Dakhil,Centre-Back,22,EUR12.00m,Belgium,VfB Stuttgart,Bundesliga,EUR9.00m
+Abel Ruiz,Centre-Forward,24,EUR12.00m,Spain,Girona,LaLiga,EUR9.00m
+Koni De Winter,Centre-Back,22,EUR12.00m,Belgium,Genoa,Serie A,EUR8.00m
+Lorenzo Lucca,Centre-Forward,23,EUR12.00m,Italy,Udinese Calcio,Serie A,EUR8.00m
+Yukinari Sugawara,Right-Back,24,EUR12.00m,Japan,Southampton,Premier League,EUR7.00m
+Jota Silva,Left Winger,25,EUR12.00m,Portugal,Nottm Forest,Premier League,EUR7.00m
+Emil Holm,Right-Back,24,EUR12.00m,Sweden,Bologna,Serie A,EUR7.00m
+Eren Dinkci,Right Winger,22,EUR12.00m,Türkiye,SC Freiburg,Bundesliga,EUR5.00m
+Jonathan Clauss,Right-Back,31,EUR12.00m,France,OGC Nice,Ligue 1,EUR5.00m
+Natan,Centre-Back,23,EUR12.00m,Brazil,Real Betis,LaLiga,Loan fee:EUR1.00m
+Neal Maupay,Centre-Forward,28,EUR12.00m,France,Marseille,Ligue 1,Loan fee:EUR500k
+Azzedine Ounahi,Central Midfield,24,EUR12.00m,Morocco,Panathinaikos,Super League 1,Loan fee:EUR500k
+Robin Gosens,Left Midfield,30,EUR12.00m,Germany,Fiorentina,Serie A,Loan fee:EUR500k
+Bryan Zaragoza,Left Winger,22,EUR12.00m,Spain,CA Osasuna,LaLiga,Loan fee:EUR250k
+Alexis Saelemaekers,Right Winger,25,EUR12.00m,Belgium,AS Roma,Serie A,loan transfer
+Eric Dier,Centre-Back,30,EUR12.00m,England,Bayern Munich,Bundesliga,free transfer
+Ibrahim Osman,Left Winger,19,EUR12.00m,Ghana,Feyenoord,Eredivisie,loan transfer
+Lilian Brassier,Centre-Back,24,EUR12.00m,France,Marseille,Ligue 1,loan transfer
+Zeki Amdouni,Centre-Forward,23,EUR12.00m,Switzerland,Benfica,Liga Portugal,loan transfer
+Kelechi Iheanacho,Centre-Forward,27,EUR12.00m,Nigeria,Sevilla FC,LaLiga,free transfer
+David Carmo,Centre-Back,25,EUR12.00m,Angola,Olympiacos,Super League 1,loan transfer
+Tiago Djalo,Centre-Back,24,EUR12.00m,Portugal,FC Porto,Liga Portugal,loan transfer
+Kepa Arrizabalaga,Goalkeeper,29,EUR12.00m,Spain,Bournemouth,Premier League,loan transfer
+David Datro Fofana,Centre-Forward,21,EUR12.00m,Cote d'Ivoire,Goztepe,Super Lig,loan transfer
+Ismael Kone,Central Midfield,22,EUR11.00m,Canada,Marseille,Ligue 1,EUR12.00m
+Luis Alberto,Attacking Midfield,31,EUR11.00m,Spain,Al-Duhail SC,Stars League,EUR10.50m
+Maarten Vandevoordt,Goalkeeper,22,EUR11.00m,Belgium,RB Leipzig,Bundesliga,EUR10.00m
+Maksim Glushenkov,Second Striker,24,EUR11.00m,Russia,Zenit S-Pb,Premier Liga,EUR6.30m
+Wilfried Zaha,Left Winger,31,EUR11.00m,Cote d'Ivoire,Olympique Lyon,Ligue 1,Loan fee:EUR3.00m
+Fedor Chalov,Centre-Forward,26,EUR11.00m,Russia,PAOK Salonika,Super League 1,EUR3.00m
+Stefan Bajcetic,Defensive Midfield,19,EUR11.00m,Spain,RB Salzburg,Bundesliga,loan transfer
+Fabio Silva,Centre-Forward,22,EUR11.00m,Portugal,UD Las Palmas,LaLiga,loan transfer
+Habib Diallo,Centre-Forward,29,EUR11.00m,Senegal,Damac FC,Saudi Pro League,loan transfer
+Wilson Odobert,Left Winger,19,EUR10.00m,France,Tottenham,Premier League,EUR29.30m
+Wesley,Left Winger,19,EUR10.00m,Brazil,Al-Nassr,Saudi Pro League,EUR18.00m
+Issahaku Fatawu,Right Winger,20,EUR10.00m,Ghana,Leicester,Premier League,EUR17.00m
+Dean Huijsen,Centre-Back,19,EUR10.00m,Spain,Bournemouth,Premier League,EUR15.20m
+Jeanuel Belocian,Centre-Back,19,EUR10.00m,France,B. Leverkusen,Bundesliga,EUR15.00m
+Lamine Camara,Central Midfield,20,EUR10.00m,Senegal,Monaco,Ligue 1,EUR15.00m
+Julian Quinones,Centre-Forward,27,EUR10.00m,Mexico,Al-Qadsiah,Saudi Pro League,EUR13.80m
+Ben Godfrey,Centre-Back,26,EUR10.00m,England,Atalanta BC,Serie A,EUR12.00m
+Luciano Gondou,Centre-Forward,23,EUR10.00m,Argentina,Zenit S-Pb,Premier Liga,EUR12.00m
+Gustavo Nunes,Left Winger,18,EUR10.00m,Brazil,Brentford,Premier League,EUR12.00m
+Houssem Aouar,Central Midfield,26,EUR10.00m,Algeria,Al-Ittihad,Saudi Pro League,EUR12.00m
+Aleksey Miranchuk,Attacking Midfield,28,EUR10.00m,Russia,Atlanta,MLS,EUR12.00m
+Sam Johnstone,Goalkeeper,31,EUR10.00m,England,Wolves,Premier League,EUR11.90m
+Thilo Kehrer,Centre-Back,27,EUR10.00m,Germany,Monaco,Ligue 1,EUR11.00m
+Mikayil Faye,Centre-Back,20,EUR10.00m,Senegal,Stade Rennais,Ligue 1,EUR10.30m
+George Ilenikhena,Centre-Forward,17,EUR10.00m,France,Monaco,Ligue 1,EUR18.75m
+Lucas Bergvall,Attacking Midfield,18,EUR10.00m,Sweden,Tottenham,Premier League,EUR10.00m
+Assan Ouedraogo,Central Midfield,18,EUR10.00m,Germany,RB Leipzig,Bundesliga,EUR10.00m
+Benjamin Rollheiser,Right Winger,24,EUR10.00m,Argentina,Benfica,Liga Portugal,EUR9.50m
+Sergio Gomez,Right Winger,23,EUR10.00m,Spain,Real Sociedad,LaLiga,EUR9.00m
+Erick Sanchez,Central Midfield,24,EUR10.00m,Mexico,America,Liga MX Apertura,EUR9.00m
+Tijjani Noslin,Right Winger,24,EUR10.00m,Netherlands,Lazio,Serie A,EUR8.90m
+David Garcia,Centre-Back,30,EUR10.00m,Spain,Al-Rayyan SC,Stars League,EUR8.75m
+Caglar Soyuncu,Centre-Back,28,EUR10.00m,Türkiye,Fenerbahce,Super Lig,EUR8.50m
+Predrag Rajkovic,Goalkeeper,28,EUR10.00m,Serbia,Al-Ittihad,Saudi Pro League,EUR8.00m
+Ladislav Krejci,Centre-Back,25,EUR10.00m,Czech Republic,Girona,LaLiga,EUR8.00m
+Tete,Right Winger,24,EUR10.00m,Brazil,Panathinaikos,Super League 1,EUR7.25m
+Christos Tzolis,Left Winger,22,EUR10.00m,Greece,Club Brugge,Jupiler Pro League,EUR6.50m
+Facundo Pellistri,Right Winger,22,EUR10.00m,Uruguay,Panathinaikos,Super League 1,EUR6.00m
+Nico Paz,Attacking Midfield,19,EUR10.00m,Argentina,Como,Serie A,EUR6.00m
+Tommy Doyle,Central Midfield,22,EUR10.00m,England,Wolves,Premier League,EUR5.00m
+Nabil Fekir,Attacking Midfield,31,EUR10.00m,France,Al-Jazira,UAE Pro League,EUR5.00m
+Christos Tzolis,Left Winger,22,EUR10.00m,Greece,F. Dusseldorf,2. Bundesliga,EUR3.50m
+Guillermo Maripan,Centre-Back,30,EUR10.00m,Chile,Torino,Serie A,EUR2.00m
+Jens Cajuste,Defensive Midfield,25,EUR10.00m,Sweden,Ipswich,Premier League,Loan fee:EUR1.50m
+Silas,Right Winger,25,EUR10.00m,DR Congo,Red Star,Super liga Srbije,Loan fee:EUR500k
+Clement Lenglet,Centre-Back,29,EUR10.00m,France,Atletico Madrid,LaLiga,loan transfer
+Nordi Mukiele,Right-Back,26,EUR10.00m,France,B. Leverkusen,Bundesliga,loan transfer
+Rasmus Kristensen,Right-Back,27,EUR10.00m,Denmark,E. Frankfurt,Bundesliga,loan transfer
+Mehdi Taremi,Centre-Forward,31,EUR10.00m,Iran,Inter,Serie A,free transfer
+Salih Ozcan,Defensive Midfield,26,EUR10.00m,Türkiye,VfL Wolfsburg,Bundesliga,loan transfer
+Issa Kabore,Right-Back,23,EUR10.00m,Burkina Faso,Benfica,Liga Portugal,loan transfer
+Boulaye Dia,Centre-Forward,27,EUR10.00m,Senegal,Lazio,Serie A,loan transfer
+Ben Doak,Right Winger,18,EUR10.00m,Scotland,Middlesbrough,Championship,loan transfer
+Ryan Sessegnon,Left-Back,24,EUR10.00m,England,Fulham,Premier League,free transfer
+Tommaso Pobega,Central Midfield,25,EUR10.00m,Italy,Bologna,Serie A,loan transfer
+Shea Charles,Defensive Midfield,20,EUR10.00m,Northern Ireland,Sheff Wed,Championship,loan transfer
+Sebastien Haller,Centre-Forward,30,EUR10.00m,Cote d'Ivoire,CD Leganes,LaLiga,loan transfer
+Pau Lopez,Goalkeeper,29,EUR10.00m,Spain,Girona,LaLiga,loan transfer
+Yaser Asprilla,Right Winger,20,EUR9.00m,Colombia,Girona,LaLiga,EUR18.00m
+Christian Mawissa,Centre-Back,19,EUR9.00m,France,Monaco,Ligue 1,EUR16.00m
+Esequiel Barco,Attacking Midfield,25,EUR9.00m,Argentina,Spartak Moscow,Premier Liga,EUR14.00m
+Arne Engels,Central Midfield,20,EUR9.00m,Belgium,Celtic,Premiership,EUR11.00m
+Flynn Downes,Defensive Midfield,25,EUR9.00m,England,Southampton,Premier League,EUR17.85m
+Anass Zaroury,Left Winger,23,EUR9.00m,Morocco,Lens,Ligue 1,EUR9.00m
+Jota,Left Winger,25,EUR9.00m,Portugal,Stade Rennais,Ligue 1,EUR8.00m
+Lucas Ocampos,Left Winger,30,EUR9.00m,Argentina,Monterrey,Liga MX Apertura,EUR7.25m
+Hannibal,Attacking Midfield,21,EUR9.00m,Tunisia,Burnley,Championship,EUR6.40m
+Jamie Leweling,Right Winger,23,EUR9.00m,Germany,VfB Stuttgart,Bundesliga,EUR5.00m
+Marc Roca,Defensive Midfield,27,EUR9.00m,Spain,Real Betis,LaLiga,EUR4.50m
+Hyun-seok Hong,Attacking Midfield,25,EUR9.00m,"Korea, South",1.FSV Mainz 05,Bundesliga,EUR4.00m
+Jeff Chabot,Centre-Back,26,EUR9.00m,Germany,VfB Stuttgart,Bundesliga,EUR4.00m
+Robert Renan,Centre-Back,20,EUR9.00m,Brazil,Al-Shabab,Saudi Pro League,Loan fee:EUR3.00m
+Veljko Birmancevic,Left Winger,26,EUR9.00m,Serbia,Sparta Prague,Chance Liga,EUR2.30m
+Charlie Patino,Central Midfield,20,EUR9.00m,England,Dep. La Coruna,LaLiga2,EUR1.20m
+Samuel Gigot,Centre-Back,30,EUR9.00m,France,Lazio,Serie A,Loan fee:EUR500k
+Hakim Ziyech,Right Winger,31,EUR9.00m,Morocco,Galatasaray,Super Lig,free transfer
+Frank Onyeka,Central Midfield,26,EUR9.00m,Nigeria,FC Augsburg,Bundesliga,loan transfer
+Maxwel Cornet,Left Winger,27,EUR9.00m,Cote d'Ivoire,Southampton,Premier League,loan transfer
+Jonathan Rowe,Left Winger,21,EUR9.00m,England,Marseille,Ligue 1,loan transfer
+Scott McKenna,Centre-Back,27,EUR9.00m,Scotland,UD Las Palmas,LaLiga,free transfer
+Bertrand Traore,Right Winger,28,EUR9.00m,Burkina Faso,Ajax,Eredivisie,free transfer
+Alejo Veliz,Centre-Forward,20,EUR9.00m,Argentina,Espanyol,LaLiga,loan transfer
+Juan Miranda,Left-Back,24,EUR9.00m,Spain,Bologna,Serie A,free transfer
+Maximo Perrone,Defensive Midfield,21,EUR9.00m,Argentina,Como,Serie A,loan transfer
+Matheus Henrique,Central Midfield,26,EUR8.50m,Brazil,Cruzeiro,Serie A,EUR8.50m
+Osame Sahraoui,Left Winger,23,EUR8.50m,Morocco,LOSC Lille,Ligue 1,EUR8.00m
+In-beom Hwang,Central Midfield,27,EUR8.50m,"Korea, South",Feyenoord,Eredivisie,EUR7.00m
+Todd Cantwell,Attacking Midfield,26,EUR8.50m,England,Blackburn,Championship,EUR590k
+Michy Batshuayi,Centre-Forward,30,EUR8.50m,Belgium,Galatasaray,Super Lig,free transfer
+Nicolas Pepe,Right Winger,29,EUR8.50m,Cote d'Ivoire,Villarreal,LaLiga,free transfer
+Mahmoud Trezeguet,Left Winger,29,EUR8.50m,Egypt,Al-Rayyan SC,Stars League,loan transfer
+Liam Delap,Centre-Forward,21,EUR8.00m,England,Ipswich,Premier League,EUR17.85m
+Mateus Fernandes,Central Midfield,20,EUR8.00m,Portugal,Southampton,Premier League,EUR15.00m
+Caleb Okoli,Centre-Back,22,EUR8.00m,Italy,Leicester,Premier League,EUR14.00m
+Josep Martinez,Goalkeeper,26,EUR8.00m,Spain,Inter,Serie A,EUR13.50m
+Joe Rodon,Centre-Back,26,EUR8.00m,Wales,Leeds,Championship,EUR11.80m
+Konstantinos Koulierakis,Centre-Back,20,EUR8.00m,Greece,VfL Wolfsburg,Bundesliga,EUR11.75m
+Sebastian Nanasi,Left Midfield,22,EUR8.00m,Sweden,R. Strasbourg,Ligue 1,EUR11.00m
+Luciano Rodriguez,Centre-Forward,21,EUR8.00m,Uruguay,EC Bahia,Serie A,EUR11.00m
+Rafa Mujica,Centre-Forward,25,EUR8.00m,Spain,Al-Sadd SC,Stars League,EUR10.00m
+Julian Araujo,Right-Back,23,EUR8.00m,Mexico,Bournemouth,Premier League,EUR10.00m
+Chiedozie Ogbene,Right Winger,27,EUR8.00m,Ireland,Ipswich,Premier League,EUR9.50m
+Georgios Giakoumakis,Centre-Forward,29,EUR8.00m,Greece,CD Cruz Azul,Liga MX Apertura,EUR9.33m
+Alexsander,Defensive Midfield,20,EUR8.00m,Brazil,Al-Ahli,Saudi Pro League,EUR9.00m
+Ben Brereton Diaz,Centre-Forward,25,EUR8.00m,Chile,Southampton,Premier League,EUR8.30m
+Loum Tchaouna,Right Winger,20,EUR8.00m,France,Lazio,Serie A,EUR10.00m
+Duvan Zapata,Centre-Forward,33,EUR8.00m,Colombia,Torino,Serie A,EUR8.60m
+Saul Coco,Centre-Back,25,EUR8.00m,Equatorial Guinea,Torino,Serie A,EUR7.50m
+Pascal Gross,Central Midfield,33,EUR8.00m,Germany,Bor. Dortmund,Bundesliga,EUR7.00m
+Leo Ostigard,Centre-Back,24,EUR8.00m,Norway,Stade Rennais,Ligue 1,EUR7.00m
+Agustin Giay,Right Midfield,20,EUR8.00m,Argentina,Palmeiras,Serie A,EUR7.00m
+Ross Barkley,Central Midfield,30,EUR8.00m,England,Aston Villa,Premier League,EUR5.90m
+Angelino,Left-Back,27,EUR8.00m,Spain,AS Roma,Serie A,EUR5.20m
+Tom Rothe,Left-Back,19,EUR8.00m,Germany,Union Berlin,Bundesliga,EUR5.00m
+Danilo Pereira,Defensive Midfield,32,EUR8.00m,Portugal,Al-Ittihad,Saudi Pro League,EUR5.00m
+Sardar Azmoun,Centre-Forward,29,EUR8.00m,Iran,Shabab Al-Ahli,UAE Pro League,EUR5.00m
+Morgan Sanson,Central Midfield,29,EUR8.00m,France,OGC Nice,Ligue 1,EUR4.00m
+Matheus Saldanha,Centre-Forward,25,EUR8.00m,Brazil,Ferencvaros,NB I.,EUR3.00m
+Carlos Forbs,Left Winger,20,EUR8.00m,Portugal,Wolves,Premier League,Loan fee:EUR2.50m
+Jordan Lotomba,Right-Back,25,EUR8.00m,Switzerland,Feyenoord,Eredivisie,EUR2.20m
+Junior Alonso,Centre-Back,31,EUR8.00m,Paraguay,Atletico-MG,Serie A,EUR1.10m
+Ismail Jakobs,Left-Back,25,EUR8.00m,Senegal,Galatasaray,Super Lig,Loan fee:EUR1.00m
+Fabian Rieder,Attacking Midfield,22,EUR8.00m,Switzerland,VfB Stuttgart,Bundesliga,Loan fee:EUR800k
+Warmed Omari,Centre-Back,24,EUR8.00m,Comoros,Olympique Lyon,Ligue 1,Loan fee:EUR500k
+Samuel Edozie,Left Winger,21,EUR8.00m,England,RSC Anderlecht,Jupiler Pro League,loan transfer
+Naouirou Ahamada,Central Midfield,22,EUR8.00m,France,Stade Rennais,Ligue 1,loan transfer
+Salis Abdul Samed,Defensive Midfield,24,EUR8.00m,Ghana,Sunderland,Championship,loan transfer
+Harry Souttar,Centre-Back,25,EUR8.00m,Australia,Sheff Utd,Championship,loan transfer
+Tanguy Ndombele,Central Midfield,27,EUR8.00m,France,OGC Nice,Ligue 1,free transfer
+Ben Johnson,Right-Back,24,EUR8.00m,England,Ipswich,Premier League,free transfer
+Felipe Anderson,Left Winger,31,EUR8.00m,Brazil,Palmeiras,Serie A,free transfer
+Manu Sanchez,Left-Back,23,EUR8.00m,Spain,Alaves,LaLiga,loan transfer
+Paul Wanner,Attacking Midfield,18,EUR8.00m,Germany,Heidenheim,Bundesliga,loan transfer
+Vitao,Centre-Back,24,EUR8.00m,Brazil,Internacional,Serie A,free transfer
+Maxi Araujo,Left Winger,24,EUR7.50m,Uruguay,Sporting CP,Liga Portugal,EUR13.60m
+Rafa Marin,Centre-Back,22,EUR7.50m,Spain,SSC Napoli,Serie A,EUR12.00m
+Aleksandr Sobolev,Centre-Forward,27,EUR7.50m,Russia,Zenit S-Pb,Premier Liga,EUR10.00m
+Enzo Barrenechea,Defensive Midfield,23,EUR7.50m,Argentina,Aston Villa,Premier League,EUR8.00m
+Javi Lopez,Left-Back,22,EUR7.50m,Spain,Real Sociedad,LaLiga,EUR6.50m
+Julien De Sart,Defensive Midfield,29,EUR7.50m,Belgium,Al-Rayyan SC,Stars League,EUR6.50m
+Marc Guiu,Centre-Forward,18,EUR7.50m,Spain,Chelsea,Premier League,EUR6.00m
+Joe Worrall,Centre-Back,27,EUR7.50m,England,Burnley,Championship,EUR5.90m
+Moritz Jenz,Centre-Back,25,EUR7.50m,Germany,1.FSV Mainz 05,Bundesliga,Loan fee:EUR250k
+Saul Niguez,Central Midfield,29,EUR7.50m,Spain,Sevilla FC,LaLiga,loan transfer
+Borna Sosa,Left-Back,26,EUR7.50m,Croatia,Torino,Serie A,loan transfer
+Philippe Coutinho,Attacking Midfield,32,EUR7.50m,Brazil,Vasco da Gama,Serie A,loan transfer
+Enzo Barrenechea,Defensive Midfield,23,EUR7.50m,Argentina,Valencia,LaLiga,loan transfer
+Ismael Gharbi,Attacking Midfield,20,EUR7.50m,Spain,SC Braga,Liga Portugal,free transfer
+Abdallah Sima,Right Winger,23,EUR7.50m,Senegal,Stade Brestois,Ligue 1,loan transfer
+Maxime Lopez,Defensive Midfield,26,EUR7.50m,France,Paris FC,Ligue 2,free transfer
+Odysseas Vlachodimos,Goalkeeper,30,EUR7.00m,Greece,Newcastle,Premier League,EUR23.60m
+Omari Hutchinson,Right Winger,20,EUR7.00m,England,Ipswich,Premier League,EUR23.50m
+Marin Pongracic,Centre-Back,26,EUR7.00m,Croatia,Fiorentina,Serie A,EUR15.00m
+Dara O'Shea,Centre-Back,25,EUR7.00m,Ireland,Ipswich,Premier League,EUR14.20m
+Maxime Esteve,Centre-Back,22,EUR7.00m,France,Burnley,Championship,EUR12.00m
+Sammie Szmodics,Attacking Midfield,28,EUR7.00m,Ireland,Ipswich,Premier League,EUR10.60m
+Matheus Martins,Left Winger,21,EUR7.00m,Brazil,Botafogo,Serie A,EUR10.00m
+Nicolo Cambiaghi,Second Striker,23,EUR7.00m,Italy,Bologna,Serie A,EUR10.00m
+Arijanet Muric,Goalkeeper,25,EUR7.00m,Kosovo,Ipswich,Premier League,EUR9.55m
+Ryan Flamingo,Centre-Back,21,EUR7.00m,Netherlands,PSV Eindhoven,Eredivisie,EUR9.00m
+Valentin Gendrey,Right-Back,24,EUR7.00m,France,TSG Hoffenheim,Bundesliga,EUR8.50m
+Abner,Left-Back,24,EUR7.00m,Brazil,Olympique Lyon,Ligue 1,EUR8.00m
+Paulinho,Centre-Forward,31,EUR7.00m,Portugal,Toluca,Liga MX Apertura,EUR7.75m
+Auston Trusty,Centre-Back,26,EUR7.00m,United States,Celtic,Premiership,EUR7.10m
+Adamo Nagalo,Centre-Back,21,EUR7.00m,Burkina Faso,PSV Eindhoven,Eredivisie,EUR7.00m
+Unai Nunez,Centre-Back,27,EUR7.00m,Spain,Celta de Vigo,LaLiga,EUR7.00m
+Osman Bukari,Right Winger,25,EUR7.00m,Ghana,Austin,MLS,EUR7.00m
+Alvaro Carreras,Left-Back,21,EUR7.00m,Spain,Benfica,Liga Portugal,EUR6.00m
+Guela Doue,Right-Back,21,EUR7.00m,Cote d'Ivoire,R. Strasbourg,Ligue 1,EUR6.00m
+Tanner Tessmann,Defensive Midfield,22,EUR7.00m,United States,Olympique Lyon,Ligue 1,EUR6.00m
+Florinel Coman,Left Winger,26,EUR7.00m,Romania,Al-Gharafa SC,Stars League,EUR5.25m
+Matheus Pereira,Attacking Midfield,28,EUR7.00m,Brazil,Cruzeiro,Serie A,EUR5.00m
+Patrick Osterhage,Central Midfield,24,EUR7.00m,Germany,SC Freiburg,Bundesliga,EUR4.80m
+Mika Biereth,Centre-Forward,21,EUR7.00m,Denmark,Sturm Graz,Bundesliga,EUR4.70m
+Brian Aguirre,Left Winger,21,EUR7.00m,Argentina,Boca Juniors,Liga Profesional,EUR4.60m
+Fabricio Bustos,Right-Back,28,EUR7.00m,Argentina,River Plate,Liga Profesional,EUR4.10m
+Ayoze Perez,Left Winger,31,EUR7.00m,Spain,Villarreal,LaLiga,EUR4.00m
+Matias Galarza,Defensive Midfield,22,EUR7.00m,Argentina,CA Talleres,Liga Profesional,EUR3.60m
+Duje Caleta-Car,Centre-Back,27,EUR7.00m,Croatia,Olympique Lyon,Ligue 1,EUR3.59m
+Diego Llorente,Centre-Back,30,EUR7.00m,Spain,Real Betis,LaLiga,EUR3.25m
+Anthony Rouault,Centre-Back,23,EUR7.00m,France,VfB Stuttgart,Bundesliga,EUR3.00m
+Matias Arezo,Centre-Forward,21,EUR7.00m,Uruguay,Gremio,Serie A,EUR3.00m
+Ryan Flamingo,Centre-Back,21,EUR7.00m,Netherlands,FC Utrecht,Eredivisie,EUR2.75m
+Vaclav Cerny,Right Winger,26,EUR7.00m,Czech Republic,Rangers,Premiership,Loan fee:EUR1.50m
+Martin Satriano,Centre-Forward,23,EUR7.00m,Uruguay,Lens,Ligue 1,Loan fee:EUR1.00m
+Felix Uduokhai,Centre-Back,26,EUR7.00m,Germany,Besiktas,Super Lig,Loan fee:EUR500k
+Leander Dendoncker,Defensive Midfield,29,EUR7.00m,Belgium,RSC Anderlecht,Jupiler Pro League,loan transfer
+Chrislain Matsima,Centre-Back,22,EUR7.00m,France,FC Augsburg,Bundesliga,loan transfer
+Gaetano Castrovilli,Central Midfield,27,EUR7.00m,Italy,Lazio,Serie A,free transfer
+Isaak Toure,Centre-Back,21,EUR7.00m,France,Udinese Calcio,Serie A,loan transfer
+Kayky,Right Winger,21,EUR7.00m,Brazil,Sparta R.,Eredivisie,loan transfer
+Jose Cifuentes,Central Midfield,25,EUR7.00m,Ecuador,Aris Saloniki,Super League 1,loan transfer
+Michael,Left Winger,28,EUR7.00m,Brazil,Flamengo,Serie A,free transfer
+Unai Nunez,Centre-Back,27,EUR7.00m,Spain,Athletic,LaLiga,loan transfer
+M'Bala Nzola,Centre-Forward,27,EUR7.00m,Angola,Lens,Ligue 1,loan transfer
+Matt Turner,Goalkeeper,30,EUR7.00m,United States,Crystal Palace,Premier League,loan transfer
+Jeremy Sarmiento,Left Winger,22,EUR7.00m,Ecuador,Burnley,Championship,loan transfer
+Stefano Turati,Goalkeeper,22,EUR7.00m,Italy,Monza,Serie A,loan transfer
+Viktor Djukanovic,Left Winger,20,EUR7.00m,Montenegro,Standard Liege,Jupiler Pro League,loan transfer
+Uriel Antuna,Right Winger,27,EUR6.50m,Mexico,Tigres UANL,Liga MX Apertura,EUR7.21m
+Kristijan Jakic,Defensive Midfield,27,EUR6.50m,Croatia,FC Augsburg,Bundesliga,EUR5.00m
+Remo Freuler,Central Midfield,32,EUR6.50m,Switzerland,Bologna,Serie A,EUR4.50m
+Damian Pizarro,Centre-Forward,19,EUR6.50m,Chile,Udinese Calcio,Serie A,EUR3.50m
+Tarik Tissoudali,Centre-Forward,31,EUR6.50m,Morocco,PAOK Salonika,Super League 1,EUR2.20m
+Filip Kostic,Left Midfield,31,EUR6.50m,Serbia,Fenerbahce,Super Lig,loan transfer
+Amir Hadziahmetovic,Defensive Midfield,27,EUR6.50m,Bosnia-Herzegovina,C. Rizespor,Super Lig,loan transfer
+Mitchel Bakker,Left-Back,24,EUR6.50m,Netherlands,LOSC Lille,Ligue 1,loan transfer
+Marcus Ingvartsen,Centre-Forward,28,EUR6.50m,Denmark,San Diego FC,N/A,?
+Sekou Mara,Centre-Forward,22,EUR6.00m,France,R. Strasbourg,Ligue 1,EUR12.00m
+Luiz Junior,Goalkeeper,23,EUR6.00m,Brazil,Villarreal,LaLiga,EUR12.00m
+Bamo Meite,Centre-Back,22,EUR6.00m,Cote d'Ivoire,Marseille,Ligue 1,EUR10.50m
+Glen Kamara,Central Midfield,28,EUR6.00m,Finland,Stade Rennais,Ligue 1,EUR10.00m
+Matthis Abline,Centre-Forward,21,EUR6.00m,France,FC Nantes,Ligue 1,EUR10.00m
+Amir Richardson,Central Midfield,22,EUR6.00m,Morocco,Fiorentina,Serie A,EUR9.00m
+Walace,Defensive Midfield,29,EUR6.00m,Brazil,Cruzeiro,Serie A,EUR8.00m
+Tim Kleindienst,Centre-Forward,28,EUR6.00m,Germany,Bor. M'gladbach,Bundesliga,EUR7.00m
+Jorge Cuenca,Centre-Back,24,EUR6.00m,Spain,Fulham,Premier League,EUR6.70m
+Gustaf Nilsson,Centre-Forward,27,EUR6.00m,Sweden,Club Brugge,Jupiler Pro League,EUR6.40m
+Luis Romo,Defensive Midfield,29,EUR6.00m,Mexico,CD Cruz Azul,Liga MX Apertura,EUR6.50m
+Cristo,Second Striker,26,EUR6.00m,Spain,Al-Sadd SC,Stars League,EUR6.00m
+Ardon Jashari,Defensive Midfield,21,EUR6.00m,Switzerland,Club Brugge,Jupiler Pro League,EUR6.00m
+Zaid Romero,Centre-Back,24,EUR6.00m,Argentina,Club Brugge,Jupiler Pro League,EUR6.00m
+Francisco Moura,Left-Back,25,EUR6.00m,Portugal,FC Porto,Liga Portugal,EUR5.00m
+Gabriel Strefezza,Right Winger,27,EUR6.00m,Brazil,Como,Serie A,EUR5.00m
+Vladan Kovacevic,Goalkeeper,26,EUR6.00m,Bosnia-Herzegovina,Sporting CP,Liga Portugal,EUR4.80m
+Aissa Laidouni,Central Midfield,27,EUR6.00m,Tunisia,Al-Wakrah SC,Stars League,EUR4.50m
+Adam Bareiro,Centre-Forward,27,EUR6.00m,Paraguay,River Plate,Liga Profesional,EUR4.15m
+Lucien Agoume,Defensive Midfield,22,EUR6.00m,France,Sevilla FC,LaLiga,EUR4.00m
+Muhammed Cham,Attacking Midfield,23,EUR6.00m,Austria,Trabzonspor,Super Lig,EUR4.00m
+Kristoffer Velde,Left Winger,24,EUR6.00m,Norway,Olympiacos,Super League 1,EUR4.00m
+Adam Buksa,Centre-Forward,27,EUR6.00m,Poland,FC Midtjylland,Superliga,EUR4.00m
+Thiago Maia,Defensive Midfield,27,EUR6.00m,Brazil,Internacional,Serie A,EUR4.00m
+Gonzalo Plata,Right Winger,23,EUR6.00m,Ecuador,Flamengo,Serie A,EUR3.80m
+Rade Krunic,Defensive Midfield,30,EUR6.00m,Bosnia-Herzegovina,Fenerbahce,Super Lig,EUR3.50m
+Mark McKenzie,Centre-Back,25,EUR6.00m,United States,Toulouse,Ligue 1,EUR3.00m
+Filip Marchwinski,Attacking Midfield,22,EUR6.00m,Poland,Lecce,Serie A,EUR3.00m
+Keven Schlotterbeck,Centre-Back,27,EUR6.00m,Germany,FC Augsburg,Bundesliga,EUR2.50m
+Wout Weghorst,Centre-Forward,32,EUR6.00m,Netherlands,Ajax,Eredivisie,EUR2.38m
+Nicolas Fernandez,Centre-Forward,28,EUR6.00m,Argentina,Belgrano,Liga Profesional,EUR2.29m
+Roko Simic,Centre-Forward,20,EUR6.00m,Croatia,Cardiff,Championship,EUR2.00m
+Rodrigo Huescas,Right-Back,20,EUR6.00m,Mexico,FC Copenhagen,Superliga,EUR1.85m
+Robert Navarro,Attacking Midfield,22,EUR6.00m,Spain,RCD Mallorca,LaLiga,EUR850k
+Mahmoud Dahoud,Central Midfield,28,EUR6.00m,Syria,E. Frankfurt,Bundesliga,free transfer
+Thomas Foket,Right-Back,29,EUR6.00m,Belgium,RSC Anderlecht,Jupiler Pro League,free transfer
+Ibrahima Sissoko,Defensive Midfield,26,EUR6.00m,Mali,VfL Bochum,Bundesliga,free transfer
+Derrick Kohn,Left-Back,25,EUR6.00m,Germany,Werder Bremen,Bundesliga,loan transfer
+Rade Krunic,Defensive Midfield,30,EUR6.00m,Bosnia-Herzegovina,Red Star,Super liga Srbije,free transfer
+Steve Mounie,Centre-Forward,29,EUR6.00m,Benin,FC Augsburg,Bundesliga,free transfer
+Talles Magno,Left Winger,22,EUR6.00m,Brazil,Corinthians,Serie A,loan transfer
+Gijs Smal,Left-Back,26,EUR6.00m,Netherlands,Feyenoord,Eredivisie,free transfer
+Julian Carranza,Centre-Forward,24,EUR6.00m,Argentina,Feyenoord,Eredivisie,free transfer
+Hugo Bueno,Left-Back,21,EUR6.00m,Spain,Feyenoord,Eredivisie,loan transfer
+Nemanja Maksimovic,Central Midfield,29,EUR6.00m,Serbia,Panathinaikos,Super League 1,free transfer
+Flavius Daniliuc,Centre-Back,23,EUR6.00m,Austria,Hellas Verona,Serie A,loan transfer
+Chris Mepham,Centre-Back,26,EUR6.00m,Wales,Sunderland,Championship,loan transfer
+Anton Miranchuk,Attacking Midfield,28,EUR6.00m,Russia,FC Sion,Super League,free transfer
+Chidera Ejuke,Left Winger,26,EUR6.00m,Nigeria,Sevilla FC,LaLiga,free transfer
+Nicolas Valentini,Centre-Back,23,EUR6.00m,Argentina,Fiorentina,Serie A,free transfer
+Alex Telles,Left-Back,31,EUR6.00m,Brazil,Botafogo,Serie A,free transfer
+Roko Simic,Centre-Forward,20,EUR6.00m,Croatia,KV Kortrijk,Jupiler Pro League,loan transfer
+Walid Cheddira,Centre-Forward,26,EUR6.00m,Morocco,Espanyol,LaLiga,loan transfer
+Lorenzo Colombo,Centre-Forward,22,EUR6.00m,Italy,FC Empoli,Serie A,loan transfer
+Johann Lepenant,Defensive Midfield,21,EUR6.00m,France,FC Nantes,Ligue 1,loan transfer
+Festy Ebosele,Right-Back,22,EUR6.00m,Ireland,Watford,Championship,loan transfer
+Pape Gueye,Defensive Midfield,25,EUR6.00m,Senegal,Villarreal,LaLiga,free transfer
+Sergi Cardona,Left-Back,25,EUR6.00m,Spain,Villarreal,LaLiga,free transfer
+Mady Camara,Central Midfield,27,EUR6.00m,Guinea,PAOK Salonika,Super League 1,free transfer
+Jaidon Anthony,Left Winger,24,EUR6.00m,England,Burnley,Championship,loan transfer
+Gianluca Gaetano,Attacking Midfield,24,EUR6.00m,Italy,Cagliari Calcio,Serie A,loan transfer
+Oliver Torres,Central Midfield,29,EUR6.00m,Spain,Monterrey,Liga MX Apertura,free transfer
+Soumaila Coulibaly,Centre-Back,20,EUR6.00m,France,Stade Brestois,Ligue 1,loan transfer
+Sofiane Boufal,Left Winger,30,EUR6.00m,Morocco,Union SG,Jupiler Pro League,free transfer
+Berat Ozdemir,Defensive Midfield,26,EUR6.00m,Türkiye,Basaksehir,Super Lig,loan transfer
+Koen Casteels,Goalkeeper,32,EUR6.00m,Belgium,Al-Qadsiah,Saudi Pro League,free transfer
+Elias Jelert,Right-Back,21,EUR5.50m,Denmark,Galatasaray,Super Lig,EUR9.00m
+Benja Dominguez,Left Winger,20,EUR5.50m,Argentina,Bologna,Serie A,EUR4.00m
+Lorenzo Pirola,Centre-Back,22,EUR5.50m,Italy,Olympiacos,Super League 1,EUR3.00m
+Diogo Goncalves,Central Midfield,27,EUR5.50m,Portugal,Salt Lake,MLS,EUR3.00m
+Marcus Pedersen,Right-Back,24,EUR5.50m,Norway,Torino,Serie A,Loan fee:EUR1.00m
+Danilo Cataldi,Defensive Midfield,30,EUR5.50m,Italy,Fiorentina,Serie A,loan transfer
+Carlos Junior,Right Winger,29,EUR5.50m,Brazil,NEOM SC,Saudi First Division League,loan transfer
+Orri Oskarsson,Centre-Forward,20,EUR5.00m,Iceland,Real Sociedad,LaLiga,EUR20.00m
+Caleb Wiley,Left-Back,19,EUR5.00m,United States,Chelsea,Premier League,EUR10.10m
+Carlos Andres Gomez,Right Winger,21,EUR5.00m,Colombia,Stade Rennais,Ligue 1,EUR10.00m
+Willy Kambwala,Centre-Back,19,EUR5.00m,France,Villarreal,LaLiga,EUR10.00m
+Ezequiel Ponce,Centre-Forward,27,EUR5.00m,Argentina,Houston,MLS,EUR9.00m
+Pierre-Emerick Aubameyang,Centre-Forward,35,EUR5.00m,Gabon,Al-Qadsiah,Saudi Pro League,EUR9.00m
+Luis Maximiano,Goalkeeper,25,EUR5.00m,Portugal,UD Almeria,LaLiga2,EUR8.10m
+Robin Hranac,Centre-Back,24,EUR5.00m,Czech Republic,TSG Hoffenheim,Bundesliga,EUR8.00m
+Alberto Dossena,Centre-Back,25,EUR5.00m,Italy,Como,Serie A,EUR8.00m
+Felix Lemarechal,Attacking Midfield,21,EUR5.00m,France,R. Strasbourg,Ligue 1,EUR6.00m
+Emil Audero,Goalkeeper,27,EUR5.00m,Italy,Como,Serie A,EUR6.00m
+Marko Stamenic,Defensive Midfield,22,EUR5.00m,New Zealand,Nottm Forest,Premier League,EUR5.50m
+Vitinho,Right-Back,25,EUR5.00m,Brazil,Botafogo,Serie A,EUR8.00m
+Largie Ramazani,Left Winger,23,EUR5.00m,Belgium,Leeds,Championship,EUR7.70m
+Malick Yalcouye,Central Midfield,18,EUR5.00m,Mali,Brighton,Premier League,EUR7.00m
+Anan Khalaili,Right Winger,19,EUR5.00m,Israel,Union SG,Jupiler Pro League,EUR6.50m
+Suat Serdar,Central Midfield,27,EUR5.00m,Germany,Hellas Verona,Serie A,EUR4.50m
+Andrea Belotti,Centre-Forward,30,EUR5.00m,Italy,Como,Serie A,EUR4.50m
+Amankwah Forson,Central Midfield,21,EUR5.00m,Ghana,Norwich,Championship,EUR4.50m
+Geronimo Rulli,Goalkeeper,32,EUR5.00m,Argentina,Marseille,Ligue 1,EUR4.00m
+Jeremy Le Douaron,Left Winger,26,EUR5.00m,France,Palermo,Serie B,EUR4.00m
+Kamory Doumbia,Attacking Midfield,21,EUR5.00m,Mali,Stade Brestois,Ligue 1,EUR4.00m
+Enzo Copetti,Centre-Forward,28,EUR5.00m,Argentina,Rosario Central,Liga Profesional,EUR3.96m
+Monchu,Central Midfield,24,EUR5.00m,Spain,Aris Saloniki,Super League 1,EUR3.60m
+Aboubakary Koita,Left Winger,25,EUR5.00m,Mauritania,AEK Athens,Super League 1,EUR3.60m
+Tomas Belmonte,Defensive Midfield,26,EUR5.00m,Argentina,Boca Juniors,Liga Profesional,EUR3.55m
+Romain Perraud,Left-Back,26,EUR5.00m,France,Real Betis,LaLiga,EUR3.50m
+Hayao Kawabe,Central Midfield,28,EUR5.00m,Japan,Sanf. Hiroshima,J1 League,EUR3.50m
+Alexander Aravena,Left Winger,21,EUR5.00m,Chile,Gremio,Serie A,EUR3.20m
+Jan-Carlo Simic,Centre-Back,19,EUR5.00m,Serbia,RSC Anderlecht,Jupiler Pro League,EUR3.00m
+Leopold Querfeld,Centre-Back,20,EUR5.00m,Austria,Union Berlin,Bundesliga,EUR3.00m
+Laszlo Benes,Central Midfield,26,EUR5.00m,Slovakia,Union Berlin,Bundesliga,EUR3.00m
+Mathias Delorge,Central Midfield,19,EUR5.00m,Belgium,KAA Gent,Jupiler Pro League,EUR3.00m
+Hugo Siquet,Right-Back,22,EUR5.00m,Belgium,Club Brugge,Jupiler Pro League,EUR3.00m
+Alan Cervantes,Defensive Midfield,26,EUR5.00m,Mexico,America,Liga MX Apertura,EUR3.00m
+Jan Kuchta,Centre-Forward,27,EUR5.00m,Czech Republic,FC Midtjylland,Superliga,EUR2.70m
+Conan Ledesma,Goalkeeper,31,EUR5.00m,Argentina,River Plate,Liga Profesional,EUR2.60m
+Oleksandr Pikhalyonok,Central Midfield,27,EUR5.00m,Ukraine,Dynamo Kyiv,Premier Liga,EUR2.50m
+Serdar Saatci,Centre-Back,21,EUR5.00m,Türkiye,Trabzonspor,Super Lig,EUR2.50m
+Alhassan Yusuf,Central Midfield,24,EUR5.00m,Nigeria,New England,MLS,EUR2.30m
+Matte Smets,Centre-Back,20,EUR5.00m,Belgium,KRC Genk,Jupiler Pro League,EUR2.25m
+Leonidas Stergiou,Centre-Back,22,EUR5.00m,Switzerland,VfB Stuttgart,Bundesliga,EUR2.00m
+Willian Jose,Centre-Forward,32,EUR5.00m,Brazil,Spartak Moscow,Premier Liga,EUR2.00m
+Sam Lammers,Centre-Forward,27,EUR5.00m,Netherlands,Twente FC,Eredivisie,EUR2.00m
+Toni Martinez,Centre-Forward,27,EUR5.00m,Spain,Alaves,LaLiga,EUR2.00m
+Ivan Sergeev,Centre-Forward,29,EUR5.00m,Russia,KS Samara,Premier Liga,EUR2.00m
+Juan Musso,Goalkeeper,30,EUR5.00m,Argentina,Atletico Madrid,LaLiga,Loan fee:EUR1.50m
+Joselu,Centre-Forward,34,EUR5.00m,Spain,Real Madrid,LaLiga,EUR1.50m
+Joselu,Centre-Forward,34,EUR5.00m,Spain,Al-Gharafa SC,Stars League,EUR1.50m
+Denis Vavro,Centre-Back,28,EUR5.00m,Slovakia,VfL Wolfsburg,Bundesliga,Loan fee:EUR750k
+Donny van de Beek,Central Midfield,27,EUR5.00m,Netherlands,Girona,LaLiga,EUR500k
+Felipe Carballo,Central Midfield,27,EUR5.00m,Uruguay,New York,MLS,Loan fee:EUR455k
+Kevin Stoger,Attacking Midfield,30,EUR5.00m,Austria,Bor. M'gladbach,Bundesliga,free transfer
+Yannik Keitel,Defensive Midfield,24,EUR5.00m,Germany,VfB Stuttgart,Bundesliga,free transfer
+Dani de Wit,Attacking Midfield,26,EUR5.00m,Netherlands,VfL Bochum,Bundesliga,free transfer
+Myron Boadu,Centre-Forward,23,EUR5.00m,Netherlands,VfL Bochum,Bundesliga,loan transfer
+Alex Kral,Defensive Midfield,26,EUR5.00m,Czech Republic,Union Berlin,Bundesliga,free transfer
+Malick Yalcouye,Central Midfield,18,EUR5.00m,Mali,Sturm Graz,Bundesliga,loan transfer
+Leo Sauer,Left Winger,18,EUR5.00m,Slovakia,NAC Breda,Eredivisie,loan transfer
+Alessandro Zanoli,Right-Back,23,EUR5.00m,Italy,Genoa,Serie A,loan transfer
+Casper Tengstedt,Centre-Forward,24,EUR5.00m,Denmark,Hellas Verona,Serie A,loan transfer
+Domagoj Bradaric,Left-Back,24,EUR5.00m,Croatia,Hellas Verona,Serie A,loan transfer
+Alfie Gilchrist,Centre-Back,20,EUR5.00m,England,Sheff Utd,Championship,loan transfer
+Zinho Vanheusden,Centre-Back,24,EUR5.00m,Belgium,KV Mechelen,Jupiler Pro League,loan transfer
+Augusto Batalla,Goalkeeper,28,EUR5.00m,Argentina,Rayo Vallecano,LaLiga,loan transfer
+James Rodriguez,Attacking Midfield,33,EUR5.00m,Colombia,Rayo Vallecano,LaLiga,free transfer
+Rick Karsdorp,Right-Back,29,EUR5.00m,Netherlands,PSV Eindhoven,Eredivisie,free transfer
+John Lundstram,Defensive Midfield,30,EUR5.00m,England,Trabzonspor,Super Lig,free transfer
+Andoni Gorosabel,Right-Back,27,EUR5.00m,Spain,Athletic,LaLiga,free transfer
+Caleb Wiley,Left-Back,19,EUR5.00m,United States,R. Strasbourg,Ligue 1,loan transfer
+Marko Stamenic,Defensive Midfield,22,EUR5.00m,New Zealand,Olympiacos,Super League 1,loan transfer
+Alex Kral,Defensive Midfield,26,EUR5.00m,Czech Republic,Espanyol,LaLiga,loan transfer
+Sebastiano Esposito,Centre-Forward,22,EUR5.00m,Italy,FC Empoli,Serie A,loan transfer
+Mattia Viti,Centre-Back,22,EUR5.00m,Italy,FC Empoli,Serie A,loan transfer
+Borja Iglesias,Centre-Forward,31,EUR5.00m,Spain,Celta de Vigo,LaLiga,loan transfer
+Mason Holgate,Centre-Back,27,EUR5.00m,England,West Brom,Championship,loan transfer
+Bobby De Cordova-Reid,Right Winger,31,EUR5.00m,Jamaica,Leicester,Premier League,free transfer
+James Beadle,Goalkeeper,19,EUR5.00m,England,Sheff Wed,Championship,loan transfer
+Marco Reus,Attacking Midfield,35,EUR5.00m,Germany,LA Galaxy,MLS,free transfer
+Rafik Guitane,Right Winger,25,EUR5.00m,Algeria,SC Braga,Liga Portugal,loan transfer
+Luka Romero,Right Winger,19,EUR5.00m,Argentina,Alaves,LaLiga,loan transfer
+Renato Tapia,Defensive Midfield,29,EUR5.00m,Peru,CD Leganes,LaLiga,free transfer
+Aurelio Buta,Right-Back,27,EUR5.00m,Portugal,Stade Reims,Ligue 1,loan transfer
+Victor Hugo,Attacking Midfield,20,EUR5.00m,Brazil,Goztepe,Super Lig,loan transfer
+Iker Muniain,Attacking Midfield,31,EUR5.00m,Spain,San Lorenzo,Liga Profesional,free transfer
+Bruno Mendez,Centre-Back,24,EUR5.00m,Uruguay,Toluca,Liga MX Apertura,free transfer
+Federico Vinas,Centre-Forward,26,EUR5.00m,Uruguay,Real Oviedo,LaLiga2,loan transfer
+Kacper Kozlowski,Central Midfield,20,EUR5.00m,Poland,Gaziantep FK,Super Lig,?
+Connor Goldson,Centre-Back,31,EUR5.00m,England,Aris Limassol,Cyprus League,?
+Nahitan Nandez,Central Midfield,28,EUR5.00m,Uruguay,Al-Qadsiah,Saudi Pro League,free transfer
+Lewis O'Brien,Central Midfield,25,EUR5.00m,England,LAFC,MLS,loan transfer
+Jack Rudoni,Central Midfield,23,EUR4.80m,England,Coventry,Championship,EUR5.90m
+Matteo Cancellieri,Right Winger,22,EUR4.80m,Italy,Parma,Serie A,Loan fee:EUR1.20m
+Bashir Humphreys,Centre-Back,21,EUR4.80m,England,Burnley,Championship,loan transfer
+Moise Bombito,Centre-Back,24,EUR4.50m,Canada,OGC Nice,Ligue 1,EUR7.00m
+Fidel Ambriz,Defensive Midfield,21,EUR4.50m,Mexico,Monterrey,Liga MX Apertura,EUR6.67m
+Luca Langoni,Right Winger,22,EUR4.50m,Argentina,New England,MLS,EUR6.20m
+Giovanni Leoni,Centre-Back,17,EUR4.50m,Italy,Parma,Serie A,EUR5.00m
+Jordan James,Central Midfield,20,EUR4.50m,Wales,Stade Rennais,Ligue 1,EUR5.00m
+Sergey Volkov,Right-Back,21,EUR4.50m,Russia,Zenit S-Pb,Premier Liga,EUR5.00m
+Mark McGuinness,Centre-Back,23,EUR4.50m,Ireland,Luton,Championship,EUR11.70m
+Jurgen Ekkelenkamp,Attacking Midfield,24,EUR4.50m,Netherlands,Udinese Calcio,Serie A,EUR5.50m
+Ryan Giles,Left-Back,24,EUR4.50m,England,Hull City,Championship,EUR5.30m
+Fausto Vera,Defensive Midfield,24,EUR4.50m,Argentina,Atletico-MG,Serie A,EUR4.50m
+Jesper Daland,Centre-Back,24,EUR4.50m,Norway,Cardiff,Championship,EUR4.10m
+Nedim Bajrami,Attacking Midfield,25,EUR4.50m,Albania,Rangers,Premiership,EUR4.00m
+Jens Odgaard,Centre-Forward,25,EUR4.50m,Denmark,Bologna,Serie A,EUR4.00m
+Troy Parrott,Centre-Forward,22,EUR4.50m,Ireland,AZ Alkmaar,Eredivisie,EUR4.00m
+Aaron Quiros,Centre-Back,22,EUR4.50m,Argentina,Velez Sarsfield,Liga Profesional,EUR2.76m
+Nediljko Labrovic,Goalkeeper,24,EUR4.50m,Croatia,FC Augsburg,Bundesliga,EUR2.50m
+Joaquin Pereyra,Central Midfield,25,EUR4.50m,Argentina,Minnesota,MLS,EUR2.19m
+Brooke Norton-Cuffy,Right-Back,20,EUR4.50m,England,Genoa,Serie A,EUR2.00m
+Zan Celar,Centre-Forward,25,EUR4.50m,Slovenia,QPR,Championship,EUR2.00m
+Tomas Conechny,Left Winger,26,EUR4.50m,Argentina,Alaves,LaLiga,EUR2.00m
+Giovanni Leoni,Centre-Back,17,EUR4.50m,Italy,Sampdoria,Serie B,EUR1.50m
+Jean-Philippe Krasso,Centre-Forward,26,EUR4.50m,Cote d'Ivoire,Paris FC,Ligue 2,EUR1.50m
+DeJuan Jones,Left-Back,27,EUR4.50m,United States,Columbus,MLS,EUR550k
+Paxten Aaronson,Attacking Midfield,20,EUR4.50m,United States,FC Utrecht,Eredivisie,loan transfer
+Stijn Spierings,Defensive Midfield,28,EUR4.50m,Netherlands,Brondby IF,Superliga,free transfer
+Ki-Jana Hoever,Right-Back,22,EUR4.50m,Netherlands,AJ Auxerre,Ligue 1,loan transfer
+Sam Greenwood,Attacking Midfield,22,EUR4.50m,England,Preston,Championship,loan transfer
+Oli McBurnie,Centre-Forward,28,EUR4.50m,Scotland,UD Las Palmas,LaLiga,free transfer
+Antonio Raimondo,Centre-Forward,20,EUR4.50m,Italy,Venezia,Serie A,loan transfer
+Praxedes,Central Midfield,22,EUR4.50m,Brazil,Athletico-PR,Serie A,loan transfer
+Marash Kumbulla,Centre-Back,24,EUR4.50m,Albania,Espanyol,LaLiga,loan transfer
+Agustin Alvarez,Centre-Forward,23,EUR4.50m,Uruguay,Elche CF,LaLiga2,loan transfer
+Daniel Maldini,Attacking Midfield,22,EUR4.50m,Italy,Monza,Serie A,free transfer
+Rodrigo,Centre-Forward,33,EUR4.50m,Spain,Al-Gharafa SC,Stars League,loan transfer
+Antonin Barak,Attacking Midfield,29,EUR4.50m,Czech Republic,Kasimpasa,Super Lig,loan transfer
+Oguz Aydin,Right Winger,23,EUR4.30m,Türkiye,Fenerbahce,Super Lig,EUR6.00m
+Emirhan Topcu,Centre-Back,23,EUR4.30m,Türkiye,Besiktas,Super Lig,EUR3.40m
+Youcef Atal,Right-Back,28,EUR4.30m,Algeria,Al-Sadd SC,Stars League,free transfer
+Ricardo Gomes,Centre-Forward,32,EUR4.30m,Cape Verde,Al-Wakrah SC,Stars League,?
+Sorba Thomas,Right Winger,25,EUR4.20m,Wales,FC Nantes,Ligue 1,loan transfer
+Zian Flemming,Attacking Midfield,26,EUR4.20m,Netherlands,Burnley,Championship,loan transfer
+Thierno Barry,Centre-Forward,21,EUR4.00m,France,Villarreal,LaLiga,EUR14.00m
+Tim Iroegbunam,Central Midfield,21,EUR4.00m,England,Everton,Premier League,EUR10.70m
+Marko Arnautovic,Centre-Forward,35,EUR4.00m,Austria,Inter,Serie A,EUR8.00m
+Yannik Engelhardt,Defensive Midfield,23,EUR4.00m,Germany,Como,Serie A,EUR8.00m
+Ibrahim Sulemana,Defensive Midfield,21,EUR4.00m,Ghana,Atalanta BC,Serie A,EUR7.50m
+Kaio Jorge,Centre-Forward,22,EUR4.00m,Brazil,Cruzeiro,Serie A,EUR7.20m
+Mama Balde,Centre-Forward,28,EUR4.00m,Guinea-Bissau,Olympique Lyon,Ligue 1,EUR6.00m
+Jordan Ayew,Centre-Forward,32,EUR4.00m,Ghana,Leicester,Premier League,EUR5.90m
+Tommy Conway,Centre-Forward,22,EUR4.00m,Scotland,Middlesbrough,Championship,EUR5.30m
+Alex Jimenez,Left-Back,19,EUR4.00m,Spain,AC Milan,Serie A,EUR5.00m
+Mohamed Diomande,Central Midfield,22,EUR4.00m,Cote d'Ivoire,Rangers,Premiership,EUR5.00m
+Gabriel Pereira,Centre-Back,24,EUR4.00m,Brazil,FC Copenhagen,Superliga,EUR5.00m
+Marquinhos,Left Winger,24,EUR4.00m,Brazil,Spartak Moscow,Premier Liga,EUR5.00m
+Skelly Alvero,Central Midfield,22,EUR4.00m,France,Werder Bremen,Bundesliga,EUR4.75m
+Jesus Gallardo,Left-Back,29,EUR4.00m,Mexico,Toluca,Liga MX Apertura,EUR4.70m
+Benie Traore,Centre-Forward,21,EUR4.00m,Cote d'Ivoire,FC Basel,Super League,EUR4.50m
+Charlie Cresswell,Centre-Back,21,EUR4.00m,England,Toulouse,Ligue 1,EUR4.50m
+Mama Balde,Centre-Forward,28,EUR4.00m,Guinea-Bissau,Stade Brestois,Ligue 1,EUR4.50m
+Jhon Jhon,Attacking Midfield,21,EUR4.00m,Brazil,RB Bragantino,Serie A,EUR4.10m
+Mohamed Belloumi,Right Winger,22,EUR4.00m,Algeria,Hull City,Championship,EUR5.50m
+Felicio Milson,Left Winger,24,EUR4.00m,Angola,Red Star,Super liga Srbije,EUR5.00m
+Bojan Miovski,Centre-Forward,25,EUR4.00m,North Macedonia,Girona,LaLiga,EUR4.90m
+Stipe Biuk,Left Winger,21,EUR4.00m,Croatia,Real Valladolid,LaLiga,EUR4.00m
+Ao Tanaka,Central Midfield,25,EUR4.00m,Japan,Leeds,Championship,EUR4.00m
+Gaetano Oristanio,Attacking Midfield,21,EUR4.00m,Italy,Venezia,Serie A,EUR4.00m
+Carlos Miguel,Goalkeeper,25,EUR4.00m,Brazil,Nottm Forest,Premier League,EUR4.00m
+Wilson Isidor,Centre-Forward,23,EUR4.00m,France,Zenit S-Pb,Premier Liga,EUR4.00m
+Emin Bayram,Centre-Back,21,EUR4.00m,Türkiye,KVC Westerlo,Jupiler Pro League,EUR4.00m
+Couhaib Driouech,Left Winger,22,EUR4.00m,Morocco,PSV Eindhoven,Eredivisie,EUR3.50m
+Niklas Dorsch,Defensive Midfield,26,EUR4.00m,Germany,Heidenheim,Bundesliga,EUR3.50m
+Alejandro Frances,Centre-Back,21,EUR4.00m,Spain,Girona,LaLiga,EUR3.50m
+Sverrir Ingi Ingason,Centre-Back,30,EUR4.00m,Iceland,Panathinaikos,Super League 1,EUR3.08m
+Ramon Mierez,Centre-Forward,27,EUR4.00m,Argentina,Al-Jazira,UAE Pro League,EUR3.00m
+Kelvin Yeboah,Centre-Forward,24,EUR4.00m,Italy,Minnesota,MLS,EUR3.00m
+Juan Barinaga,Right-Back,23,EUR4.00m,Argentina,Boca Juniors,Liga Profesional,EUR2.85m
+Saud Abdulhamid,Right-Back,25,EUR4.00m,Saudi Arabia,AS Roma,Serie A,EUR2.50m
+Ricardo Mangas,Left-Back,26,EUR4.00m,Portugal,Spartak Moscow,Premier Liga,EUR2.50m
+Costinha,Right-Back,24,EUR4.00m,Portugal,Olympiacos,Super League 1,EUR2.50m
+Mattia Zanotti,Right-Back,21,EUR4.00m,Italy,FC Lugano,Super League,EUR2.50m
+Ciro Immobile,Centre-Forward,34,EUR4.00m,Italy,Besiktas,Super Lig,EUR2.00m
+Pedro Malheiro,Right-Back,23,EUR4.00m,Portugal,Trabzonspor,Super Lig,EUR2.00m
+Igor Lichnovsky,Centre-Back,30,EUR4.00m,Chile,America,Liga MX Apertura,EUR2.00m
+Maxi Meza,Right Winger,31,EUR4.00m,Argentina,River Plate,Liga Profesional,EUR1.80m
+Denis Dragus,Centre-Forward,24,EUR4.00m,Romania,Trabzonspor,Super Lig,EUR1.70m
+Armindo Sieb,Second Striker,21,EUR4.00m,Germany,Bayern Munich,Bundesliga,EUR1.50m
+Samed Bazdar,Centre-Forward,20,EUR4.00m,Serbia,Real Zaragoza,LaLiga2,EUR1.50m
+Eros Mancuso,Right-Back,25,EUR4.00m,Argentina,Fortaleza,Serie A,EUR1.47m
+Luis Rioja,Left Winger,30,EUR4.00m,Spain,Valencia,LaLiga,EUR1.20m
+Armindo Sieb,Second Striker,21,EUR4.00m,Germany,1.FSV Mainz 05,Bundesliga,Loan fee:EUR1.00m
+Marcos Acuna,Left-Back,32,EUR4.00m,Argentina,River Plate,Liga Profesional,EUR1.00m
+Stoichkov,Second Striker,30,EUR4.00m,Spain,Alaves,LaLiga,EUR1.00m
+Alex Sola,Right Winger,25,EUR4.00m,Spain,Getafe,LaLiga,EUR1.00m
+Oscar Estupinan,Centre-Forward,27,EUR4.00m,Colombia,FC Juarez,Liga MX Apertura,EUR1.00m
+Jackson Muleka,Centre-Forward,24,EUR4.00m,DR Congo,Al-Kholood,Saudi Pro League,Loan fee:EUR1.00m
+Jarne Steuckers,Right Winger,22,EUR4.00m,Belgium,KRC Genk,Jupiler Pro League,EUR800k
+Wilson Isidor,Centre-Forward,23,EUR4.00m,France,Sunderland,Championship,Loan fee:EUR750k
+Dimitri Lavalee,Left-Back,27,EUR4.00m,Belgium,Sturm Graz,Bundesliga,EUR700k
+Wilfried Kanga,Centre-Forward,26,EUR4.00m,Cote d'Ivoire,Cardiff,Championship,Loan fee:EUR500k
+Roberto Piccoli,Centre-Forward,23,EUR4.00m,Italy,Cagliari Calcio,Serie A,Loan fee:EUR500k
+Dion Beljo,Centre-Forward,22,EUR4.00m,Croatia,Rapid Vienna,Bundesliga,Loan fee:EUR300k
+Santiago Longo,Defensive Midfield,26,EUR4.00m,Argentina,Sao Paulo,Serie A,Loan fee:EUR271k
+Tom Krauss,Central Midfield,23,EUR4.00m,Germany,Luton,Championship,Loan fee:EUR250k
+Marcos Antonio,Central Midfield,24,EUR4.00m,Brazil,Sao Paulo,Serie A,Loan fee:EUR150k
+Ludwig Augustinsson,Left-Back,30,EUR4.00m,Sweden,RSC Anderlecht,Jupiler Pro League,free transfer
+Nick Woltemade,Second Striker,22,EUR4.00m,Germany,VfB Stuttgart,Bundesliga,free transfer
+Marco Grull,Left Winger,25,EUR4.00m,Austria,Werder Bremen,Bundesliga,free transfer
+Cher Ndour,Central Midfield,20,EUR4.00m,Italy,Besiktas,Super Lig,loan transfer
+Joao Mario,Central Midfield,31,EUR4.00m,Portugal,Besiktas,Super Lig,loan transfer
+Takuma Asano,Right Winger,29,EUR4.00m,Japan,RCD Mallorca,LaLiga,free transfer
+Pierluigi Gollini,Goalkeeper,29,EUR4.00m,Italy,Genoa,Serie A,loan transfer
+Amin Sarr,Centre-Forward,23,EUR4.00m,Sweden,Hellas Verona,Serie A,loan transfer
+Sinaly Diomande,Centre-Back,23,EUR4.00m,Cote d'Ivoire,AJ Auxerre,Ligue 1,free transfer
+Gabriel Slonina,Goalkeeper,20,EUR4.00m,United States,Barnsley FC,League One,loan transfer
+Eray Comert,Centre-Back,26,EUR4.00m,Switzerland,Real Valladolid,LaLiga,loan transfer
+Cenk Ozkacar,Centre-Back,23,EUR4.00m,Türkiye,Real Valladolid,LaLiga,loan transfer
+Stipe Biuk,Left Winger,21,EUR4.00m,Croatia,Hajduk Split,SuperSport HNL,loan transfer
+Philip Zinckernagel,Left Winger,29,EUR4.00m,Denmark,Bodo/Glimt,Eliteserien,loan transfer
+Tom Cannon,Centre-Forward,21,EUR4.00m,Ireland,Stoke City,Championship,loan transfer
+Calum Chambers,Centre-Back,29,EUR4.00m,England,Cardiff,Championship,free transfer
+Alfred Duncan,Central Midfield,31,EUR4.00m,Ghana,Venezia,Serie A,free transfer
+Daniele Rugani,Centre-Back,30,EUR4.00m,Italy,Ajax,Eredivisie,loan transfer
+Mihajlo Ilic,Centre-Back,21,EUR4.00m,Serbia,Partizan,Super liga Srbije,loan transfer
+Malang Sarr,Centre-Back,25,EUR4.00m,France,Lens,Ligue 1,free transfer
+Kevin Mbabu,Right-Back,29,EUR4.00m,Switzerland,FC Midtjylland,Superliga,free transfer
+Frederic Guilbert,Right-Back,29,EUR4.00m,France,Lecce,Serie A,free transfer
+Reuell Walters,Right-Back,19,EUR4.00m,England,Luton,Championship,free transfer
+Koki Saito,Left Winger,23,EUR4.00m,Japan,QPR,Championship,loan transfer
+Luca Mazzitelli,Central Midfield,28,EUR4.00m,Italy,Como,Serie A,loan transfer
+Stole Dimitrievski,Goalkeeper,30,EUR4.00m,North Macedonia,Valencia,LaLiga,free transfer
+Juan Bernat,Left-Back,31,EUR4.00m,Spain,Villarreal,LaLiga,loan transfer
+Calvin Ramsay,Right-Back,20,EUR4.00m,Scotland,Wigan,League One,loan transfer
+Shola Shoretire,Right Winger,20,EUR4.00m,England,PAOK Salonika,Super League 1,free transfer
+Dennis Praet,Central Midfield,30,EUR4.00m,Belgium,Royal Antwerp,Jupiler Pro League,free transfer
+Valentin Rosier,Right-Back,27,EUR4.00m,France,CD Leganes,LaLiga,free transfer
+Bamba Dieng,Centre-Forward,24,EUR4.00m,Senegal,Angers SCO,Ligue 1,loan transfer
+Sydney van Hooijdonk,Centre-Forward,24,EUR4.00m,Netherlands,Cesena,Serie B,free transfer
+David Affengruber,Centre-Back,23,EUR4.00m,Austria,Elche CF,LaLiga2,free transfer
+Riechedly Bazoer,Centre-Back,27,EUR4.00m,Curacao,Konyaspor,Super Lig,?
+Sekou Koita,Centre-Forward,24,EUR4.00m,Mali,CSKA Moscow,Premier Liga,free transfer
+Nico Melamed,Attacking Midfield,23,EUR4.00m,Spain,UD Almeria,LaLiga2,free transfer
+Calegari,Right-Back,22,EUR4.00m,Brazil,Famalicao,Liga Portugal,loan transfer
+Ibrahim Salah,Left Winger,23,EUR4.00m,Morocco,Stade Brestois,Ligue 1,loan transfer
+Leonardo Spinazzola,Left-Back,31,EUR4.00m,Italy,SSC Napoli,Serie A,free transfer
+Matteo Lovato,Centre-Back,24,EUR4.00m,Italy,Sassuolo,Serie B,loan transfer
+Miguel Crespo,Central Midfield,27,EUR4.00m,Portugal,Basaksehir,Super Lig,free transfer
+Alfredo Morelos,Centre-Forward,28,EUR4.00m,Colombia,Atl. Nacional,Liga DIMAYOR II,loan transfer
+Iago,Left-Back,27,EUR4.00m,Brazil,EC Bahia,Serie A,free transfer
+Biro,Right Winger,20,EUR4.00m,Brazil,Sharjah FC,UAE Pro League,loan transfer
+Marcel Hartel,Central Midfield,28,EUR4.00m,Germany,St. Louis CITY,MLS,free transfer
+Jayden Bogle,Right-Back,23,EUR3.80m,England,Leeds,Championship,EUR5.95m
+Ronnie Edwards,Centre-Back,21,EUR3.80m,England,Southampton,Premier League,EUR3.50m
+Nathan Wood,Centre-Back,22,EUR3.80m,England,Southampton,Premier League,EUR3.50m
+Luke McNally,Centre-Back,24,EUR3.80m,Ireland,Bristol City,Championship,?
+Toze,Attacking Midfield,31,EUR3.80m,Portugal,Al-Riyadh,Saudi Pro League,free transfer
+Taxiarchis Fountas,Second Striker,28,EUR3.70m,Greece,OFI Crete FC,Super League 1,free transfer
+Juninho Bacuna,Central Midfield,27,EUR3.60m,Curacao,Al-Wehda,Saudi Pro League,?
+Juan Cabal,Left-Back,23,EUR3.50m,Colombia,Juventus,Serie A,EUR12.80m
+Diego Costa,Centre-Back,24,EUR3.50m,Brazil,Krasnodar,Premier Liga,EUR7.50m
+Albion Rrahmani,Centre-Forward,23,EUR3.50m,Kosovo,Sparta Prague,Chance Liga,EUR5.00m
+Rafael Navarro,Centre-Forward,24,EUR3.50m,Brazil,Colorado,MLS,EUR4.50m
+Samuel Essende,Centre-Forward,26,EUR3.50m,DR Congo,FC Augsburg,Bundesliga,EUR4.00m
+Ondrej Lingr,Attacking Midfield,25,EUR3.50m,Czech Republic,Feyenoord,Eredivisie,EUR4.00m
+Vanja Drkusic,Centre-Back,24,EUR3.50m,Slovenia,Zenit S-Pb,Premier Liga,EUR4.00m
+Jose Cordoba,Centre-Back,23,EUR3.50m,Panama,Norwich,Championship,EUR3.65m
+Jay Stansfield,Centre-Forward,21,EUR3.50m,England,Birmingham,League One,EUR17.80m
+Adam Idah,Centre-Forward,23,EUR3.50m,Ireland,Celtic,Premiership,EUR9.90m
+Paulo Bernardo,Central Midfield,22,EUR3.50m,Portugal,Celtic,Premiership,EUR4.00m
+Joao Marques,Left Winger,22,EUR3.50m,Portugal,SC Braga,Liga Portugal,EUR3.50m
+Sebastiano Luperto,Centre-Back,27,EUR3.50m,Italy,Cagliari Calcio,Serie A,EUR3.50m
+Hans Hateboer,Right-Back,30,EUR3.50m,Netherlands,Stade Rennais,Ligue 1,EUR3.00m
+Georgios Kyriakopoulos,Left Midfield,28,EUR3.50m,Greece,Monza,Serie A,EUR3.00m
+Jorge Sanchez,Right-Back,26,EUR3.50m,Mexico,CD Cruz Azul,Liga MX Apertura,EUR3.00m
+Unai Bilbao,Centre-Back,30,EUR3.50m,Spain,Club Tijuana,Liga MX Apertura,EUR2.80m
+Gennaro Tutino,Centre-Forward,27,EUR3.50m,Italy,Cosenza,Serie B,EUR2.50m
+Ondrej Lingr,Attacking Midfield,25,EUR3.50m,Czech Republic,Slavia Prague,Chance Liga,EUR2.20m
+Isak Johannesson,Central Midfield,21,EUR3.50m,Iceland,F. Dusseldorf,2. Bundesliga,EUR2.00m
+Cihan Canak,Right Winger,19,EUR3.50m,Türkiye,Trabzonspor,Super Lig,EUR2.00m
+Sead Haksabanovic,Left Winger,25,EUR3.50m,Montenegro,Malmo FF,Allsvenskan,EUR2.00m
+Roman Yaremchuk,Centre-Forward,28,EUR3.50m,Ukraine,Olympiacos,Super League 1,EUR2.00m
+Marco Brescianini,Central Midfield,24,EUR3.50m,Italy,Atalanta BC,Serie A,Loan fee:EUR2.00m
+Veldin Hodza,Defensive Midfield,21,EUR3.50m,Croatia,Rubin Kazan,Premier Liga,EUR2.00m
+Lassana Coulibaly,Central Midfield,28,EUR3.50m,Mali,Lecce,Serie A,EUR1.80m
+Philippe Rommens,Central Midfield,26,EUR3.50m,Belgium,Ferencvaros,NB I.,EUR1.50m
+Dominik Marczuk,Right Winger,20,EUR3.50m,Poland,Salt Lake,MLS,EUR1.50m
+Taulant Seferi,Centre-Forward,27,EUR3.50m,Albania,Bodrum FK,Super Lig,EUR1.50m
+Matias Abaldo,Right Winger,20,EUR3.50m,Uruguay,Gimnasia,Liga Profesional,EUR1.50m
+Edvin Kurtulus,Centre-Back,24,EUR3.50m,Sweden,Ludogorets,efbet Liga,EUR1.45m
+Mario Mitaj,Left-Back,21,EUR3.50m,Albania,Al-Ittihad,Saudi Pro League,Loan fee:EUR1.20m
+Gennaro Tutino,Centre-Forward,27,EUR3.50m,Italy,Sampdoria,Serie B,Loan fee:EUR1.00m
+Fabio Cardoso,Centre-Back,30,EUR3.50m,Portugal,Al-Ain,UAE Pro League,Loan fee:EUR1.00m
+Mathieu Choiniere,Central Midfield,25,EUR3.50m,Canada,Grasshoppers,Super League,EUR900k
+Myron van Brederode,Left Winger,21,EUR3.50m,Netherlands,F. Dusseldorf,2. Bundesliga,Loan fee:EUR700k
+Woo-yeong Jeong,Attacking Midfield,24,EUR3.50m,"Korea, South",Union Berlin,Bundesliga,Loan fee:EUR700k
+Aliou Dieng,Defensive Midfield,26,EUR3.50m,Mali,Al-Kholood,Saudi Pro League,Loan fee:EUR505k
+Gabriel Vidovic,Left Winger,20,EUR3.50m,Croatia,1.FSV Mainz 05,Bundesliga,Loan fee:EUR500k
+Mathew Ryan,Goalkeeper,32,EUR3.50m,Australia,AS Roma,Serie A,free transfer
+Jerry Yates,Centre-Forward,27,EUR3.50m,England,Derby,Championship,loan transfer
+Nat Phillips,Centre-Back,27,EUR3.50m,England,Derby,Championship,loan transfer
+Ivo Grbic,Goalkeeper,28,EUR3.50m,Croatia,C. Rizespor,Super Lig,loan transfer
+Ricardo Rodriguez,Left-Back,31,EUR3.50m,Switzerland,Real Betis,LaLiga,free transfer
+Alexis Claude-Maurice,Attacking Midfield,26,EUR3.50m,France,FC Augsburg,Bundesliga,free transfer
+Welington,Left-Back,23,EUR3.50m,Brazil,Southampton,Premier League,free transfer
+Sebastian Boselli,Centre-Back,20,EUR3.50m,Uruguay,Estudiantes LP,Liga Profesional,loan transfer
+Ivan Rakitic,Central Midfield,36,EUR3.50m,Croatia,Hajduk Split,SuperSport HNL,free transfer
+Borna Barisic,Left-Back,31,EUR3.50m,Croatia,Trabzonspor,Super Lig,free transfer
+Alan Virginius,Left Winger,21,EUR3.50m,France,BSC Young Boys,Super League,loan transfer
+Dario Essugo,Defensive Midfield,19,EUR3.50m,Portugal,UD Las Palmas,LaLiga,loan transfer
+Allan,Defensive Midfield,33,EUR3.50m,Brazil,Botafogo,Serie A,free transfer
+Sebastian Coates,Centre-Back,33,EUR3.50m,Uruguay,Nacional,Primera Division Clausura,free transfer
+Paddy McNair,Centre-Back,29,EUR3.50m,Northern Ireland,West Brom,Championship,loan transfer
+Nicolas Cozza,Left-Back,25,EUR3.50m,France,FC Nantes,Ligue 1,loan transfer
+Andy Pelmard,Centre-Back,24,EUR3.50m,France,Lecce,Serie A,loan transfer
+Omar Colley,Centre-Back,31,EUR3.50m,The Gambia,PAOK Salonika,Super League 1,free transfer
+Carlos Martin,Centre-Forward,22,EUR3.50m,Spain,Alaves,LaLiga,loan transfer
+Joan Jordan,Central Midfield,30,EUR3.50m,Spain,Alaves,LaLiga,loan transfer
+Marco Pellegrino,Centre-Back,22,EUR3.50m,Argentina,Independiente,Liga Profesional,loan transfer
+Nahuel Bustos,Centre-Forward,26,EUR3.50m,Argentina,San Lorenzo,Liga Profesional,loan transfer
+Jari Vandeputte,Left Winger,28,EUR3.50m,Belgium,Cremonese,Serie B,loan transfer
+Mohamed Elneny,Defensive Midfield,32,EUR3.50m,Egypt,Al-Jazira,UAE Pro League,free transfer
+Marko Bulat,Defensive Midfield,22,EUR3.50m,Croatia,Standard Liege,Jupiler Pro League,loan transfer
+Andi Zeqiri,Centre-Forward,25,EUR3.50m,Switzerland,Standard Liege,Jupiler Pro League,loan transfer
+Bertug Yildirim,Centre-Forward,22,EUR3.50m,Türkiye,Getafe,LaLiga,loan transfer
+Alvaro Rodriguez,Centre-Forward,20,EUR3.50m,Uruguay,Getafe,LaLiga,loan transfer
+Georgiy Dzhikiya,Centre-Back,30,EUR3.50m,Russia,Khimki,Premier Liga,free transfer
+Edimilson Fernandes,Centre-Back,28,EUR3.50m,Switzerland,Stade Brestois,Ligue 1,loan transfer
+Arturo Gonzalez,Left Winger,29,EUR3.50m,Mexico,Pachuca,Liga MX Apertura,loan transfer
+Emanuel Gularte,Centre-Back,26,EUR3.50m,Uruguay,Puebla FC,Liga MX Apertura,?
+Leo Dubois,Right-Back,29,EUR3.50m,France,Eyupspor,Super Lig,free transfer
+Boris Popovic,Centre-Back,24,EUR3.50m,Serbia,Arouca,Liga Portugal,loan transfer
+Josip Brekalo,Left Winger,26,EUR3.50m,Croatia,Kasimpasa,Super Lig,loan transfer
+Reinier,Attacking Midfield,22,EUR3.50m,Brazil,Granada CF,LaLiga2,loan transfer
+Paddy McNair,Centre-Back,29,EUR3.50m,Northern Ireland,San Diego FC,N/A,free transfer
+Vincent Aboubakar,Centre-Forward,32,EUR3.40m,Cameroon,Hatayspor,Super Lig,free transfer
+Jackson Porozo,Centre-Back,24,EUR3.30m,Ecuador,CD Leganes,LaLiga,loan transfer
+Harrison Burrows,Left-Back,22,EUR3.20m,England,Sheff Utd,Championship,EUR3.55m
+Tomas Chory,Centre-Forward,29,EUR3.20m,Czech Republic,Slavia Prague,Chance Liga,EUR3.00m
+Igor Miladinovic,Attacking Midfield,21,EUR3.20m,Serbia,Saint-Etienne,Ligue 1,EUR3.00m
+Felipe Pena Biafore,Defensive Midfield,23,EUR3.20m,Argentina,Lanus,Liga Profesional,EUR1.07m
+Martin Braithwaite,Centre-Forward,33,EUR3.20m,Denmark,Gremio,Serie A,free transfer
+Francois Kamano,Left Winger,28,EUR3.20m,Guinea,Damac FC,Saudi Pro League,?
+Aaron Anselmino,Centre-Back,19,EUR3.00m,Argentina,Chelsea,Premier League,EUR16.50m
+Renato Veiga,Left-Back,20,EUR3.00m,Portugal,Chelsea,Premier League,EUR14.00m
+William Osula,Centre-Forward,21,EUR3.00m,Denmark,Newcastle,Premier League,EUR11.60m
+Matias Fernandez-Pardo,Centre-Forward,19,EUR3.00m,Belgium,LOSC Lille,Ligue 1,EUR10.00m
+Rodri Sanchez,Right Winger,24,EUR3.00m,Spain,Al-Arabi SC,Stars League,EUR8.00m
+Joaquim,Centre-Back,25,EUR3.00m,Brazil,Tigres UANL,Liga MX Apertura,EUR7.35m
+Zuriko Davitashvili,Right Winger,23,EUR3.00m,Georgia,Saint-Etienne,Ligue 1,EUR6.00m
+Cesar Montes,Centre-Back,27,EUR3.00m,Mexico,Loko Moscow,Premier Liga,EUR6.00m
+Arthur Gomes,Left Winger,26,EUR3.00m,Brazil,Dynamo Moscow,Premier Liga,EUR5.00m
+Enzo Boyomo,Centre-Back,22,EUR3.00m,Cameroon,CA Osasuna,LaLiga,EUR5.00m
+Ngal'ayel Mukau,Defensive Midfield,19,EUR3.00m,DR Congo,LOSC Lille,Ligue 1,EUR5.00m
+Nadir Zortea,Right Midfield,25,EUR3.00m,Italy,Cagliari Calcio,Serie A,EUR5.00m
+Krisztian Lisztes,Attacking Midfield,19,EUR3.00m,Hungary,E. Frankfurt,Bundesliga,EUR4.50m
+German Pezzella,Centre-Back,33,EUR3.00m,Argentina,River Plate,Liga Profesional,EUR4.50m
+Lyanco,Centre-Back,27,EUR3.00m,Brazil,Atletico-MG,Serie A,EUR4.50m
+Samuel Dahl,Left-Back,21,EUR3.00m,Sweden,AS Roma,Serie A,EUR4.30m
+Mohamed Abdelmonem,Centre-Back,25,EUR3.00m,Egypt,OGC Nice,Ligue 1,EUR4.20m
+Christoph Klarer,Centre-Back,24,EUR3.00m,Austria,Birmingham,League One,EUR4.15m
+Morten Thorsby,Central Midfield,28,EUR3.00m,Norway,Genoa,Serie A,EUR4.00m
+Willum Thor Willumsson,Attacking Midfield,25,EUR3.00m,Iceland,Birmingham,League One,EUR4.00m
+Peque Fernandez,Second Striker,21,EUR3.00m,Spain,Sevilla FC,LaLiga,EUR4.00m
+Alexander Lind,Centre-Forward,22,EUR3.00m,Denmark,Pisa,Serie B,EUR4.00m
+Ruben Duarte,Left-Back,28,EUR3.00m,Spain,UNAM Pumas,Liga MX Apertura,EUR4.00m
+Giovanni Gonzalez,Right-Back,29,EUR3.00m,Uruguay,Krasnodar,Premier Liga,EUR4.00m
+Scott Twine,Attacking Midfield,25,EUR3.00m,England,Bristol City,Championship,EUR3.75m
+Aidan Morris,Central Midfield,22,EUR3.00m,United States,Middlesbrough,Championship,EUR3.73m
+Mikey Johnston,Left Winger,25,EUR3.00m,Ireland,West Brom,Championship,EUR3.50m
+Robin Propper,Centre-Back,30,EUR3.00m,Netherlands,Rangers,Premiership,EUR3.20m
+Lucas Stassin,Centre-Forward,19,EUR3.00m,Belgium,Saint-Etienne,Ligue 1,EUR10.00m
+Martin Erlic,Centre-Back,26,EUR3.00m,Croatia,Bologna,Serie A,EUR7.00m
+Anderson Duarte,Right Winger,20,EUR3.00m,Uruguay,Toluca,Liga MX Apertura,EUR3.75m
+Frantzdy Pierrot,Centre-Forward,29,EUR3.00m,Haiti,AEK Athens,Super League 1,EUR3.50m
+Jackson Tchatchoua,Right-Back,22,EUR3.00m,Cameroon,Hellas Verona,Serie A,EUR3.00m
+Gauthier Hein,Right Winger,28,EUR3.00m,France,FC Metz,Ligue 2,EUR3.00m
+Augustine Boakye,Attacking Midfield,23,EUR3.00m,Ghana,Saint-Etienne,Ligue 1,EUR3.00m
+Nicolas Castro,Attacking Midfield,23,EUR3.00m,Argentina,Elche CF,LaLiga2,EUR3.00m
+Jhonder Cadiz,Centre-Forward,28,EUR3.00m,Venezuela,Leon,Liga MX Apertura,EUR3.00m
+Brandon Thomas-Asante,Centre-Forward,25,EUR3.00m,Ghana,Coventry,Championship,EUR2.95m
+Lawrence Ennali,Left Winger,22,EUR3.00m,Germany,Houston,MLS,EUR2.75m
+Patrick Pentz,Goalkeeper,27,EUR3.00m,Austria,Brondby IF,Superliga,EUR2.55m
+Goncalo Franco,Central Midfield,23,EUR3.00m,Portugal,Swansea,Championship,EUR2.10m
+Levent Mercan,Left-Back,23,EUR3.00m,Türkiye,Fenerbahce,Super Lig,EUR2.00m
+Keke Topp,Centre-Forward,20,EUR3.00m,Germany,Werder Bremen,Bundesliga,EUR2.00m
+Bruno Duarte,Centre-Forward,28,EUR3.00m,Brazil,Red Star,Super liga Srbije,EUR2.00m
+Jeffrey de Lange,Goalkeeper,26,EUR3.00m,Netherlands,Marseille,Ligue 1,EUR2.00m
+Jeppe Okkels,Left Winger,25,EUR3.00m,Denmark,Preston,Championship,EUR2.00m
+Diego Moreira,Left Winger,20,EUR3.00m,Portugal,R. Strasbourg,Ligue 1,EUR2.00m
+Igor Jesus,Defensive Midfield,21,EUR3.00m,Brazil,CF Estrela,Liga Portugal,EUR2.00m
+Peter Federico,Right Winger,21,EUR3.00m,Dominican Republic,Getafe,LaLiga,EUR2.00m
+Ludovic Ajorque,Centre-Forward,30,EUR3.00m,France,Stade Brestois,Ligue 1,Loan fee:EUR2.00m
+Jose Martinez,Defensive Midfield,30,EUR3.00m,Venezuela,Corinthians,Serie A,EUR1.80m
+Okay Yokuslu,Defensive Midfield,30,EUR3.00m,Türkiye,Trabzonspor,Super Lig,EUR1.65m
+Emanuel Aiwu,Centre-Back,23,EUR3.00m,Austria,Sturm Graz,Bundesliga,EUR1.60m
+Peter Vindahl,Goalkeeper,26,EUR3.00m,Denmark,Sparta Prague,Chance Liga,EUR1.50m
+Alexis Blin,Defensive Midfield,27,EUR3.00m,France,Palermo,Serie B,EUR1.50m
+Neto Borges,Left-Back,27,EUR3.00m,Brazil,Middlesbrough,Championship,EUR1.50m
+Svetozar Markovic,Centre-Back,24,EUR3.00m,Serbia,Viktoria Plzen,Chance Liga,EUR1.50m
+Bartlomiej Wdowik,Left-Back,23,EUR3.00m,Poland,SC Braga,Liga Portugal,EUR1.50m
+Alexandru Cicaldau,Attacking Midfield,27,EUR3.00m,Romania,CS U Craiova,SuperLiga,EUR1.50m
+Jean Meneses,Left Winger,31,EUR3.00m,Chile,Vasco da Gama,Serie A,EUR1.30m
+Yuriy Gorshkov,Left-Back,25,EUR3.00m,Russia,Zenit S-Pb,Premier Liga,EUR1.26m
+Aziz Yakubu,Centre-Forward,25,EUR3.00m,Ghana,Shimizu S-Pulse,J2 League,EUR1.25m
+Robson Bambu,Centre-Back,26,EUR3.00m,Brazil,SC Braga,Liga Portugal,EUR1.20m
+Fernando Cardozo,Right Midfield,23,EUR3.00m,Paraguay,Newell's,Liga Profesional,EUR1.11m
+Nahuel Losada,Goalkeeper,31,EUR3.00m,Argentina,Lanus,Liga Profesional,EUR1.10m
+Philipp Sander,Central Midfield,26,EUR3.00m,Germany,Bor. M'gladbach,Bundesliga,EUR1.00m
+Lucas Vera,Central Midfield,27,EUR3.00m,Argentina,Khimki,Premier Liga,EUR1.00m
+Oliver Villadsen,Right-Back,22,EUR3.00m,Denmark,1.FC Nuremberg,2. Bundesliga,EUR500k
+Morgan Guilavogui,Right Winger,26,EUR3.00m,Guinea,FC St. Pauli,Bundesliga,Loan fee:EUR500k
+Pontus Almqvist,Right Winger,25,EUR3.00m,Sweden,Parma,Serie A,EUR500k
+Rodrigo Echeverria,Defensive Midfield,29,EUR3.00m,Chile,Huracan,Liga Profesional,EUR500k
+Chidozie Awaziem,Centre-Back,27,EUR3.00m,Nigeria,Cincinnati,MLS,EUR500k
+Sampson Dweh,Centre-Back,22,EUR3.00m,Liberia,Viktoria Plzen,Chance Liga,EUR385k
+Robert Wagner,Central Midfield,20,EUR3.00m,Germany,FC St. Pauli,Bundesliga,Loan fee:EUR200k
+Joe Mendes,Right-Back,21,EUR3.00m,Sweden,FC Basel,Super League,loan transfer
+Adam Karabec,Attacking Midfield,21,EUR3.00m,Czech Republic,Hamburger SV,2. Bundesliga,loan transfer
+Lucas Perrin,Centre-Back,25,EUR3.00m,France,Hamburger SV,2. Bundesliga,free transfer
+Bartlomiej Wdowik,Left-Back,23,EUR3.00m,Poland,Hannover 96,2. Bundesliga,loan transfer
+Lovro Zvonarek,Attacking Midfield,19,EUR3.00m,Croatia,Sturm Graz,Bundesliga,loan transfer
+Keidi Bare,Central Midfield,26,EUR3.00m,Albania,Real Zaragoza,LaLiga2,free transfer
+Marius Wolf,Right-Back,29,EUR3.00m,Germany,FC Augsburg,Bundesliga,free transfer
+Alexis Flips,Attacking Midfield,24,EUR3.00m,France,R Charleroi SC,Jupiler Pro League,loan transfer
+Charlie Taylor,Left-Back,30,EUR3.00m,England,Southampton,Premier League,free transfer
+Ryan Fraser,Left Winger,30,EUR3.00m,Scotland,Southampton,Premier League,free transfer
+Aaron Anselmino,Centre-Back,19,EUR3.00m,Argentina,Boca Juniors,Liga Profesional,loan transfer
+Marcos Lopez,Left-Back,24,EUR3.00m,Peru,FC Copenhagen,Superliga,loan transfer
+Chiquinho,Left Winger,24,EUR3.00m,Portugal,RCD Mallorca,LaLiga,loan transfer
+Alan Browne,Central Midfield,29,EUR3.00m,Ireland,Sunderland,Championship,free transfer
+Gabriel Osho,Centre-Back,25,EUR3.00m,Nigeria,AJ Auxerre,Ligue 1,free transfer
+Florin Tanase,Attacking Midfield,29,EUR3.00m,Romania,FCSB,SuperLiga,free transfer
+Mateusz Legowski,Defensive Midfield,21,EUR3.00m,Poland,Yverdon Sport,Super League,loan transfer
+Tiago Dantas,Central Midfield,23,EUR3.00m,Portugal,NK Osijek,SuperSport HNL,free transfer
+Ben Davies,Centre-Back,29,EUR3.00m,England,Birmingham,League One,loan transfer
+Gerard Gumbau,Defensive Midfield,29,EUR3.00m,Spain,Rayo Vallecano,LaLiga,loan transfer
+Hrvoje Smolcic,Centre-Back,23,EUR3.00m,Croatia,LASK,Bundesliga,loan transfer
+Raul Torrente,Centre-Back,22,EUR3.00m,Spain,Dinamo Zagreb,SuperSport HNL,free transfer
+Koki Ogawa,Centre-Forward,26,EUR3.00m,Japan,NEC Nijmegen,Eredivisie,?
+Billal Brahimi,Left Winger,24,EUR3.00m,Algeria,Sint-Truiden,Jupiler Pro League,loan transfer
+Andrew Moran,Attacking Midfield,20,EUR3.00m,Ireland,Stoke City,Championship,loan transfer
+Bruninho,Attacking Midfield,21,EUR3.00m,Brazil,Cercle Brugge,Jupiler Pro League,loan transfer
+Koba Koindredi,Central Midfield,22,EUR3.00m,France,Lausanne-Sport,Super League,loan transfer
+Moussa Djenepo,Left Winger,26,EUR3.00m,Mali,Antalyaspor,Super Lig,loan transfer
+Filip Stankovic,Goalkeeper,22,EUR3.00m,Serbia,Venezia,Serie A,loan transfer
+Hans Nicolussi Caviglia,Central Midfield,24,EUR3.00m,Italy,Venezia,Serie A,loan transfer
+Willian,Left Winger,36,EUR3.00m,Brazil,Olympiacos,Super League 1,free transfer
+Ola Brynhildsen,Centre-Forward,25,EUR3.00m,Norway,Molde FK,Eliteserien,loan transfer
+Ilaix Moriba,Central Midfield,21,EUR3.00m,Guinea,Celta de Vigo,LaLiga,loan transfer
+Leonardo Buta,Left-Back,22,EUR3.00m,Portugal,Moreirense,Liga Portugal,?
+Yasser Larouci,Left-Back,23,EUR3.00m,Algeria,Watford,Championship,loan transfer
+Ignace Van der Brempt,Right-Back,22,EUR3.00m,Belgium,Como,Serie A,loan transfer
+Joseph Nonge,Central Midfield,19,EUR3.00m,Belgium,Troyes,Ligue 2,loan transfer
+Jairo Riedewald,Defensive Midfield,27,EUR3.00m,Netherlands,Royal Antwerp,Jupiler Pro League,free transfer
+Xeka,Central Midfield,29,EUR3.00m,Portugal,Estoril Praia,Liga Portugal,free transfer
+Andres Vombergar,Centre-Forward,29,EUR3.00m,Slovenia,San Lorenzo,Liga Profesional,free transfer
+Matias Segovia,Right Winger,21,EUR3.00m,Paraguay,Al-Ain,UAE Pro League,loan transfer
+Samuel Moutoussamy,Central Midfield,28,EUR3.00m,DR Congo,Sivasspor,Super Lig,free transfer
+Rifat Zhemaletdinov,Attacking Midfield,27,EUR3.00m,Russia,CSKA Moscow,Premier Liga,free transfer
+Tiago Morais,Left Winger,20,EUR3.00m,Portugal,Rio Ave,Liga Portugal,loan transfer
+Martim Neto,Central Midfield,21,EUR3.00m,Portugal,Rio Ave,Liga Portugal,loan transfer
+Thomas Strakosha,Goalkeeper,29,EUR3.00m,Albania,AEK Athens,Super League 1,free transfer
+Jordy Caicedo,Centre-Forward,26,EUR3.00m,Ecuador,Sporting Gijon,LaLiga2,loan transfer
+Stefano Sensi,Central Midfield,29,EUR3.00m,Italy,Monza,Serie A,free transfer
+Cody Drameh,Right-Back,22,EUR3.00m,England,Hull City,Championship,free transfer
+Gustavo Puerta,Central Midfield,21,EUR3.00m,Colombia,Hull City,Championship,loan transfer
+Sotiris Alexandropoulos,Central Midfield,22,EUR3.00m,Greece,Standard Liege,Jupiler Pro League,loan transfer
+Olimpiu Morutan,Right Winger,25,EUR3.00m,Romania,Pisa,Serie B,loan transfer
+Andrei Burca,Centre-Back,31,EUR3.00m,Romania,FC Baniyas,UAE Pro League,free transfer
+Lucas Rodriguez,Attacking Midfield,27,EUR3.00m,Argentina,Queretaro FC,Liga MX Apertura,?
+Yohan Boli,Centre-Forward,30,EUR3.00m,Cote d'Ivoire,Al-Khor SC,Stars League,loan transfer
+Konstantinos Fortounis,Attacking Midfield,31,EUR3.00m,Greece,Al-Khaleej,Saudi Pro League,free transfer
+Mame Thiam,Left Winger,31,EUR3.00m,Senegal,Eyupspor,Super Lig,?
+Marek Rodak,Goalkeeper,27,EUR3.00m,Slovakia,Al-Ettifaq,Saudi Pro League,free transfer
+Matheus Doria,Centre-Back,29,EUR3.00m,Brazil,Atlas,Liga MX Apertura,?
+Jordy Caicedo,Centre-Forward,26,EUR3.00m,Ecuador,Atlas,Liga MX Apertura,?
+Giacomo Bonaventura,Central Midfield,34,EUR3.00m,Italy,Al-Shabab,Saudi Pro League,free transfer
+Baghdad Bounedjah,Centre-Forward,32,EUR3.00m,Algeria,Al-Shamal SC,Stars League,free transfer
+Gaius Makouta,Central Midfield,27,EUR3.00m,Congo,Alanyaspor,Super Lig,free transfer
+Sebastian Villa,Left Winger,28,EUR3.00m,Colombia,Ind. Rivadavia,Liga Profesional,?
+Nacho Fernandez,Centre-Back,34,EUR3.00m,Spain,Al-Qadsiah,Saudi Pro League,free transfer
+Mohamed Konate,Centre-Forward,26,EUR3.00m,Burkina Faso,Al-Riyadh,Saudi Pro League,free transfer
+Ismael Kandouss,Centre-Back,26,EUR3.00m,Morocco,Al-Orobah,Saudi Pro League,loan transfer
+Olivier Giroud,Centre-Forward,37,EUR3.00m,France,LAFC,MLS,free transfer
+Gaston Alvarez Suarez,Central Midfield,31,EUR3.00m,United Arab Emirates,Shabab Al-Ahli,UAE Pro League,free transfer
+Mikkel Desler,Right-Back,29,EUR3.00m,Denmark,Austin,MLS,free transfer
+Aziz Ganiev,Central Midfield,26,EUR3.00m,Uzbekistan,Al-Bataeh CSC,UAE Pro League,free transfer
+Pep Biel,Attacking Midfield,27,EUR3.00m,Spain,Charlotte,MLS,loan transfer
+Rodrigo Ribeiro,Centre-Forward,19,EUR3.00m,Portugal,Avs FS,Liga Portugal,loan transfer
+Derek Cornelius,Centre-Back,26,EUR2.80m,Canada,Marseille,Ligue 1,EUR4.00m
+Ike Ugbo,Centre-Forward,25,EUR2.80m,Canada,Sheff Wed,Championship,EUR3.10m
+Juanmi Latasa,Centre-Forward,23,EUR2.80m,Spain,Real Valladolid,LaLiga,EUR2.50m
+Bruno Tabata,Right Winger,27,EUR2.80m,Brazil,Internacional,Serie A,EUR2.20m
+Ozan Tufan,Central Midfield,29,EUR2.80m,Türkiye,Trabzonspor,Super Lig,EUR2.00m
+Santiago Montiel,Left-Back,23,EUR2.80m,Argentina,Independiente,Liga Profesional,EUR1.35m
+Viktor Johansson,Goalkeeper,25,EUR2.80m,Sweden,Stoke City,Championship,EUR1.00m
+David Strelec,Centre-Forward,23,EUR2.80m,Slovakia,Slo. Bratislava,Nike Liga,EUR700k
+Nemanja Radonjic,Left Winger,28,EUR2.80m,Serbia,Red Star,Super liga Srbije,EUR200k
+Davie Selke,Centre-Forward,29,EUR2.80m,Germany,Hamburger SV,2. Bundesliga,free transfer
+Dimitrios Giannoulis,Left-Back,28,EUR2.80m,Greece,FC Augsburg,Bundesliga,free transfer
+Ryan Mmaee,Centre-Forward,26,EUR2.80m,Morocco,Rapid Vienna,Bundesliga,loan transfer
+Jean-Pierre Nsame,Centre-Forward,31,EUR2.80m,Cameroon,Legia Warszawa,Ekstraklasa,loan transfer
+Vakoun Bayo,Centre-Forward,27,EUR2.80m,Cote d'Ivoire,Udinese Calcio,Serie A,?
+Pierre Ekwah,Defensive Midfield,22,EUR2.80m,France,Saint-Etienne,Ligue 1,loan transfer
+Saba Sazonov,Centre-Back,22,EUR2.80m,Georgia,FC Empoli,Serie A,loan transfer
+Vakoun Bayo,Centre-Forward,27,EUR2.80m,Cote d'Ivoire,Watford,Championship,loan transfer
+Tyler Roberts,Attacking Midfield,25,EUR2.80m,Wales,Northampton,League One,loan transfer
+Oscar Zambrano,Defensive Midfield,20,EUR2.80m,Ecuador,Hull City,Championship,loan transfer
+Bernard Mensah,Attacking Midfield,29,EUR2.80m,Ghana,Al-Riyadh,Saudi Pro League,?
+Andri Gudjohnsen,Centre-Forward,22,EUR2.70m,Iceland,KAA Gent,Jupiler Pro League,EUR2.90m
+Ignacio Pussetto,Right Winger,28,EUR2.70m,Argentina,UNAM Pumas,Liga MX Apertura,EUR1.38m
+Mikkel Kaufmann,Centre-Forward,23,EUR2.70m,Denmark,Heidenheim,Bundesliga,EUR1.25m
+Nemanja Stojic,Centre-Back,26,EUR2.70m,Serbia,M. Tel Aviv,Ligat ha'Al,EUR1.20m
+Abdou Harroui,Central Midfield,26,EUR2.70m,Morocco,Hellas Verona,Serie A,EUR1.20m
+Aleksandar Cirkovic,Left Winger,22,EUR2.70m,Serbia,FK TSC,Super liga Srbije,EUR1.20m
+Nemanja Stojic,Centre-Back,26,EUR2.70m,Serbia,Red Star,Super liga Srbije,EUR1.00m
+Andri Gudjohnsen,Centre-Forward,22,EUR2.70m,Iceland,Lyngby BK,Superliga,EUR400k
+Prestige Mboungou,Left Winger,23,EUR2.70m,Congo,FK TSC,Super liga Srbije,free transfer
+Saad Bguir,Attacking Midfield,30,EUR2.70m,Tunisia,Al-Wehda,Saudi Pro League,free transfer
+Ousseynou Ba,Centre-Back,28,EUR2.60m,Senegal,Basaksehir,Super Lig,EUR1.20m
+Jonjo Shelvey,Central Midfield,32,EUR2.60m,England,Eyupspor,Super Lig,free transfer
+Abderrazak Hamdallah,Centre-Forward,33,EUR2.60m,Morocco,Al-Shabab,Saudi Pro League,free transfer
+Lewis Dobbin,Left Winger,21,EUR2.50m,England,Aston Villa,Premier League,EUR11.80m
+Pedro Lima,Right-Back,18,EUR2.50m,Brazil,Wolves,Premier League,EUR10.00m
+Zion Suzuki,Goalkeeper,21,EUR2.50m,Japan,Parma,Serie A,EUR7.50m
+Bright Arrey-Mbi,Centre-Back,21,EUR2.50m,Germany,SC Braga,Liga Portugal,EUR6.20m
+Nathaniel Adjei,Centre-Back,21,EUR2.50m,Ghana,FC Lorient,Ligue 2,EUR5.70m
+Sebastian Walukiewicz,Centre-Back,24,EUR2.50m,Poland,Torino,Serie A,EUR5.00m
+Alieu Fadera,Left Winger,22,EUR2.50m,The Gambia,Como,Serie A,EUR5.00m
+Frankie Amaya,Central Midfield,23,EUR2.50m,United States,Toluca,Liga MX Apertura,EUR3.75m
+Philip Otele,Left Winger,25,EUR2.50m,Nigeria,Al-Wahda,UAE Pro League,EUR3.50m
+Mehdi Leris,Right Winger,26,EUR2.50m,Algeria,Pisa,Serie B,EUR3.00m
+Silvano Vos,Defensive Midfield,19,EUR2.50m,Netherlands,Milan U23,Serie C - B,EUR3.00m
+Nicolas Madsen,Central Midfield,24,EUR2.50m,Denmark,QPR,Championship,EUR4.00m
+Helio Varela,Left Winger,22,EUR2.50m,Cape Verde,KAA Gent,Jupiler Pro League,EUR3.12m
+Haris Tabakovic,Centre-Forward,30,EUR2.50m,Bosnia-Herzegovina,TSG Hoffenheim,Bundesliga,EUR3.00m
+Patrick Yazbek,Central Midfield,22,EUR2.50m,Australia,Nashville,MLS,EUR3.00m
+Moussa Sylla,Right Winger,24,EUR2.50m,Mali,FC Schalke 04,2. Bundesliga,EUR2.50m
+Raul Moro,Left Winger,21,EUR2.50m,Spain,Real Valladolid,LaLiga,EUR2.50m
+John Yeboah,Attacking Midfield,24,EUR2.50m,Ecuador,Venezia,Serie A,EUR2.50m
+Adrian Semper,Goalkeeper,26,EUR2.50m,Croatia,Pisa,Serie B,EUR2.50m
+Faniel Tewelde,Left Winger,17,EUR2.50m,Norway,Lommel SK,Challenger Pro League,EUR2.50m
+Osvaldo Rodriguez,Left-Back,27,EUR2.50m,Mexico,Tigres UANL,Liga MX Apertura,EUR2.30m
+Kady Borges,Right Winger,28,EUR2.50m,Brazil,Ferencvaros,NB I.,EUR2.00m
+Miguel de la Fuente,Centre-Forward,24,EUR2.50m,Spain,CD Leganes,LaLiga,EUR2.00m
+Oliver Dovin,Goalkeeper,22,EUR2.50m,Sweden,Coventry,Championship,EUR1.90m
+Mauro Luna Diale,Attacking Midfield,25,EUR2.50m,Argentina,Akhmat Grozny,Premier Liga,EUR1.85m
+Jacob Widell Zetterstrom,Goalkeeper,26,EUR2.50m,Sweden,Derby,Championship,EUR1.75m
+Bartlomiej Dragowski,Goalkeeper,26,EUR2.50m,Poland,Panathinaikos,Super League 1,EUR1.50m
+Marko Pjaca,Left Winger,29,EUR2.50m,Croatia,Dinamo Zagreb,SuperSport HNL,EUR1.50m
+Hugo Novoa,Right-Back,21,EUR2.50m,Spain,Alaves,LaLiga,EUR1.50m
+Federico Bonazzoli,Centre-Forward,27,EUR2.50m,Italy,Cremonese,Serie B,EUR1.50m
+Felix Correia,Left Winger,23,EUR2.50m,Portugal,Gil Vicente,Liga Portugal,EUR1.50m
+Marvin Mehlem,Attacking Midfield,26,EUR2.50m,Germany,Hull City,Championship,EUR1.50m
+Anouar Ait El Hadj,Attacking Midfield,22,EUR2.50m,Belgium,Union SG,Jupiler Pro League,EUR1.50m
+Silvan Hefti,Right-Back,26,EUR2.50m,Switzerland,Hamburger SV,2. Bundesliga,EUR1.20m
+Rober Gonzalez,Right Winger,23,EUR2.50m,Spain,NEC Nijmegen,Eredivisie,EUR1.20m
+Cas Odenthal,Centre-Back,23,EUR2.50m,Netherlands,Sassuolo,Serie B,EUR1.20m
+Pierre Dwomoh,Central Midfield,20,EUR2.50m,Belgium,Watford,Championship,EUR1.00m
+Asier Villalibre,Centre-Forward,26,EUR2.50m,Spain,Alaves,LaLiga,EUR1.00m
+Njegos Petrovic,Defensive Midfield,24,EUR2.50m,Serbia,Vojvodina,Super liga Srbije,EUR800k
+Jovane Cabral,Left Winger,26,EUR2.50m,Cape Verde,CF Estrela,Liga Portugal,EUR800k
+Lukas Kacavenda,Attacking Midfield,21,EUR2.50m,Croatia,Dinamo Zagreb,SuperSport HNL,EUR750k
+Thomas Galdames,Left-Back,25,EUR2.50m,Chile,KS Samara,Premier Liga,EUR650k
+Bernardo Vital,Centre-Back,23,EUR2.50m,Portugal,Real Zaragoza,LaLiga2,EUR600k
+Callum Styles,Left Midfield,24,EUR2.50m,Hungary,West Brom,Championship,EUR600k
+Oleksiy Gutsulyak,Right Winger,26,EUR2.50m,Ukraine,Polissya,Premier Liga,EUR600k
+Henry Kessler,Centre-Back,26,EUR2.50m,United States,St. Louis CITY,MLS,EUR549k
+Tin Jedvaj,Centre-Back,28,EUR2.50m,Croatia,Panathinaikos,Super League 1,EUR500k
+Rayyan Baniya,Centre-Back,25,EUR2.50m,Türkiye,Palermo,Serie B,Loan fee:EUR450k
+Giorgi Gocholeishvili,Right-Back,23,EUR2.50m,Georgia,FC Copenhagen,Superliga,Loan fee:EUR400k
+Irvin Cardona,Centre-Forward,27,EUR2.50m,France,Espanyol,LaLiga,Loan fee:EUR400k
+Tomasz Kedziora,Centre-Back,30,EUR2.50m,Poland,PAOK Salonika,Super League 1,EUR400k
+Horatiu Moldovan,Goalkeeper,26,EUR2.50m,Romania,Sassuolo,Serie B,Loan fee:EUR400k
+Mickael Biron,Centre-Forward,26,EUR2.50m,Martinique,OH Leuven,Jupiler Pro League,Loan fee:EUR300k
+Moussa Sylla,Right Winger,24,EUR2.50m,Mali,Pau FC,Ligue 2,EUR300k
+Jon Dagur Thorsteinsson,Left Winger,25,EUR2.50m,Iceland,Hertha BSC,2. Bundesliga,EUR250k
+Raul Gustavo,Centre-Back,25,EUR2.50m,Brazil,Ferencvaros,NB I.,EUR180k
+Jayden Nelson,Left Winger,21,EUR2.50m,Canada,SSV Ulm 1846,2. Bundesliga,Loan fee:EUR100k
+Luca Waldschmidt,Centre-Forward,28,EUR2.50m,Germany,1.FC Koln,2. Bundesliga,free transfer
+Robin Knoche,Centre-Back,32,EUR2.50m,Germany,1.FC Nuremberg,2. Bundesliga,free transfer
+Neto,Goalkeeper,35,EUR2.50m,Brazil,Arsenal,Premier League,loan transfer
+Aleksandar Dragovic,Centre-Back,33,EUR2.50m,Austria,Austria Vienna,Bundesliga,free transfer
+Noah Mbamba,Defensive Midfield,19,EUR2.50m,Belgium,F. Dusseldorf,2. Bundesliga,loan transfer
+Kevin Sessa,Central Midfield,23,EUR2.50m,Germany,Hertha BSC,2. Bundesliga,free transfer
+Justin Diehl,Left Winger,19,EUR2.50m,Germany,VfB Stuttgart,Bundesliga,free transfer
+Ivan Ordets,Centre-Back,31,EUR2.50m,Ukraine,VfL Bochum,Bundesliga,free transfer
+Thomas Delaney,Central Midfield,32,EUR2.50m,Denmark,FC Copenhagen,Superliga,free transfer
+Pantelis Hatzidiakos,Centre-Back,27,EUR2.50m,Greece,FC Copenhagen,Superliga,loan transfer
+Elias Cobbaut,Centre-Back,26,EUR2.50m,Belgium,Sparta Prague,Chance Liga,?
+Andre Ramalho,Centre-Back,32,EUR2.50m,Brazil,Corinthians,Serie A,free transfer
+Mileta Rajovic,Centre-Forward,25,EUR2.50m,Denmark,Brondby IF,Superliga,loan transfer
+Valery Fernandez,Right Winger,24,EUR2.50m,Spain,RCD Mallorca,LaLiga,loan transfer
+Patrik Walemark,Right Winger,22,EUR2.50m,Sweden,Lech Poznan,Ekstraklasa,loan transfer
+Nemanja Tosic,Left-Back,27,EUR2.50m,Serbia,FC Zurich,Super League,?
+George Baldock,Right-Back,31,EUR2.50m,Greece,Panathinaikos,Super League 1,free transfer
+Faride Alidou,Left Winger,23,EUR2.50m,Germany,Hellas Verona,Serie A,loan transfer
+Gustaf Lagerbielke,Centre-Back,24,EUR2.50m,Sweden,Twente FC,Eredivisie,loan transfer
+Bernard,Left Winger,31,EUR2.50m,Brazil,Atletico-MG,Serie A,free transfer
+Taylor Gardner-Hickman,Central Midfield,22,EUR2.50m,England,Birmingham,League One,loan transfer
+Pedro Diaz,Central Midfield,26,EUR2.50m,Spain,Rayo Vallecano,LaLiga,free transfer
+Alvaro Fernandez,Goalkeeper,26,EUR2.50m,Spain,Sevilla FC,LaLiga,free transfer
+Kevin Nisbet,Centre-Forward,27,EUR2.50m,Scotland,Aberdeen FC,Premiership,loan transfer
+Alex Valle,Left-Back,20,EUR2.50m,Spain,Celtic,Premiership,loan transfer
+Joe Rothwell,Central Midfield,29,EUR2.50m,England,Leeds,Championship,loan transfer
+Alexis Sanchez,Centre-Forward,35,EUR2.50m,Chile,Udinese Calcio,Serie A,free transfer
+Stefan Savic,Centre-Back,33,EUR2.50m,Montenegro,Trabzonspor,Super Lig,free transfer
+Cristian Manea,Right-Back,26,EUR2.50m,Romania,FC Rapid,SuperLiga,free transfer
+Igor Jesus,Centre-Forward,23,EUR2.50m,Brazil,Botafogo,Serie A,free transfer
+Ruan Tressoldi,Centre-Back,25,EUR2.50m,Brazil,Sao Paulo,Serie A,loan transfer
+Anwar El Ghazi,Right Winger,29,EUR2.50m,Netherlands,Cardiff,Championship,free transfer
+Jon Karrikaburu,Centre-Forward,21,EUR2.50m,Spain,Racing,LaLiga2,loan transfer
+Sergio Oliveira,Central Midfield,32,EUR2.50m,Portugal,Olympiacos,Super League 1,free transfer
+Svit Seslar,Attacking Midfield,22,EUR2.50m,Slovenia,NK Celje,Prva Liga,loan transfer
+Naci Unuvar,Left Winger,21,EUR2.50m,Türkiye,Espanyol,LaLiga,loan transfer
+Timothee Pembele,Right-Back,21,EUR2.50m,France,Le Havre AC,Ligue 1,loan transfer
+Ola Solbakken,Right Winger,25,EUR2.50m,Norway,FC Empoli,Serie A,loan transfer
+Juan Carlos Gauto,Right Winger,20,EUR2.50m,Argentina,Dep. La Coruna,LaLiga2,loan transfer
+Artem Timofeev,Defensive Midfield,30,EUR2.50m,Russia,Loko Moscow,Premier Liga,free transfer
+Lewis Dobbin,Left Winger,21,EUR2.50m,England,West Brom,Championship,loan transfer
+Uros Racic,Defensive Midfield,26,EUR2.50m,Serbia,West Brom,Championship,loan transfer
+Tino Kadewere,Centre-Forward,28,EUR2.50m,Zimbabwe,FC Nantes,Ligue 1,free transfer
+Jean-Philippe Gbamin,Defensive Midfield,28,EUR2.50m,Cote d'Ivoire,FC Nantes,Ligue 1,free transfer
+Tete Morente,Left Winger,27,EUR2.50m,Spain,Lecce,Serie A,free transfer
+Shandon Baptiste,Central Midfield,26,EUR2.50m,Grenada,Luton,Championship,free transfer
+Max Lowe,Left-Back,27,EUR2.50m,England,Sheff Wed,Championship,free transfer
+Paul Nardi,Goalkeeper,30,EUR2.50m,France,QPR,Championship,free transfer
+Sergi Roberto,Central Midfield,32,EUR2.50m,Spain,Como,Serie A,free transfer
+Rafa Mir,Centre-Forward,27,EUR2.50m,Spain,Valencia,LaLiga,loan transfer
+Maximiliano Caufriez,Centre-Back,27,EUR2.50m,Belgium,Valencia,LaLiga,loan transfer
+Thomas Meunier,Right-Back,32,EUR2.50m,Belgium,LOSC Lille,Ligue 1,free transfer
+Anis Slimane,Central Midfield,23,EUR2.50m,Tunisia,Norwich,Championship,loan transfer
+Roberto Lopez,Attacking Midfield,24,EUR2.50m,Spain,CD Leganes,LaLiga,free transfer
+Munir El Haddadi,Right Winger,28,EUR2.50m,Morocco,CD Leganes,LaLiga,free transfer
+Oscar Rodriguez,Attacking Midfield,26,EUR2.50m,Spain,CD Leganes,LaLiga,free transfer
+Cedric Kipre,Centre-Back,27,EUR2.50m,Cote d'Ivoire,Stade Reims,Ligue 1,free transfer
+Marco Nasti,Centre-Forward,20,EUR2.50m,Italy,Cremonese,Serie B,free transfer
+Zan Vipotnik,Centre-Forward,22,EUR2.50m,Slovenia,Swansea,Championship,free transfer
+Clayton,Centre-Forward,25,EUR2.50m,Brazil,Rio Ave,Liga Portugal,loan transfer
+Omar Richards,Left-Back,26,EUR2.50m,England,Rio Ave,Liga Portugal,loan transfer
+Juan Otero,Right Winger,29,EUR2.50m,Colombia,Sporting Gijon,LaLiga2,free transfer
+Alessandro Bianco,Central Midfield,21,EUR2.50m,Italy,Monza,Serie A,loan transfer
+Chris Bedia,Centre-Forward,28,EUR2.50m,Cote d'Ivoire,Hull City,Championship,loan transfer
+Dennis Eckert Ayensa,Centre-Forward,27,EUR2.50m,Germany,Standard Liege,Jupiler Pro League,loan transfer
+Mario Gonzalez,Centre-Forward,28,EUR2.50m,Spain,Famalicao,Liga Portugal,loan transfer
+Erik Exposito,Centre-Forward,28,EUR2.50m,Spain,Al-Ahli SC,Stars League,free transfer
+Cristian Borja,Left-Back,31,EUR2.50m,Colombia,America,Liga MX Apertura,free transfer
+Carles Perez,Right Winger,26,EUR2.50m,Spain,Getafe,LaLiga,loan transfer
+Edouard Michut,Central Midfield,21,EUR2.50m,France,Adana Demirspor,Super Lig,free transfer
+Abdoulaye Ndiaye,Centre-Back,22,EUR2.50m,Senegal,Stade Brestois,Ligue 1,loan transfer
+Borja Baston,Centre-Forward,31,EUR2.50m,Spain,Pachuca,Liga MX Apertura,free transfer
+Riccardo Pagano,Central Midfield,19,EUR2.50m,Italy,Catanzaro,Serie B,loan transfer
+Oliver Abildgaard,Defensive Midfield,28,EUR2.50m,Denmark,Pisa,Serie B,loan transfer
+Ruben Semedo,Centre-Back,30,EUR2.50m,Portugal,Al-Khor SC,Stars League,loan transfer
+M'Baye Niang,Centre-Forward,29,EUR2.50m,Senegal,Wydad AC,Botola Pro Inwi,free transfer
+Henrique Araujo,Centre-Forward,22,EUR2.50m,Portugal,Arouca,Liga Portugal,loan transfer
+Marino Hinestroza,Left Winger,22,EUR2.50m,Colombia,Atl. Nacional,Liga DIMAYOR II,loan transfer
+Rony Lopes,Right Winger,28,EUR2.50m,Portugal,Alanyaspor,Super Lig,free transfer
+Emanuel Reynoso,Attacking Midfield,28,EUR2.50m,Argentina,Club Tijuana,Liga MX Apertura,?
+Ilya Shkurin,Centre-Forward,24,EUR2.50m,Belarus,Stal Mielec,Ekstraklasa,free transfer
+Romarinho,Centre-Forward,33,EUR2.50m,Brazil,NEOM SC,Saudi First Division League,free transfer
+Noel Buck,Central Midfield,19,EUR2.50m,England,Southampton U21,Premier League 2,loan transfer
+Gaetan Coucke,Goalkeeper,25,EUR2.50m,Belgium,Al-Orobah,Saudi Pro League,free transfer
+Felix Afena-Gyan,Centre-Forward,21,EUR2.50m,Ghana,Juve Next Gen,Serie C - C,loan transfer
+Faisal Al-Ghamdi,Central Midfield,23,EUR2.50m,Saudi Arabia,Beerschot VA,Jupiler Pro League,loan transfer
+Chris Smalling,Centre-Back,34,EUR2.50m,England,Al-Fayha,Saudi Pro League,?
+Ibrahima Kone,Centre-Forward,25,EUR2.50m,Mali,Al-Okhdood,Saudi Pro League,loan transfer
+Manu Fuster,Left Winger,26,EUR2.40m,Spain,UD Las Palmas,LaLiga,EUR1.50m
+Ruben Vinagre,Left Midfield,25,EUR2.40m,Portugal,Legia Warszawa,Ekstraklasa,loan transfer
+Miha Zajc,Central Midfield,30,EUR2.40m,Slovenia,Toulouse,Ligue 1,loan transfer
+David Okereke,Centre-Forward,27,EUR2.40m,Nigeria,Gaziantep FK,Super Lig,loan transfer
+Giorgio Cittadini,Centre-Back,22,EUR2.40m,Italy,Frosinone,Serie B,loan transfer
+Pepe,Central Midfield,27,EUR2.40m,Portugal,Pafos FC,Cyprus League,free transfer
+Nicholas Gioacchini,Centre-Forward,24,EUR2.40m,United States,Cincinnati,MLS,loan transfer
+Andres Montano,Central Midfield,22,EUR2.30m,Mexico,CD Cruz Azul,Liga MX Apertura,EUR3.72m
+Rodrigo Aguirre,Centre-Forward,29,EUR2.30m,Uruguay,America,Liga MX Apertura,EUR2.70m
+Matias Reali,Right Winger,27,EUR2.30m,Argentina,San Lorenzo,Liga Profesional,EUR1.68m
+Ebrima Colley,Right Winger,24,EUR2.30m,The Gambia,BSC Young Boys,Super League,EUR1.65m
+Emir Sahiti,Left Winger,25,EUR2.30m,Kosovo,Hamburger SV,2. Bundesliga,EUR1.20m
+Emanuele Valeri,Left-Back,25,EUR2.30m,Italy,Parma,Serie A,free transfer
+Virgil Misidjan,Left Winger,31,EUR2.30m,Suriname,Ferencvaros,NB I.,free transfer
+Alfons Sampsted,Right-Back,26,EUR2.30m,Iceland,Birmingham,League One,loan transfer
+Joshua King,Left Winger,32,EUR2.30m,Norway,Toulouse,Ligue 1,free transfer
+Valber Huerta,Centre-Back,30,EUR2.30m,Chile,U. Catolica,Primera Division,free transfer
+Dijon Kameri,Attacking Midfield,20,EUR2.30m,Austria,SCR Altach,Bundesliga,loan transfer
+Othmane Boussaid,Left Winger,24,EUR2.30m,Belgium,Al-Nasr,UAE Pro League,free transfer
+Cristian Tello,Left Winger,33,EUR2.30m,Spain,Al-Orobah,Saudi Pro League,free transfer
+Alex Collado,Right Winger,25,EUR2.30m,Spain,Al-Kholood,Saudi Pro League,loan transfer
+Liam Millar,Left Winger,24,EUR2.20m,Canada,Hull City,Championship,EUR3.50m
+Victor Meseguer,Central Midfield,25,EUR2.20m,Spain,Real Valladolid,LaLiga,EUR3.00m
+Antonio Colak,Centre-Forward,30,EUR2.20m,Croatia,Spezia Calcio,Serie B,EUR2.50m
+Luis Binks,Centre-Back,22,EUR2.20m,England,Coventry,Championship,EUR2.00m
+Johan Mojica,Left-Back,31,EUR2.20m,Colombia,RCD Mallorca,LaLiga,EUR1.50m
+Stanko Juric,Defensive Midfield,27,EUR2.20m,Croatia,Real Valladolid,LaLiga,EUR1.50m
+Eric-Junior Bocat,Left-Back,24,EUR2.20m,France,Stoke City,Championship,EUR1.20m
+Josh Laurent,Central Midfield,29,EUR2.20m,England,Burnley,Championship,EUR1.19m
+Otabek Shukurov,Central Midfield,28,EUR2.20m,Uzbekistan,Al-Fayha,Saudi Pro League,EUR400k
+Stefan Kovac,Central Midfield,25,EUR2.20m,Bosnia-Herzegovina,Partizan,Super liga Srbije,EUR350k
+Mohamed Bouldini,Centre-Forward,28,EUR2.20m,Morocco,Dep. La Coruna,LaLiga2,EUR300k
+Yahia Attiyat Allah,Left-Back,29,EUR2.20m,Morocco,Al Ahly,Premier League,Loan fee:EUR200k
+Callum O'Hare,Attacking Midfield,26,EUR2.20m,England,Sheff Utd,Championship,free transfer
+Ezequiel Bullaude,Attacking Midfield,23,EUR2.20m,Argentina,Fortuna Sittard,Eredivisie,loan transfer
+Kaine Kesler-Hayden,Right-Back,21,EUR2.20m,England,Preston,Championship,loan transfer
+Ashley Phillips,Centre-Back,19,EUR2.20m,England,Stoke City,Championship,loan transfer
+Unai Vencedor,Central Midfield,23,EUR2.20m,Spain,Racing,LaLiga2,loan transfer
+Alfie Devine,Attacking Midfield,20,EUR2.20m,England,KVC Westerlo,Jupiler Pro League,loan transfer
+Siriki Dembele,Left Winger,27,EUR2.20m,Scotland,Oxford United,Championship,?
+Ante Rebic,Left Winger,30,EUR2.20m,Croatia,Lecce,Serie A,free transfer
+Gyrano Kerk,Right Winger,28,EUR2.20m,Suriname,Royal Antwerp,Jupiler Pro League,free transfer
+Ravil Tagir,Centre-Back,21,EUR2.20m,Türkiye,Al-Jazira,UAE Pro League,?
+Iddrisu Baba,Central Midfield,28,EUR2.20m,Ghana,UD Almeria,LaLiga2,free transfer
+Ake Loba,Centre-Forward,26,EUR2.20m,Cote d'Ivoire,Queretaro FC,Liga MX Apertura,loan transfer
+Giuseppe Ambrosino,Centre-Forward,20,EUR2.20m,Italy,Frosinone,Serie B,loan transfer
+Wesley Hoedt,Centre-Back,30,EUR2.20m,Netherlands,Al-Shabab,Saudi Pro League,?
+Dorukhan Tokoz,Central Midfield,28,EUR2.10m,Türkiye,Eyupspor,Super Lig,free transfer
+Conrad Harder,Centre-Forward,19,EUR2.00m,Denmark,Sporting CP,Liga Portugal,EUR19.00m
+Ante Crnac,Centre-Forward,20,EUR2.00m,Croatia,Norwich,Championship,EUR11.00m
+Oscar Perea,Left Winger,18,EUR2.00m,Colombia,R. Strasbourg,Ligue 1,EUR5.20m
+Matias Moreno,Centre-Back,20,EUR2.00m,Argentina,Fiorentina,Serie A,EUR5.00m
+Deniz Gul,Centre-Forward,20,EUR2.00m,Sweden,FC Porto,Liga Portugal,EUR4.50m
+Jhoanner Chavez,Left-Back,22,EUR2.00m,Ecuador,Lens,Ligue 1,EUR4.50m
+Micah Hamilton,Left Winger,20,EUR2.00m,England,Middlesbrough,Championship,EUR4.10m
+Erencan Yardimci,Centre-Forward,22,EUR2.00m,Türkiye,TSG Hoffenheim,Bundesliga,EUR4.00m
+Diego Conde,Goalkeeper,25,EUR2.00m,Spain,Villarreal,LaLiga,EUR4.00m
+Fidel Barajas,Right Winger,18,EUR2.00m,Mexico,Chivas,Liga MX Apertura,EUR4.00m
+Fally Mayulu,Centre-Forward,21,EUR2.00m,France,Bristol City,Championship,EUR3.50m
+Amine El Ouazzani,Centre-Forward,22,EUR2.00m,Morocco,SC Braga,Liga Portugal,EUR3.50m
+Marin Soticek,Right Winger,19,EUR2.00m,Croatia,FC Basel,Super League,EUR3.00m
+Nasser Djiga,Centre-Back,21,EUR2.00m,Burkina Faso,Red Star,Super liga Srbije,EUR3.00m
+Joel Schingtienne,Centre-Back,22,EUR2.00m,Belgium,Venezia,Serie A,EUR3.00m
+Estanis Pedrola,Left Winger,20,EUR2.00m,Spain,Sampdoria,Serie B,EUR3.00m
+Can Keles,Right Winger,22,EUR2.00m,Austria,Besiktas,Super Lig,EUR2.75m
+Fabrizio Peralta,Defensive Midfield,21,EUR2.00m,Paraguay,Cruzeiro,Serie A,EUR2.70m
+Razvan Sava,Goalkeeper,22,EUR2.00m,Romania,Udinese Calcio,Serie A,EUR2.50m
+Herve Koffi,Goalkeeper,27,EUR2.00m,Burkina Faso,Lens,Ligue 1,EUR2.50m
+Ayrton Costa,Left-Back,24,EUR2.00m,Argentina,Royal Antwerp,Jupiler Pro League,EUR2.30m
+Omar Govea,Defensive Midfield,28,EUR2.00m,Mexico,Chivas,Liga MX Apertura,EUR2.30m
+Johan Rojas,Attacking Midfield,21,EUR2.00m,Colombia,Monterrey,Liga MX Apertura,EUR2.30m
+Alex Santana,Central Midfield,29,EUR2.00m,Brazil,Corinthians,Serie A,EUR2.20m
+Anis Hadj Moussa,Right Winger,22,EUR2.00m,Algeria,Feyenoord,Eredivisie,EUR3.50m
+Kevin Carlos,Centre-Forward,23,EUR2.00m,Spain,FC Basel,Super League,EUR3.40m
+Lucas Pires,Left-Back,23,EUR2.00m,Brazil,Burnley,Championship,EUR2.30m
+Jose Luis Rodriguez,Left Winger,26,EUR2.00m,Panama,Red Star,Super liga Srbije,EUR2.00m
+Fisayo Dele-Bashiru,Attacking Midfield,23,EUR2.00m,Nigeria,Lazio,Serie A,Loan fee:EUR2.00m
+Marvin Park,Right Winger,23,EUR2.00m,Spain,UD Las Palmas,LaLiga,EUR2.00m
+Richie Sagrado,Right-Back,20,EUR2.00m,Belgium,Venezia,Serie A,EUR2.00m
+Tommaso Barbieri,Right-Back,21,EUR2.00m,Italy,Cremonese,Serie B,EUR2.00m
+Mamadou Mbacke,Centre-Back,21,EUR2.00m,Senegal,Barca Atletic,Primera Federacion - Gr. I,EUR2.00m
+Mohammed Fuseini,Centre-Forward,22,EUR2.00m,Ghana,Union SG,Jupiler Pro League,EUR2.00m
+Aleksandr Kovalenko,Central Midfield,21,EUR2.00m,Russia,Orenburg,Premier Liga,EUR2.00m
+Arseniy Batagov,Centre-Back,22,EUR2.00m,Ukraine,Trabzonspor,Super Lig,EUR1.83m
+Achraf Dari,Centre-Back,25,EUR2.00m,Morocco,Al Ahly,Premier League,EUR1.80m
+Makhtar Gueye,Centre-Forward,26,EUR2.00m,Senegal,Blackburn,Championship,EUR1.80m
+Armin Gigovic,Central Midfield,22,EUR2.00m,Bosnia-Herzegovina,Holstein Kiel,Bundesliga,EUR1.80m
+Sam Gallagher,Centre-Forward,28,EUR2.00m,England,Stoke City,Championship,EUR1.80m
+Kieffer Moore,Centre-Forward,31,EUR2.00m,Wales,Sheff Utd,Championship,EUR1.79m
+Dimitrios Nikolaou,Centre-Back,25,EUR2.00m,Greece,Palermo,Serie B,EUR1.60m
+Rasmus Carstensen,Right-Back,23,EUR2.00m,Denmark,1.FC Koln,2. Bundesliga,EUR1.50m
+Timi Max Elsnik,Central Midfield,26,EUR2.00m,Slovenia,Red Star,Super liga Srbije,EUR1.50m
+Sayfallah Ltaief,Left Winger,24,EUR2.00m,Tunisia,Twente FC,Eredivisie,EUR1.50m
+Rui Modesto,Right Midfield,24,EUR2.00m,Angola,Udinese Calcio,Serie A,EUR1.50m
+Juan Carlos Arana,Centre-Forward,24,EUR2.00m,Spain,Racing,LaLiga2,EUR1.50m
+Matthias Braunoder,Central Midfield,22,EUR2.00m,Austria,Como,Serie A,EUR1.50m
+Haissem Hassan,Right Winger,22,EUR2.00m,France,Real Oviedo,LaLiga2,EUR1.50m
+Jerome Opoku,Centre-Back,25,EUR2.00m,Ghana,Basaksehir,Super Lig,EUR1.50m
+Karlo Muhar,Defensive Midfield,28,EUR2.00m,Croatia,Al-Orobah,Saudi Pro League,EUR1.50m
+Danley Jean Jacques,Defensive Midfield,24,EUR2.00m,Haiti,Philadelphia,MLS,EUR1.40m
+Kristian Arnstad,Central Midfield,20,EUR2.00m,Norway,Aarhus GF,Superliga,EUR1.35m
+Maximilian Entrup,Centre-Forward,26,EUR2.00m,Austria,LASK,Bundesliga,EUR1.30m
+Braian Aguirre,Right-Back,24,EUR2.00m,Argentina,Internacional,Serie A,EUR1.27m
+Plamen Andreev,Goalkeeper,19,EUR2.00m,Bulgaria,Feyenoord,Eredivisie,EUR1.20m
+Lyndon Dykes,Centre-Forward,28,EUR2.00m,Scotland,Birmingham,League One,EUR1.20m
+Srdjan Mijailovic,Defensive Midfield,30,EUR2.00m,Serbia,Al-Wasl,UAE Pro League,EUR1.20m
+Oleksandr Svatok,Centre-Back,29,EUR2.00m,Ukraine,Austin,MLS,EUR1.20m
+William Troost-Ekong,Centre-Back,30,EUR2.00m,Nigeria,Al-Kholood,Saudi Pro League,EUR1.20m
+Aguibou Camara,Attacking Midfield,23,EUR2.00m,Guinea,Ludogorets,efbet Liga,EUR1.09m
+Maximilian Philipp,Second Striker,30,EUR2.00m,Germany,SC Freiburg,Bundesliga,EUR1.00m
+Stepan Chaloupek,Centre-Back,21,EUR2.00m,Czech Republic,Slavia Prague,Chance Liga,EUR1.00m
+Noah Ohio,Centre-Forward,21,EUR2.00m,Netherlands,FC Utrecht,Eredivisie,EUR1.00m
+Philipp Max,Left-Back,30,EUR2.00m,Germany,Panathinaikos,Super League 1,EUR1.00m
+Magnus Knudsen,Central Midfield,23,EUR2.00m,Norway,Holstein Kiel,Bundesliga,EUR1.00m
+Janis Blaswich,Goalkeeper,33,EUR2.00m,Germany,RB Salzburg,Bundesliga,Loan fee:EUR1.00m
+Shapi Suleymanov,Right Winger,24,EUR2.00m,Russia,Aris Saloniki,Super League 1,EUR1.00m
+Giorgio Altare,Centre-Back,25,EUR2.00m,Italy,Venezia,Serie A,EUR1.00m
+Bart van Rooij,Right-Back,23,EUR2.00m,Netherlands,Twente FC,Eredivisie,EUR900k
+Dejan Zukic,Attacking Midfield,23,EUR2.00m,Serbia,Wolfsberger AC,Bundesliga,EUR900k
+Nihad Mujakic,Centre-Back,26,EUR2.00m,Bosnia-Herzegovina,Partizan,Super liga Srbije,EUR895k
+Matej Maglica,Centre-Back,25,EUR2.00m,Croatia,Darmstadt 98,2. Bundesliga,EUR800k
+Ariel Mosor,Centre-Back,21,EUR2.00m,Poland,Rakow,Ekstraklasa,EUR750k
+Dawid Kownacki,Centre-Forward,27,EUR2.00m,Poland,F. Dusseldorf,2. Bundesliga,Loan fee:EUR700k
+William Balikwisha,Attacking Midfield,25,EUR2.00m,DR Congo,OH Leuven,Jupiler Pro League,EUR650k
+Aziel Jackson,Attacking Midfield,22,EUR2.00m,United States,Columbus,MLS,EUR606k
+Frans Kratzig,Left-Back,21,EUR2.00m,Germany,VfB Stuttgart,Bundesliga,Loan fee:EUR500k
+Giannis Papanikolaou,Defensive Midfield,25,EUR2.00m,Greece,C. Rizespor,Super Lig,EUR500k
+Facundo Gonzalez,Centre-Back,21,EUR2.00m,Uruguay,Feyenoord,Eredivisie,Loan fee:EUR500k
+Oleksandr Syrota,Centre-Back,24,EUR2.00m,Ukraine,Maccabi Haifa,Ligat ha'Al,Loan fee:EUR500k
+David Bates,Centre-Back,27,EUR2.00m,Scotland,Standard Liege,Jupiler Pro League,EUR500k
+Can Keles,Right Winger,22,EUR2.00m,Austria,Karagumruk,1.Lig,EUR500k
+Luca Zidane,Goalkeeper,26,EUR2.00m,France,Granada CF,LaLiga2,EUR500k
+Yan Valery,Right-Back,25,EUR2.00m,Tunisia,Sheff Wed,Championship,EUR474k
+Constantin Grameni,Central Midfield,21,EUR2.00m,Romania,FC Rapid,SuperLiga,EUR400k
+Marco Richter,Attacking Midfield,26,EUR2.00m,Germany,Hamburger SV,2. Bundesliga,Loan fee:EUR300k
+Thomas Henry,Centre-Forward,29,EUR2.00m,France,Palermo,Serie B,Loan fee:EUR280k
+Nicolas Lopez,Centre-Forward,30,EUR2.00m,Uruguay,Nacional,Primera Division Clausura,Loan fee:EUR250k
+Paul Jaeckel,Centre-Back,26,EUR2.00m,Germany,E. Braunschweig,2. Bundesliga,Loan fee:EUR200k
+Edgar Sevikyan,Right Winger,23,EUR2.00m,Armenia,Loko Moscow,Premier Liga,Loan fee:EUR200k
+Daisuke Yokota,Right Winger,24,EUR2.00m,Japan,1.FC K'lautern,2. Bundesliga,loan transfer
+Xherdan Shaqiri,Attacking Midfield,32,EUR2.00m,Switzerland,FC Basel,Super League,free transfer
+Maurice Krattenmacher,Attacking Midfield,18,EUR2.00m,Germany,Bayern Munich,Bundesliga,?
+Cenk Tosun,Centre-Forward,33,EUR2.00m,Türkiye,Fenerbahce,Super Lig,free transfer
+John Brooks,Centre-Back,31,EUR2.00m,United States,Hertha BSC,2. Bundesliga,free transfer
+Maurice Krattenmacher,Attacking Midfield,18,EUR2.00m,Germany,SSV Ulm 1846,2. Bundesliga,loan transfer
+Jakov Medic,Centre-Back,25,EUR2.00m,Croatia,VfL Bochum,Bundesliga,loan transfer
+Koji Miyoshi,Right Midfield,27,EUR2.00m,Japan,VfL Bochum,Bundesliga,?
+Bence Dardai,Attacking Midfield,18,EUR2.00m,Germany,VfL Wolfsburg,Bundesliga,free transfer
+Gabriel Paulista,Centre-Back,33,EUR2.00m,Brazil,Besiktas,Super Lig,free transfer
+Erencan Yardimci,Centre-Forward,22,EUR2.00m,Türkiye,Sturm Graz,Bundesliga,loan transfer
+Rachid Ghezzal,Right Winger,32,EUR2.00m,Algeria,C. Rizespor,Super Lig,free transfer
+Adu Ares,Right Winger,22,EUR2.00m,Spain,Real Zaragoza,LaLiga2,loan transfer
+Amario Cozier-Duberry,Right Winger,19,EUR2.00m,England,Blackburn,Championship,loan transfer
+Bendeguz Bolla,Right-Back,24,EUR2.00m,Hungary,Rapid Vienna,Bundesliga,free transfer
+Emil Konradsen Ceide,Left Winger,22,EUR2.00m,Norway,Rosenborg,Eliteserien,loan transfer
+Hector Hernandez,Centre-Forward,28,EUR2.00m,Spain,Corinthians,Serie A,free transfer
+Yoann Cathline,Left Winger,22,EUR2.00m,France,FC Utrecht,Eredivisie,loan transfer
+Luquinhas,Attacking Midfield,27,EUR2.00m,Brazil,Legia Warszawa,Ekstraklasa,loan transfer
+Tymoteusz Puchacz,Left-Back,25,EUR2.00m,Poland,Holstein Kiel,Bundesliga,?
+Martin Frese,Left-Back,26,EUR2.00m,Denmark,Hellas Verona,Serie A,free transfer
+Luuk Brouwers,Attacking Midfield,26,EUR2.00m,Netherlands,Heerenveen,Eredivisie,?
+Jesurun Rak-Sakyi,Right Winger,21,EUR2.00m,England,Sheff Utd,Championship,loan transfer
+Allan Campbell,Central Midfield,26,EUR2.00m,Scotland,Charlton,League One,loan transfer
+Karl Hein,Goalkeeper,22,EUR2.00m,Estonia,Real Valladolid,LaLiga,loan transfer
+Jeff Reine-Adelaide,Attacking Midfield,26,EUR2.00m,France,Salernitana,Serie B,free transfer
+Szymon Wlodarczyk,Centre-Forward,21,EUR2.00m,Poland,Salernitana,Serie B,loan transfer
+Nathanael Mbuku,Left Winger,22,EUR2.00m,DR Congo,Dinamo Zagreb,SuperSport HNL,?
+Ivan Perisic,Left Winger,35,EUR2.00m,Croatia,Hajduk Split,SuperSport HNL,free transfer
+Patric Pfeiffer,Centre-Back,24,EUR2.00m,Ghana,BSC Young Boys,Super League,loan transfer
+Adnan Januzaj,Right Winger,29,EUR2.00m,Belgium,UD Las Palmas,LaLiga,loan transfer
+Louis Patris,Right-Back,23,EUR2.00m,Belgium,Sint-Truiden,Jupiler Pro League,loan transfer
+Lucas Oliveira,Centre-Back,28,EUR2.00m,Brazil,Kyoto Sanga,J1 League,loan transfer
+Nacho Ferri,Centre-Forward,19,EUR2.00m,Spain,KV Kortrijk,Jupiler Pro League,loan transfer
+Takuro Kaneko,Right Winger,26,EUR2.00m,Japan,KV Kortrijk,Jupiler Pro League,?
+Alex Sandro,Left-Back,33,EUR2.00m,Brazil,Flamengo,Serie A,free transfer
+Alvaro Tejero,Right-Back,27,EUR2.00m,Spain,Espanyol,LaLiga,free transfer
+Junior Sambia,Right-Back,27,EUR2.00m,France,FC Empoli,Serie A,loan transfer
+Tudor Baluta,Defensive Midfield,25,EUR2.00m,Romania,Slask Wroclaw,Ekstraklasa,free transfer
+Dylan Chambost,Attacking Midfield,26,EUR2.00m,France,Columbus,MLS,?
+Omer Atzili,Right Winger,31,EUR2.00m,Israel,Omonia Nikosia,Cyprus League,free transfer
+Alan Medina,Right Winger,26,EUR2.00m,Uruguay,Penarol,Primera Division Clausura,loan transfer
+George Hall,Right Winger,20,EUR2.00m,England,Walsall,League Two,loan transfer
+Vicente Taborda,Attacking Midfield,23,EUR2.00m,Argentina,Platense,Liga Profesional,loan transfer
+Marcos Alonso,Left-Back,33,EUR2.00m,Spain,Celta de Vigo,LaLiga,free transfer
+Cheick Souare,Left Midfield,21,EUR2.00m,France,Viktoria Plzen,Chance Liga,?
+Garcia,Right-Back,22,EUR2.00m,Brazil,Nacional,Liga Portugal,loan transfer
+Matheus Dias,Defensive Midfield,22,EUR2.00m,Brazil,Nacional,Liga Portugal,loan transfer
+Alessandro Bellemo,Central Midfield,28,EUR2.00m,Italy,Sampdoria,Serie B,loan transfer
+German Valera,Right Winger,22,EUR2.00m,Spain,Valencia,LaLiga,free transfer
+Joao Ferreira,Right-Back,23,EUR2.00m,Portugal,SC Braga,Liga Portugal,loan transfer
+Konstantin Kuchaev,Attacking Midfield,26,EUR2.00m,Russia,Rostov,Premier Liga,free transfer
+Tiemoue Bakayoko,Defensive Midfield,30,EUR2.00m,France,PAOK Salonika,Super League 1,?
+Moussa Diarra,Centre-Back,23,EUR2.00m,Mali,Alaves,LaLiga,free transfer
+Callum Marshall,Centre-Forward,19,EUR2.00m,Northern Ireland,Huddersfield,League One,loan transfer
+Shurandy Sambo,Right-Back,22,EUR2.00m,Netherlands,Burnley,Championship,free transfer
+Amario Cozier-Duberry,Right Winger,19,EUR2.00m,England,Brighton,Premier League,free transfer
+Adria Altimira,Right-Back,23,EUR2.00m,Spain,CD Leganes,LaLiga,loan transfer
+Tristan Gooijer,Right-Back,19,EUR2.00m,Netherlands,PEC Zwolle,Eredivisie,loan transfer
+Jamiro Monteiro,Central Midfield,30,EUR2.00m,Cape Verde,PEC Zwolle,Eredivisie,free transfer
+Jim Allevinah,Right Winger,29,EUR2.00m,Gabon,Angers SCO,Ligue 1,free transfer
+Luciano Vietto,Centre-Forward,30,EUR2.00m,Argentina,Racing Club,Liga Profesional,free transfer
+Antonio Puertas,Right Winger,32,EUR2.00m,Spain,SD Eibar,LaLiga2,free transfer
+Pipa,Right-Back,26,EUR2.00m,Spain,Burgos CF,LaLiga2,loan transfer
+Andrey,Defensive Midfield,26,EUR2.00m,Brazil,Ceara SC,Serie B,loan transfer
+Sekou Gassama,Attacking Midfield,23,EUR2.00m,United Arab Emirates,Al-Ain,UAE Pro League,?
+Cesar Perez,Central Midfield,21,EUR2.00m,Chile,Defensa,Liga Profesional,?
+Erik Lamela,Right Winger,32,EUR2.00m,Argentina,AEK Athens,Super League 1,free transfer
+Roberto Pereyra,Central Midfield,33,EUR2.00m,Argentina,AEK Athens,Super League 1,free transfer
+Lino Sousa,Left-Back,19,EUR2.00m,England,Bristol Rovers,League One,loan transfer
+Carlos Dotor,Central Midfield,23,EUR2.00m,Spain,Real Oviedo,LaLiga2,loan transfer
+Oscar Melendo,Attacking Midfield,27,EUR2.00m,Spain,Cadiz CF,LaLiga2,?
+Omari Forson,Right Winger,19,EUR2.00m,England,Monza,Serie A,free transfer
+Massadio Haidara,Left-Back,31,EUR2.00m,Mali,Stade Brestois,Ligue 1,free transfer
+Sebastian Palacios,Right Winger,32,EUR2.00m,Argentina,CA Talleres,Liga Profesional,free transfer
+Demba Seck,Right Winger,23,EUR2.00m,Senegal,Catanzaro,Serie B,loan transfer
+Stiven Shpendi,Centre-Forward,21,EUR2.00m,Albania,Carrarese,Serie B,loan transfer
+Salvador Reyes,Left-Back,26,EUR2.00m,Mexico,Leon,Liga MX Apertura,?
+Diego Hernandez,Attacking Midfield,24,EUR2.00m,Uruguay,Leon,Liga MX Apertura,loan transfer
+Marcel Tisserand,Centre-Back,31,EUR2.00m,DR Congo,Al-Khaleej,Saudi Pro League,loan transfer
+Stuart Armstrong,Central Midfield,32,EUR2.00m,Scotland,Vancouver,MLS,free transfer
+Nathan,Right-Back,22,EUR2.00m,Brazil,Internacional,Serie A,loan transfer
+Everton Galdino,Right Winger,27,EUR2.00m,Brazil,FC Tokyo,J1 League,loan transfer
+Fredrik Midtsjo,Central Midfield,30,EUR2.00m,Norway,Eyupspor,Super Lig,?
+Emre Mor,Right Winger,27,EUR2.00m,Türkiye,Eyupspor,Super Lig,loan transfer
+Patrick de Paula,Defensive Midfield,24,EUR2.00m,Brazil,Criciuma EC,Serie A,loan transfer
+Mamadou Loum,Defensive Midfield,27,EUR2.00m,Senegal,Arouca,Liga Portugal,free transfer
+David Ospina,Goalkeeper,35,EUR2.00m,Colombia,Atl. Nacional,Liga DIMAYOR II,free transfer
+Eduardo Aguirre,Centre-Forward,25,EUR2.00m,Mexico,Atlas,Liga MX Apertura,?
+Emi Rodriguez,Right Winger,21,EUR2.00m,Mexico,Celta Fortuna,Primera Federacion - Gr. I,loan transfer
+Oriol Romeu,Defensive Midfield,32,EUR2.00m,Spain,Girona,LaLiga,loan transfer
+Adama Traore,Attacking Midfield,29,EUR2.00m,Mali,Amed SK,1.Lig,free transfer
+Chico Geraldes,Attacking Midfield,29,EUR2.00m,Portugal,Eldense,LaLiga2,loan transfer
+Matija Popovic,Attacking Midfield,18,EUR2.00m,Serbia,Napoli U19,Primavera 2 - B,free transfer
+Domingo Blanco,Right Winger,29,EUR2.00m,Argentina,Club Tijuana,Liga MX Apertura,free transfer
+Farid Boulaya,Attacking Midfield,31,EUR2.00m,Algeria,Al-Wakrah SC,Stars League,free transfer
+Fedor Smolov,Centre-Forward,34,EUR2.00m,Russia,Krasnodar,Premier Liga,free transfer
+Ignacio de Arruabarrena,Goalkeeper,27,EUR2.00m,Uruguay,Al-Wehda,Saudi Pro League,free transfer
+Flavio,Central Midfield,28,EUR2.00m,Brazil,Al-Taawoun,Saudi Pro League,free transfer
+Faiz Selemani,Left Winger,30,EUR2.00m,Comoros,Al-Riyadh,Saudi Pro League,?
+Ahmed Hegazy,Centre-Back,33,EUR2.00m,Egypt,NEOM SC,Saudi First Division League,free transfer
+Mateo Tanlongo,Defensive Midfield,21,EUR2.00m,Argentina,Pafos FC,Cyprus League,loan transfer
+Carlos Salcedo,Centre-Back,30,EUR2.00m,Mexico,FC Juarez,Liga MX Apertura,free transfer
+Moussa Marega,Centre-Forward,33,EUR2.00m,Mali,Al-Diraiyah FC,N/A,?
+Marcos Paulo,Left Winger,23,EUR2.00m,Portugal,RWDM,Challenger Pro League,loan transfer
+Artem Dzyuba,Centre-Forward,36,EUR2.00m,Russia,Akron Togliatti,Premier Liga,free transfer
+Cedric Teuchert,Centre-Forward,27,EUR2.00m,Germany,St. Louis CITY,MLS,free transfer
+Jordan Sierra,Central Midfield,27,EUR2.00m,Ecuador,Mazatlan FC,Liga MX Apertura,?
+Andreas Hountondji,Centre-Forward,22,EUR1.80m,Benin,Burnley,Championship,EUR4.00m
+Milton Gimenez,Centre-Forward,27,EUR1.80m,Argentina,Boca Juniors,Liga Profesional,EUR3.70m
+Luan,Centre-Back,31,EUR1.80m,Brazil,Toluca,Liga MX Apertura,EUR3.30m
+Abel Bretones,Left-Back,23,EUR1.80m,Spain,CA Osasuna,LaLiga,EUR2.80m
+Hyeon-gyu Oh,Centre-Forward,23,EUR1.80m,"Korea, South",KRC Genk,Jupiler Pro League,EUR2.70m
+Eduardo Guerrero,Centre-Forward,24,EUR1.80m,Panama,Dynamo Kyiv,Premier Liga,EUR2.50m
+Agustin Martegani,Attacking Midfield,24,EUR1.80m,Argentina,Boca Juniors,Liga Profesional,EUR2.40m
+Mason Burstow,Centre-Forward,21,EUR1.80m,England,Hull City,Championship,EUR2.35m
+Louis Munteanu,Centre-Forward,22,EUR1.80m,Romania,CFR Cluj,SuperLiga,EUR2.30m
+Pedro Mendes,Centre-Forward,24,EUR1.80m,Portugal,Modena,Serie B,EUR2.20m
+Emil Bohinen,Defensive Midfield,25,EUR1.80m,Norway,Genoa,Serie A,EUR2.00m
+Jesper Karlstrom,Defensive Midfield,29,EUR1.80m,Sweden,Udinese Calcio,Serie A,EUR2.00m
+Rodrigo Saravia,Defensive Midfield,23,EUR1.80m,Uruguay,Rostov,Premier Liga,EUR1.95m
+Nestory Irankunda,Right Winger,18,EUR1.80m,Australia,FC Bayern II,Regionalliga Bayern,EUR3.00m
+Iker Losada,Second Striker,22,EUR1.80m,Spain,Real Betis,LaLiga,EUR1.80m
+Chukwubuikem Ikwuemesi,Centre-Forward,22,EUR1.80m,Nigeria,OH Leuven,Jupiler Pro League,EUR1.80m
+Jacob Trenskow,Right Winger,23,EUR1.80m,Denmark,Heerenveen,Eredivisie,EUR1.50m
+Fran Brodic,Centre-Forward,27,EUR1.80m,Croatia,Ujpest FC,NB I.,EUR1.50m
+Danila Kozlov,Attacking Midfield,19,EUR1.80m,Russia,Krasnodar,Premier Liga,EUR1.25m
+Ivan Prtajin,Centre-Forward,28,EUR1.80m,Croatia,Union Berlin,Bundesliga,EUR1.00m
+Valentyn Rubchynskyi,Central Midfield,22,EUR1.80m,Ukraine,Dynamo Kyiv,Premier Liga,EUR1.00m
+Niccolo Pierozzi,Right-Back,22,EUR1.80m,Italy,Palermo,Serie B,EUR1.00m
+Leopold Wahlstedt,Goalkeeper,24,EUR1.80m,Sweden,Aarhus GF,Superliga,EUR1.00m
+Marco Curto,Centre-Back,25,EUR1.80m,Italy,Como,Serie A,EUR1.00m
+Gabriel Fuentes,Left-Back,27,EUR1.80m,Colombia,Fluminense,Serie A,EUR1.00m
+Darko Nejasmic,Defensive Midfield,25,EUR1.80m,Croatia,Sharjah FC,UAE Pro League,EUR1.00m
+Yazan Al-Naimat,Centre-Forward,25,EUR1.80m,Jordan,Al-Arabi SC,Stars League,EUR896k
+Stefan Teitur Thordarson,Central Midfield,25,EUR1.80m,Iceland,Preston,Championship,EUR830k
+Kenzo Goudmijn,Central Midfield,22,EUR1.80m,Netherlands,Derby,Championship,EUR820k
+Kevin Velasco,Right Winger,27,EUR1.80m,Colombia,Puebla FC,Liga MX Apertura,EUR744k
+Gabriel Neves,Defensive Midfield,26,EUR1.80m,Uruguay,Estudiantes LP,Liga Profesional,EUR735k
+Youcef Belaili,Left Winger,32,EUR1.80m,Algeria,Esperance,Ligue I Pro,EUR679k
+Cristian Ferreira,Central Midfield,24,EUR1.80m,Argentina,Argentinos Jrs.,Liga Profesional,EUR631k
+Aleksa Djurasovic,Defensive Midfield,21,EUR1.80m,Serbia,Akron Togliatti,Premier Liga,EUR500k
+Michael Cuisance,Central Midfield,24,EUR1.80m,France,Hertha BSC,2. Bundesliga,EUR300k
+Agustin Palavecino,Central Midfield,27,EUR1.80m,Argentina,Necaxa,Liga MX Apertura,Loan fee:EUR280k
+Birger Verstraete,Defensive Midfield,30,EUR1.80m,Belgium,OH Leuven,Jupiler Pro League,EUR200k
+Mika Baur,Left Winger,19,EUR1.80m,Germany,SC Paderborn,2. Bundesliga,EUR100k
+Stefanos Tzimas,Centre-Forward,18,EUR1.80m,Greece,1.FC Nuremberg,2. Bundesliga,loan transfer
+Killian Corredor,Centre-Forward,23,EUR1.80m,France,Darmstadt 98,2. Bundesliga,?
+Neraysho Kasanwirjo,Right-Back,22,EUR1.80m,Netherlands,Rangers,Premiership,loan transfer
+Ager Aketxe,Attacking Midfield,30,EUR1.80m,Spain,Real Zaragoza,LaLiga2,free transfer
+Lewis Baker,Central Midfield,29,EUR1.80m,England,Blackburn,Championship,loan transfer
+Aiham Ousou,Centre-Back,24,EUR1.80m,Syria,R Charleroi SC,Jupiler Pro League,loan transfer
+Mounir Chouiar,Left Winger,25,EUR1.80m,France,FC Zurich,Super League,loan transfer
+Grigoris Kastanos,Attacking Midfield,26,EUR1.80m,Cyprus,Hellas Verona,Serie A,loan transfer
+Tyrese Campbell,Centre-Forward,24,EUR1.80m,England,Sheff Utd,Championship,free transfer
+Adrian Embarba,Right Winger,32,EUR1.80m,Spain,Rayo Vallecano,LaLiga,loan transfer
+Lazar Randjelovic,Right Winger,27,EUR1.80m,Serbia,Vojvodina,Super liga Srbije,?
+Tomas Veron Lupi,Right Winger,24,EUR1.80m,Argentina,Grasshoppers,Super League,loan transfer
+Andros Townsend,Right Winger,33,EUR1.80m,England,Antalyaspor,Super Lig,?
+Chris Willock,Left Winger,26,EUR1.80m,England,Cardiff,Championship,free transfer
+Daniel Naumov,Goalkeeper,26,EUR1.80m,Bulgaria,OFI Crete FC,Super League 1,free transfer
+Dani Garcia,Central Midfield,34,EUR1.80m,Spain,Olympiacos,Super League 1,free transfer
+Facundo Batista,Centre-Forward,25,EUR1.80m,Uruguay,Penarol,Primera Division Clausura,loan transfer
+Renat Dadashov,Centre-Forward,25,EUR1.80m,Azerbaijan,Ankaragucu,1.Lig,?
+Dane Scarlett,Centre-Forward,20,EUR1.80m,England,Oxford United,Championship,loan transfer
+Kevin Bonifazi,Centre-Back,28,EUR1.80m,Italy,Lecce,Serie A,loan transfer
+Japhet Tanganga,Centre-Back,25,EUR1.80m,England,Millwall,Championship,free transfer
+Ebenezer Akinsanmiro,Central Midfield,19,EUR1.80m,Nigeria,Sampdoria,Serie B,loan transfer
+Alberto Moreno,Left-Back,32,EUR1.80m,Spain,Como,Serie A,free transfer
+Gabri Martinez,Left Winger,21,EUR1.80m,Spain,SC Braga,Liga Portugal,free transfer
+Aissa Mandi,Centre-Back,32,EUR1.80m,Algeria,LOSC Lille,Ligue 1,free transfer
+Facundo Garces,Centre-Back,25,EUR1.80m,Argentina,Alaves,LaLiga,free transfer
+Arthur Okonkwo,Goalkeeper,22,EUR1.80m,England,Wrexham,League One,free transfer
+Marco Curto,Centre-Back,25,EUR1.80m,Italy,Cesena,Serie B,loan transfer
+Malcom Bokele,Centre-Back,24,EUR1.80m,Cameroon,Goztepe,Super Lig,free transfer
+Aitor Cantalapiedra,Right Winger,28,EUR1.80m,Spain,AEK Larnaca,Cyprus League,?
+Darko Gyabi,Central Midfield,20,EUR1.80m,England,Plymouth,Championship,loan transfer
+Duvan Vergara,Left Winger,27,EUR1.80m,Colombia,CD America,Liga DIMAYOR II,free transfer
+Danil Krugovoy,Left-Back,26,EUR1.80m,Russia,CSKA Moscow,Premier Liga,free transfer
+Thomas van den Belt,Defensive Midfield,23,EUR1.80m,Netherlands,Castellon,LaLiga2,loan transfer
+Stefan Mitrovic,Left Winger,22,EUR1.80m,Serbia,OH Leuven,Jupiler Pro League,loan transfer
+Henrique Pereira,Left Winger,22,EUR1.80m,Portugal,Casa Pia,Liga Portugal,loan transfer
+Ivan Rodriguez,Defensive Midfield,28,EUR1.80m,Mexico,America,Liga MX Apertura,loan transfer
+Rhys Williams,Centre-Back,23,EUR1.80m,England,Morecambe FC,League Two,loan transfer
+Iqraam Rayners,Centre-Forward,28,EUR1.80m,South Africa,Sundowns,Betway Premiership,?
+Anastasios Chatzigiovanis,Left Winger,27,EUR1.80m,Greece,Eyupspor,Super Lig,free transfer
+Bilal Boutobba,Right Winger,26,EUR1.80m,France,Hatayspor,Super Lig,?
+Filippo Distefano,Second Striker,20,EUR1.80m,Italy,Frosinone,Serie B,loan transfer
+Kristoffer Klaesson,Goalkeeper,23,EUR1.80m,Norway,Rakow,Ekstraklasa,free transfer
+Kevin Rodrigues,Left-Back,30,EUR1.80m,Portugal,Kasimpasa,Super Lig,free transfer
+Oleksiy Kashchuk,Right Winger,24,EUR1.80m,Ukraine,Qarabag FK,Premyer Liqa,free transfer
+Ui-jo Hwang,Centre-Forward,32,EUR1.80m,"Korea, South",Alanyaspor,Super Lig,?
+Alexander Scholz,Centre-Back,31,EUR1.80m,Denmark,Al-Wakrah SC,Stars League,?
+Ivan Tapia,Central Midfield,25,EUR1.80m,Argentina,Barracas C.,Liga Profesional,free transfer
+Eden Karzev,Defensive Midfield,24,EUR1.80m,Israel,SZ Peng City,Super League,loan transfer
+Rafa Rodrigues,Left-Back,22,EUR1.80m,Portugal,Avs FS,Liga Portugal,loan transfer
+German Onugkha,Centre-Forward,28,EUR1.70m,Russia,FC Copenhagen,Superliga,EUR1.50m
+Takumu Kawamura,Defensive Midfield,24,EUR1.70m,Japan,RB Salzburg,Bundesliga,EUR1.50m
+Marius Stefanescu,Right Winger,25,EUR1.70m,Romania,FCSB,SuperLiga,EUR1.30m
+Ricardinho,Centre-Forward,23,EUR1.70m,Brazil,Viktoria Plzen,Chance Liga,EUR1.20m
+Jemerson,Centre-Back,31,EUR1.70m,Brazil,Gremio,Serie A,EUR700k
+Andres Herrera,Right-Back,25,EUR1.70m,Argentina,Columbus,MLS,Loan fee:EUR275k
+Caden Clark,Attacking Midfield,21,EUR1.70m,United States,Montreal,MLS,EUR46k
+Vaclav Jurecka,Centre-Forward,30,EUR1.70m,Czech Republic,C. Rizespor,Super Lig,?
+Alexis Tibidi,Left Winger,20,EUR1.70m,France,LASK,Bundesliga,?
+Soner Dikmen,Central Midfield,30,EUR1.70m,Türkiye,Antalyaspor,Super Lig,free transfer
+Pedro Santos,Right Winger,21,EUR1.70m,Portugal,Moreirense,Liga Portugal,loan transfer
+Davide Veroli,Left-Back,21,EUR1.70m,Italy,Sampdoria,Serie B,loan transfer
+Isak Jensen,Left Winger,20,EUR1.70m,Denmark,Viborg FF,Superliga,?
+Haris Belkebla,Central Midfield,30,EUR1.70m,Algeria,Angers SCO,Ligue 1,free transfer
+Max Meyer,Attacking Midfield,28,EUR1.70m,Germany,APOEL Nicosia,Cyprus League,free transfer
+Franco Moyano,Central Midfield,26,EUR1.70m,Argentina,CA Talleres,Liga Profesional,free transfer
+Federico Zuccon,Central Midfield,21,EUR1.70m,Italy,Juve Stabia,Serie B,loan transfer
+Nicholas Pierini,Right Winger,26,EUR1.70m,Italy,Sassuolo,Serie B,?
+Guven Yalcin,Centre-Forward,25,EUR1.70m,Türkiye,Arouca,Liga Portugal,loan transfer
+Mbaye Diagne,Centre-Forward,32,EUR1.70m,Senegal,NEOM SC,Saudi First Division League,?
+Idan Toklomati,Centre-Forward,20,EUR1.60m,Israel,Crown Legacy FC,MLS Next Pro,EUR3.50m
+Delano Burgzorg,Left Winger,25,EUR1.60m,Suriname,Middlesbrough,Championship,EUR2.75m
+Rikelme,Left-Back,21,EUR1.60m,Brazil,Shabab Al-Ahli,UAE Pro League,EUR2.75m
+Daniel Birligea,Centre-Forward,24,EUR1.60m,Romania,FCSB,SuperLiga,EUR2.50m
+Ermal Krasniqi,Left Winger,25,EUR1.60m,Kosovo,Sparta Prague,Chance Liga,EUR2.00m
+Massimiliano Mangraviti,Centre-Back,26,EUR1.60m,Italy,Cesena,Serie B,EUR300k
+Marley Ake,Left Winger,23,EUR1.60m,France,Yverdon Sport,Super League,?
+Ahmed Touba,Centre-Back,26,EUR1.60m,Algeria,KV Mechelen,Jupiler Pro League,loan transfer
+Pablo Rodriguez,Second Striker,22,EUR1.60m,Spain,Racing,LaLiga2,loan transfer
+Louie Sibley,Central Midfield,22,EUR1.60m,England,Oxford United,Championship,free transfer
+Charles Aranguiz,Central Midfield,35,EUR1.60m,Chile,U. de Chile,Primera Division,free transfer
+Mateusz Lis,Goalkeeper,27,EUR1.60m,Poland,Goztepe,Super Lig,?
+Paulino de la Fuente,Right Winger,27,EUR1.60m,Spain,Real Oviedo,LaLiga2,?
+Ilyas Chaira,Right Winger,23,EUR1.60m,Morocco,Real Oviedo,LaLiga2,loan transfer
+Emiliano Gomez,Second Striker,22,EUR1.60m,Uruguay,Puebla FC,Liga MX Apertura,loan transfer
+Giorgi Kvilitaia,Centre-Forward,30,EUR1.60m,Georgia,Aris Limassol,Cyprus League,free transfer
+Alfa Semedo,Defensive Midfield,26,EUR1.60m,Guinea-Bissau,NEOM SC,Saudi First Division League,free transfer
+Taylan Antalyali,Central Midfield,29,EUR1.60m,Türkiye,Bodrum FK,Super Lig,loan transfer
+Gokhan Akkan,Goalkeeper,29,EUR1.60m,Türkiye,Bodrum FK,Super Lig,?
+Franjo Ivanovic,Centre-Forward,20,EUR1.50m,Croatia,Union SG,Jupiler Pro League,EUR4.00m
+Antoine Joujou,Left Winger,21,EUR1.50m,France,Parma,Serie A,EUR3.00m
+Mihailo Ivanovic,Centre-Forward,19,EUR1.50m,Serbia,Millwall,Championship,EUR3.00m
+Pau Victor,Centre-Forward,22,EUR1.50m,Spain,Barcelona,LaLiga,EUR2.70m
+Norman Bassette,Centre-Forward,19,EUR1.50m,Belgium,Coventry,Championship,EUR2.70m
+Kaishu Sano,Defensive Midfield,23,EUR1.50m,Japan,1.FSV Mainz 05,Bundesliga,EUR2.50m
+Dmitriy Vorobyov,Centre-Forward,26,EUR1.50m,Russia,Loko Moscow,Premier Liga,EUR2.50m
+Marc Oliver Kempf,Centre-Back,29,EUR1.50m,Germany,Como,Serie A,EUR2.50m
+Nikolas Sattlberger,Defensive Midfield,20,EUR1.50m,Austria,KRC Genk,Jupiler Pro League,EUR2.50m
+Jose Juan Macias,Centre-Forward,24,EUR1.50m,Mexico,Santos Laguna,Liga MX Apertura,EUR2.33m
+Lasso Coulibaly,Right Winger,21,EUR1.50m,Cote d'Ivoire,AJ Auxerre,Ligue 1,EUR2.00m
+Amath Ndiaye,Right Winger,27,EUR1.50m,Senegal,Real Valladolid,LaLiga,EUR2.00m
+Alaa Ghram,Centre-Back,22,EUR1.50m,Tunisia,Shakhtar D.,Premier Liga,EUR2.00m
+Hugo Moura,Defensive Midfield,26,EUR1.50m,Brazil,Vasco da Gama,N/A,EUR2.00m
+Maxime Dominguez,Attacking Midfield,28,EUR1.50m,Switzerland,Vasco da Gama,Serie A,EUR2.00m
+Kialonda Gaspar,Centre-Back,26,EUR1.50m,Angola,Lecce,Serie A,EUR2.00m
+Ignacio,Centre-Back,27,EUR1.50m,Brazil,Fluminense,Serie A,EUR2.00m
+David Schnegg,Left-Back,25,EUR1.50m,Austria,D.C. United,MLS,EUR1.85m
+Javier Correa,Centre-Forward,31,EUR1.50m,Argentina,Colo-Colo,Primera Division,EUR1.85m
+Saul Salcedo,Centre-Back,26,EUR1.50m,Paraguay,Newell's,Liga Profesional,EUR1.84m
+Emil Hansson,Left Winger,26,EUR1.50m,Sweden,Birmingham,League One,EUR1.75m
+Joao Marcelo,Centre-Back,24,EUR1.50m,Brazil,Cruzeiro,Serie A,EUR2.50m
+Uros Djurdjevic,Centre-Forward,30,EUR1.50m,Montenegro,Atlas,Liga MX Apertura,EUR2.00m
+Michael Santos,Centre-Forward,31,EUR1.50m,Uruguay,Velez Sarsfield,Liga Profesional,EUR1.84m
+Julien Le Cardinal,Centre-Back,26,EUR1.50m,France,Stade Brestois,Ligue 1,EUR1.70m
+Felipe Loyola,Right-Back,23,EUR1.50m,Chile,Independiente,Liga Profesional,EUR1.65m
+Ole Pohlmann,Central Midfield,23,EUR1.50m,Germany,Rio Ave,Liga Portugal,EUR1.60m
+Jannik Rochelt,Left Winger,25,EUR1.50m,Germany,Hannover 96,2. Bundesliga,EUR1.50m
+Manuel De Luca,Centre-Forward,26,EUR1.50m,Italy,Cremonese,Serie B,EUR1.50m
+Diego Rico,Left-Back,31,EUR1.50m,Spain,Getafe,LaLiga,EUR1.50m
+Mauricio Isais,Left-Back,23,EUR1.50m,Mexico,Leon,Liga MX Apertura,EUR1.50m
+Joao Grimaldo,Left Winger,21,EUR1.50m,Peru,Partizan,Super liga Srbije,EUR1.40m
+Atsuki Ito,Central Midfield,26,EUR1.50m,Japan,KAA Gent,Jupiler Pro League,EUR1.30m
+Yassine Titraoui,Central Midfield,20,EUR1.50m,Algeria,R Charleroi SC,Jupiler Pro League,EUR1.20m
+Alex Cochrane,Left-Back,24,EUR1.50m,England,Birmingham,League One,EUR1.20m
+Bruno Langa,Left-Back,26,EUR1.50m,Mozambique,UD Almeria,LaLiga2,EUR1.20m
+Julian Justvan,Attacking Midfield,26,EUR1.50m,Germany,1.FC Nuremberg,2. Bundesliga,EUR1.00m
+Aime Omgba,Attacking Midfield,21,EUR1.50m,Netherlands,KAA Gent,Jupiler Pro League,EUR1.00m
+Adam Masina,Centre-Back,30,EUR1.50m,Morocco,Torino,Serie A,EUR1.00m
+Christian Fruchtl,Goalkeeper,24,EUR1.50m,Germany,Lecce,Serie A,EUR1.00m
+Juan Cruz,Right Winger,24,EUR1.50m,Spain,CD Leganes,LaLiga,EUR1.00m
+Fran Villalba,Attacking Midfield,26,EUR1.50m,Spain,Santos Laguna,Liga MX Apertura,EUR1.00m
+Anthony Racioppi,Goalkeeper,25,EUR1.50m,Switzerland,Hull City,Championship,EUR1.00m
+Marouan Azarkan,Right Winger,22,EUR1.50m,Morocco,Al-Nasr,UAE Pro League,EUR1.00m
+Tomas Badaloni,Centre-Forward,24,EUR1.50m,Argentina,Necaxa,Liga MX Apertura,EUR916k
+Mateusz Kochalski,Goalkeeper,24,EUR1.50m,Poland,Qarabag FK,Premyer Liqa,EUR900k
+Hugo Vandermersch,Right-Back,25,EUR1.50m,France,FC St. Gallen,Super League,EUR800k
+Seiya Maikuma,Right-Back,26,EUR1.50m,Japan,AZ Alkmaar,Eredivisie,EUR800k
+Kings Kangwa,Central Midfield,25,EUR1.50m,Zambia,H. Beer Sheva,Ligat ha'Al,EUR800k
+Lazar Carevic,Goalkeeper,25,EUR1.50m,Montenegro,Famalicao,Liga Portugal,EUR800k
+Eduard Sarapiy,Centre-Back,25,EUR1.50m,Ukraine,Polissya,Premier Liga,EUR800k
+Christian Bassogog,Right Winger,28,EUR1.50m,Cameroon,Al-Okhdood,Saudi Pro League,EUR800k
+Jahkeele Marshall-Rutty,Right-Back,20,EUR1.50m,Canada,Montreal,MLS,EUR780k
+Danilo Al-Saed,Left Winger,25,EUR1.50m,Iraq,Heerenveen,Eredivisie,EUR750k
+Tobias Christensen,Defensive Midfield,24,EUR1.50m,Norway,FC Rapid,SuperLiga,EUR700k
+Cristopher Fiermarin,Goalkeeper,26,EUR1.50m,Uruguay,Defensa,Liga Profesional,EUR700k
+Filip Sidklev,Goalkeeper,19,EUR1.50m,Sweden,Aris Saloniki,Super League 1,EUR600k
+Conor Townsend,Left-Back,31,EUR1.50m,England,Ipswich,Premier League,EUR590k
+Nicolas Tripichio,Right-Back,28,EUR1.50m,Argentina,San Lorenzo,Liga Profesional,EUR548k
+Check Keita,Centre-Back,21,EUR1.50m,France,R Charleroi SC,Jupiler Pro League,EUR500k
+Ali Abdi,Left-Back,30,EUR1.50m,Tunisia,OGC Nice,Ligue 1,EUR500k
+Kervin Arriaga,Defensive Midfield,26,EUR1.50m,Honduras,Partizan,Super liga Srbije,EUR500k
+Gustavo Silva,Right Winger,25,EUR1.50m,Brazil,Vit. Guimaraes,Liga Portugal,EUR500k
+Mory Gbane,Defensive Midfield,23,EUR1.50m,Cote d'Ivoire,Gil Vicente,Liga Portugal,EUR500k
+Fabrizio Caligara,Central Midfield,24,EUR1.50m,Italy,Sassuolo,Serie B,EUR500k
+Andre Duarte,Centre-Back,26,EUR1.50m,Portugal,Ujpest FC,NB I.,EUR400k
+Pelle van Amersfoort,Centre-Forward,28,EUR1.50m,Netherlands,Al-Shahania SC,Stars League,EUR380k
+Andre Duarte,Centre-Back,26,EUR1.50m,Portugal,NK Osijek,SuperSport HNL,EUR300k
+Evgeniy Latyshonok,Goalkeeper,26,EUR1.50m,Russia,Zenit S-Pb,Premier Liga,EUR300k
+Jessic Ngankam,Centre-Forward,23,EUR1.50m,Germany,Hannover 96,2. Bundesliga,Loan fee:EUR250k
+Valgeir Lunddal Fridriksson,Right-Back,22,EUR1.50m,Iceland,F. Dusseldorf,2. Bundesliga,EUR200k
+Tochi Chukwuani,Central Midfield,21,EUR1.50m,Denmark,Sturm Graz,Bundesliga,EUR200k
+Hugo Souza,Goalkeeper,25,EUR1.50m,Brazil,Corinthians,Serie A,Loan fee:EUR200k
+Romario Baro,Central Midfield,24,EUR1.50m,Portugal,FC Basel,Super League,Loan fee:EUR150k
+Samuel Adeniran,Centre-Forward,25,EUR1.50m,United States,Philadelphia,MLS,EUR138k
+Erick Marcus,Left Winger,20,EUR1.50m,Brazil,Ludogorets,efbet Liga,Loan fee:EUR135k
+Sven van Beek,Centre-Back,29,EUR1.50m,Netherlands,Al-Shahania SC,Stars League,EUR120k
+Simone Bastoni,Central Midfield,27,EUR1.50m,Italy,Cesena,Serie B,EUR100k
+Mohamed Badamosi,Centre-Forward,25,EUR1.50m,The Gambia,Standard Liege,Jupiler Pro League,Loan fee:EUR100k
+Gabriel Noga,Centre-Back,22,EUR1.50m,Brazil,Leixoes,Liga Portugal 2,EUR100k
+Guillermo Enrique,Right-Back,24,EUR1.50m,Argentina,Banfield,Liga Profesional,Loan fee:EUR92k
+Enric Franquesa,Left-Back,27,EUR1.50m,Spain,CD Leganes,LaLiga,EUR90k
+Ruan,Right-Back,29,EUR1.50m,Brazil,Dallas,MLS,EUR45k
+Julian Von Moos,Centre-Forward,23,EUR1.50m,Switzerland,Servette FC,Super League,free transfer
+Alberto Mari,Centre-Forward,23,EUR1.50m,Spain,Real Zaragoza,LaLiga2,loan transfer
+Luka Ilic,Attacking Midfield,24,EUR1.50m,Serbia,Red Star,Super liga Srbije,free transfer
+Sasa Ivkovic,Centre-Back,31,EUR1.50m,Serbia,Al-Wahda,UAE Pro League,free transfer
+Grejohn Kyei,Centre-Forward,29,EUR1.50m,France,R Charleroi SC,Jupiler Pro League,loan transfer
+Kuryu Matsuki,Central Midfield,21,EUR1.50m,Japan,Southampton,Premier League,?
+Andre Carrillo,Right Winger,33,EUR1.50m,Peru,Corinthians,Serie A,free transfer
+Etienne Vaessen,Goalkeeper,28,EUR1.50m,Suriname,FC Groningen,Eredivisie,free transfer
+Franco Gonzalez,Attacking Midfield,20,EUR1.50m,Uruguay,Yverdon Sport,Super League,loan transfer
+Eduardo Salvio,Right Winger,33,EUR1.50m,Argentina,Lanus,Liga Profesional,free transfer
+Jamie Shackleton,Right-Back,24,EUR1.50m,England,Sheff Utd,Championship,free transfer
+Djibril Sidibe,Right-Back,32,EUR1.50m,France,Toulouse,Ligue 1,free transfer
+Samy Mmaee,Centre-Back,27,EUR1.50m,Morocco,Dinamo Zagreb,SuperSport HNL,free transfer
+Gaetan Weissbeck,Attacking Midfield,27,EUR1.50m,France,Apol. Limassol,Cyprus League,?
+Sinan Karweina,Centre-Forward,25,EUR1.50m,Germany,FC Luzern,Super League,free transfer
+Anthony Nwakaeme,Left Winger,35,EUR1.50m,Nigeria,Trabzonspor,Super Lig,free transfer
+Josh Bowler,Right Winger,25,EUR1.50m,England,Preston,Championship,loan transfer
+Thomas Ouwejan,Left-Back,27,EUR1.50m,Netherlands,NEC Nijmegen,Eredivisie,free transfer
+Viti Rozada,Right-Back,26,EUR1.50m,Spain,UD Las Palmas,LaLiga,free transfer
+Shogo Taniguchi,Centre-Back,33,EUR1.50m,Japan,Sint-Truiden,Jupiler Pro League,free transfer
+Benno Schmitz,Right-Back,29,EUR1.50m,Germany,Grasshoppers,Super League,free transfer
+Mohamed El Arouch,Central Midfield,20,EUR1.50m,France,Botafogo,Serie A,free transfer
+Danylo Ignatenko,Central Midfield,27,EUR1.50m,Ukraine,Slo. Bratislava,Nike Liga,free transfer
+Michel Araujo,Left Winger,27,EUR1.50m,Uruguay,Sao Paulo,Serie A,?
+Hugo Mallo,Right-Back,33,EUR1.50m,Spain,Aris Saloniki,Super League 1,free transfer
+Javi Montero,Centre-Back,25,EUR1.50m,Spain,Racing,LaLiga2,free transfer
+Djordje Jovanovic,Centre-Forward,25,EUR1.50m,Serbia,Partizan,Super liga Srbije,loan transfer
+Tom Lacoux,Defensive Midfield,22,EUR1.50m,France,Ujpest FC,NB I.,free transfer
+Carlos Romero,Left-Back,22,EUR1.50m,Spain,Espanyol,LaLiga,loan transfer
+Antoine Joujou,Left Winger,21,EUR1.50m,France,Le Havre AC,Ligue 1,loan transfer
+Ze Gabriel,Defensive Midfield,25,EUR1.50m,Brazil,Coritiba FC,Serie B,loan transfer
+Moussa Djitte,Centre-Forward,24,EUR1.50m,Senegal,Genclerbirligi,1.Lig,free transfer
+Mykola Kukharevych,Centre-Forward,23,EUR1.50m,Ukraine,Hibernian FC,Premiership,loan transfer
+Tobias Cervera,Centre-Forward,22,EUR1.50m,Syria,Platense,Liga Profesional,loan transfer
+Malcolm Ebiowei,Right Winger,20,EUR1.50m,England,Oxford United,Championship,loan transfer
+Hidde ter Avest,Right-Back,27,EUR1.50m,Netherlands,Oxford United,Championship,free transfer
+Abdoulaye Kamara,Defensive Midfield,19,EUR1.50m,Guinea,Portsmouth,Championship,?
+Josh Coburn,Centre-Forward,21,EUR1.50m,England,Millwall,Championship,loan transfer
+Jamal Lowe,Centre-Forward,29,EUR1.50m,Jamaica,Sheff Wed,Championship,free transfer
+Remy Descamps,Goalkeeper,28,EUR1.50m,France,Olympique Lyon,Ligue 1,free transfer
+Luke Chambers,Centre-Back,20,EUR1.50m,England,Wigan,League One,loan transfer
+Mahamadou Susoho,Defensive Midfield,19,EUR1.50m,Spain,Peterborough,League One,loan transfer
+Ethan Mbappe,Central Midfield,17,EUR1.50m,France,LOSC Lille,Ligue 1,free transfer
+Julen Lobete,Left Winger,23,EUR1.50m,Spain,Malaga CF,LaLiga2,free transfer
+Joe Hodge,Defensive Midfield,21,EUR1.50m,Ireland,Huddersfield,League One,loan transfer
+Raul Sandoval,Left-Back,24,EUR1.50m,Mexico,Necaxa,Liga MX Apertura,?
+Jamie Donley,Second Striker,19,EUR1.50m,England,Leyton Orient,League One,loan transfer
+Ayoub Amraoui,Left-Back,20,EUR1.50m,Morocco,FC Martigues,Ligue 2,loan transfer
+Manu Vallejo,Second Striker,27,EUR1.50m,Spain,Racing Ferrol,LaLiga2,free transfer
+Juan Soriano,Goalkeeper,26,EUR1.50m,Spain,CD Leganes,LaLiga,free transfer
+Matija Nastasic,Centre-Back,31,EUR1.50m,Serbia,CD Leganes,LaLiga,free transfer
+Juan Ignacio Mendez,Defensive Midfield,27,EUR1.50m,Argentina,Newell's,Liga Profesional,free transfer
+Shiloh 't Zand,Central Midfield,21,EUR1.50m,Netherlands,Heracles Almelo,Eredivisie,loan transfer
+Giuseppe Caso,Left Winger,25,EUR1.50m,Italy,Modena,Serie B,?
+Miguel Barbieri,Centre-Back,30,EUR1.50m,Argentina,Rosario Central,Liga Profesional,free transfer
+Sory Kaba,Centre-Forward,29,EUR1.50m,Guinea,Elche CF,LaLiga2,loan transfer
+Elbasan Rashani,Left Winger,31,EUR1.50m,Kosovo,Elche CF,LaLiga2,?
+Jose Carlos Lazo,Left Winger,28,EUR1.50m,Spain,Albacete,LaLiga2,free transfer
+Xeber Alkain,Right Winger,27,EUR1.50m,Spain,SD Eibar,LaLiga2,free transfer
+Toni Villa,Left Winger,29,EUR1.50m,Spain,SD Eibar,LaLiga2,free transfer
+Inigo Cordoba,Left Winger,27,EUR1.50m,Spain,Burgos CF,LaLiga2,free transfer
+Julian Niehues,Defensive Midfield,23,EUR1.50m,Germany,Heidenheim,Bundesliga,free transfer
+Gustavo Silva,Right Winger,26,EUR1.50m,Brazil,EC Vitoria,Serie A,free transfer
+Ibrahim Cissoko,Left Winger,21,EUR1.50m,Netherlands,Plymouth,Championship,loan transfer
+Darko Churlinov,Left Winger,24,EUR1.50m,North Macedonia,Jagiellonia,Ekstraklasa,loan transfer
+Alex Pritchard,Attacking Midfield,31,EUR1.50m,England,Sivasspor,Super Lig,?
+Noah Sonko Sundberg,Centre-Back,28,EUR1.50m,The Gambia,Sivasspor,Super Lig,loan transfer
+Samu,Attacking Midfield,28,EUR1.50m,Portugal,Vit. Guimaraes,Liga Portugal,free transfer
+Ege Tiknaz,Central Midfield,20,EUR1.50m,Türkiye,Rio Ave,Liga Portugal,loan transfer
+Alberto Brignoli,Goalkeeper,32,EUR1.50m,Italy,AEK Athens,Super League 1,free transfer
+Jonathan Dubasin,Left Winger,24,EUR1.50m,Spain,Sporting Gijon,LaLiga2,loan transfer
+Cesar Gelabert,Attacking Midfield,23,EUR1.50m,Spain,Sporting Gijon,LaLiga2,loan transfer
+Nonato,Central Midfield,26,EUR1.50m,Brazil,Fluminense,Serie A,loan transfer
+Jose Antonio Caro,Goalkeeper,30,EUR1.50m,Spain,Cadiz CF,LaLiga2,free transfer
+Bojan Kovacevic,Centre-Back,20,EUR1.50m,Serbia,Cadiz CF,LaLiga2,loan transfer
+Carlos Fernandez,Centre-Forward,28,EUR1.50m,Spain,Cadiz CF,LaLiga2,loan transfer
+Goncalo Paciencia,Centre-Forward,30,EUR1.50m,Portugal,Sanf. Hiroshima,J1 League,free transfer
+Konstantinos Laifis,Centre-Back,31,EUR1.50m,Cyprus,APOEL Nicosia,Cyprus League,free transfer
+Grejohn Kyei,Centre-Forward,28,EUR1.50m,France,Standard Liege,Jupiler Pro League,free transfer
+Ilay Camara,Right-Back,21,EUR1.50m,Belgium,Standard Liege,Jupiler Pro League,loan transfer
+Marko Lazetic,Centre-Forward,20,EUR1.50m,Serbia,FK TSC,Super liga Srbije,loan transfer
+Andrian Kraev,Defensive Midfield,25,EUR1.50m,Bulgaria,Casa Pia,Liga Portugal,free transfer
+Rochinha,Left Winger,29,EUR1.50m,Portugal,Famalicao,Liga Portugal,free transfer
+Jose Luis Morales,Centre-Forward,36,EUR1.50m,Spain,Levante,LaLiga2,free transfer
+Eduard Bello,Second Striker,28,EUR1.50m,Venezuela,Barcelona SC,Serie A Segunda Etapa,?
+Joaquin Fernandez,Centre-Back,28,EUR1.50m,Spain,Kansas City,MLS,free transfer
+Filipe Soares,Attacking Midfield,25,EUR1.50m,Portugal,Farense,Liga Portugal,loan transfer
+Paulo Victor,Left-Back,23,EUR1.50m,Brazil,Farense,Liga Portugal,free transfer
+Ali Mabkhout,Centre-Forward,33,EUR1.50m,United Arab Emirates,Al-Nasr,UAE Pro League,free transfer
+Kobamelo Kodisang,Right Winger,24,EUR1.50m,South Africa,Sundowns,Betway Premiership,?
+Hamza Sakhi,Attacking Midfield,28,EUR1.50m,Morocco,Wydad AC,Botola Pro Inwi,free transfer
+Matchoi Djalo,Attacking Midfield,21,EUR1.50m,Portugal,Basaksehir,Super Lig,free transfer
+Ruben Vezo,Centre-Back,30,EUR1.50m,Portugal,Eyupspor,Super Lig,loan transfer
+Pedro Rocha,Left Winger,29,EUR1.50m,Brazil,Criciuma EC,Serie A,loan transfer
+Francisco Calvo,Centre-Back,32,EUR1.50m,Costa Rica,Hatayspor,Super Lig,?
+Amadou Dante,Left-Back,23,EUR1.50m,Mali,Arouca,Liga Portugal,loan transfer
+Juan Zapata,Central Midfield,24,EUR1.50m,Colombia,Atl. Nacional,Liga DIMAYOR II,loan transfer
+Jorthy Mokio,Centre-Back,16,EUR1.50m,Belgium,Ajax U21,Keuken Kampioen Divisie,free transfer
+Gabriel Noga,Centre-Back,22,EUR1.50m,Brazil,Oliveirense,Liga Portugal 2,loan transfer
+Yanis Hamache,Left-Back,25,EUR1.50m,Algeria,MC Oran,Ligue Professionnelle 1,?
+Ebrima Darboe,Defensive Midfield,23,EUR1.50m,The Gambia,Frosinone,Serie B,loan transfer
+Luis Segovia,Centre-Back,26,EUR1.50m,Ecuador,CRB,Serie B,loan transfer
+Romeo Benitez,Left Winger,21,EUR1.50m,Paraguay,Tigre,Liga Profesional,loan transfer
+Kristijan Lovric,Left Winger,28,EUR1.50m,Croatia,Amed SK,1.Lig,free transfer
+Mehdi Torabi,Left Winger,29,EUR1.50m,Iran,Tractor,Persian Gulf Pro League,free transfer
+Manu Trigueros,Central Midfield,32,EUR1.50m,Spain,Granada CF,LaLiga2,free transfer
+Siren Diao,Centre-Forward,19,EUR1.50m,Spain,Granada CF,LaLiga2,loan transfer
+Alexander Alvarado,Left Winger,25,EUR1.50m,Ecuador,Uni. Catolica,Serie A Segunda Etapa,loan transfer
+Yuki Soma,Right Winger,27,EUR1.50m,Japan,Machida Zelvia,J1 League,?
+Yoann Barbet,Centre-Back,31,EUR1.50m,France,Al-Riyadh,Saudi Pro League,free transfer
+Nemanja Jovic,Left Winger,21,EUR1.50m,Serbia,Ittihad Kalba,UAE Pro League,?
+Loic Mbe Soh,Centre-Back,23,EUR1.50m,France,Beerschot VA,Jupiler Pro League,free transfer
+Christophe Herelle,Centre-Back,31,EUR1.50m,Martinique,Bodrum FK,Super Lig,?
+George Puscas,Centre-Forward,28,EUR1.50m,Romania,Bodrum FK,Super Lig,?
+Ivan Sunjic,Defensive Midfield,27,EUR1.50m,Croatia,Pafos FC,Cyprus League,free transfer
+Domingos Quina,Central Midfield,24,EUR1.50m,Portugal,Pafos FC,Cyprus League,?
+Stanislav Magkeev,Centre-Back,25,EUR1.50m,Russia,Pari NN,Premier Liga,free transfer
+Alejandro Pozuelo,Attacking Midfield,32,EUR1.50m,Spain,Al-Fayha,Saudi Pro League,free transfer
+David Martinez,Centre-Back,26,EUR1.50m,Paraguay,Miami,MLS,loan transfer
+Gerson Rodrigues,Centre-Forward,29,EUR1.50m,Luxembourg,GX PG Haliao,League One,loan transfer
+Jannes Horn,Centre-Back,27,EUR1.50m,Germany,St. Louis CITY,MLS,loan transfer
+Jamie Maclaren,Centre-Forward,30,EUR1.50m,Australia,Mohun Bagan SG,Indian Super League,free transfer
+Kevin N'Doram,Defensive Midfield,28,EUR1.50m,France,Al-Kholood,Saudi Pro League,free transfer
+Gustavo Assuncao,Defensive Midfield,24,EUR1.50m,Brazil,Avs FS,Liga Portugal,?
+Gennaro Borrelli,Centre-Forward,24,EUR1.40m,Italy,Brescia,Serie B,EUR3.50m
+Facundo Bernal,Defensive Midfield,20,EUR1.40m,Uruguay,Fluminense,Serie A,EUR3.30m
+Young-woo Seol,Right-Back,25,EUR1.40m,"Korea, South",Red Star,Super liga Srbije,EUR1.50m
+Isaac Schmidt,Left-Back,24,EUR1.40m,Switzerland,Leeds,Championship,EUR2.97m
+Ethane Azoulay,Defensive Midfield,22,EUR1.40m,Israel,Maccabi Haifa,Ligat ha'Al,EUR1.80m
+Gustavo Marques,Centre-Back,22,EUR1.40m,Brazil,Benfica B,Liga Portugal 2,EUR1.50m
+Khanyisa Mayo,Centre-Forward,25,EUR1.40m,South Africa,CR Belouizdad,Ligue Professionnelle 1,EUR750k
+Zineddine Belaid,Centre-Back,25,EUR1.40m,Algeria,Sint-Truiden,Jupiler Pro League,EUR600k
+Guilherme Castilho,Central Midfield,24,EUR1.40m,Brazil,FC Juarez,Liga MX Apertura,Loan fee:EUR317k
+Samuel Ballet,Right Midfield,23,EUR1.40m,Switzerland,FC Zurich,Super League,loan transfer
+Onni Valakari,Attacking Midfield,25,EUR1.40m,Finland,AIK,Allsvenskan,loan transfer
+Gian Marco Ferrari,Centre-Back,32,EUR1.40m,Italy,Salernitana,Serie B,free transfer
+Alejandro Cantero,Left Winger,24,EUR1.40m,Spain,CD Tenerife,LaLiga2,free transfer
+Mirko Antonucci,Attacking Midfield,25,EUR1.40m,Italy,Cesena,Serie B,loan transfer
+Javi Ontiveros,Left Winger,26,EUR1.40m,Spain,Cadiz CF,LaLiga2,free transfer
+Samuel Giovane,Central Midfield,21,EUR1.40m,Italy,Carrarese,Serie B,loan transfer
+Dimitrios Kourbelis,Defensive Midfield,30,EUR1.40m,Greece,Al-Khaleej,Saudi Pro League,free transfer
+Mauro Brasil,Centre-Back,25,EUR1.40m,Uruguay,Cobreloa,Primera Division,free transfer
+Guilherme Castilho,Central Midfield,24,EUR1.40m,Brazil,Juventude,Serie A,loan transfer
+Danielzinho,Central Midfield,28,EUR1.40m,Brazil,Dibba Al-Hisn,UAE Pro League,?
+Gustavo Sauer,Right Winger,31,EUR1.40m,Brazil,Cuiaba-MT,Serie A,loan transfer
+Lucas Kal,Defensive Midfield,28,EUR1.40m,Brazil,Al-Riyadh,Saudi Pro League,?
+Santiago Rodriguez,Centre-Forward,27,EUR1.30m,Argentina,Argentinos Jrs.,Liga Profesional,EUR1.67m
+Ivan Oleynikov,Right Winger,25,EUR1.30m,Russia,KS Samara,Premier Liga,EUR1.00m
+Bas Kuipers,Left-Back,29,EUR1.30m,Netherlands,Twente FC,Eredivisie,EUR900k
+Giuseppe Sibilli,Centre-Forward,27,EUR1.30m,Italy,Bari,Serie B,EUR800k
+Nikola Cavlina,Goalkeeper,22,EUR1.30m,Croatia,Dinamo Zagreb,SuperSport HNL,EUR750k
+Jasper Cillessen,Goalkeeper,35,EUR1.30m,Netherlands,UD Las Palmas,LaLiga,EUR500k
+Jonathan Villagra,Centre-Back,23,EUR1.30m,Chile,Colo-Colo,Primera Division,EUR400k
+Shahriar Moghanlou,Centre-Forward,29,EUR1.30m,Iran,Ittihad Kalba,UAE Pro League,EUR367k
+Lewis Fiorini,Central Midfield,22,EUR1.30m,Scotland,Stockport,League One,EUR350k
+Franco Diaz,Central Midfield,23,EUR1.30m,Argentina,Instituto ACC,Liga Profesional,Loan fee:EUR137k
+Ilias Koutsoupias,Central Midfield,23,EUR1.30m,Greece,Catanzaro,Serie B,EUR100k
+Josh Knight,Centre-Back,26,EUR1.30m,England,Hannover 96,2. Bundesliga,free transfer
+Arandjel Stojkovic,Right-Back,29,EUR1.30m,Serbia,Debrecen,NB I.,loan transfer
+Luan Peres,Centre-Back,30,EUR1.30m,Brazil,Santos,Serie B,free transfer
+Goncalo Esteves,Right-Back,20,EUR1.30m,Portugal,Yverdon Sport,Super League,loan transfer
+Nikola Cavlina,Goalkeeper,22,EUR1.30m,Croatia,NK Osijek,SuperSport HNL,loan transfer
+Benito Raman,Centre-Forward,29,EUR1.30m,Belgium,KV Mechelen,Jupiler Pro League,?
+Daniele Verde,Right Winger,28,EUR1.30m,Italy,Salernitana,Serie B,loan transfer
+Petar Stojanovic,Right-Back,28,EUR1.30m,Slovenia,Salernitana,Serie B,loan transfer
+Shawn Adewoye,Centre-Back,24,EUR1.30m,Belgium,Fortuna Sittard,Eredivisie,free transfer
+Goncalo Esteves,Right-Back,20,EUR1.30m,Portugal,Udinese Calcio,Serie A,free transfer
+Julian Baas,Central Midfield,22,EUR1.30m,Netherlands,Sparta R.,Eredivisie,free transfer
+Michal Tomic,Right-Back,25,EUR1.30m,Slovakia,Bodo/Glimt,Eliteserien,loan transfer
+Artur Gajdos,Attacking Midfield,20,EUR1.30m,Slovakia,Slo. Bratislava,Nike Liga,?
+Pione Sisto,Left Winger,29,EUR1.30m,Denmark,Aris Saloniki,Super League 1,?
+Karol Borys,Attacking Midfield,17,EUR1.30m,Poland,NK Maribor,Prva Liga,loan transfer
+Mateo Maric,Defensive Midfield,26,EUR1.30m,Bosnia-Herzegovina,Omonia Nikosia,Cyprus League,?
+Luca Kerber,Central Midfield,22,EUR1.30m,Germany,Heidenheim,Bundesliga,free transfer
+Josip Calusic,Centre-Back,30,EUR1.30m,Croatia,Konyaspor,Super Lig,free transfer
+Mattia Aramu,Attacking Midfield,29,EUR1.30m,Italy,Mantova,Serie B,loan transfer
+Rodrigo Pinheiro,Right-Back,21,EUR1.30m,Portugal,Famalicao,Liga Portugal,free transfer
+Riccardo Ciervo,Left Winger,22,EUR1.30m,Italy,Cosenza,Serie B,loan transfer
+Mamadou Coulibaly,Central Midfield,25,EUR1.30m,Senegal,Catanzaro,Serie B,?
+Federico Lertora,Defensive Midfield,33,EUR1.30m,Argentina,Queretaro FC,Liga MX Apertura,?
+Milad Mohammadi,Left-Back,30,EUR1.30m,Iran,Persepolis,Persian Gulf Pro League,free transfer
+Emre Akbaba,Attacking Midfield,31,EUR1.30m,Türkiye,Eyupspor,Super Lig,free transfer
+Dudu,Right-Back,27,EUR1.30m,Brazil,Criciuma EC,Serie A,loan transfer
+Anton Kresic,Centre-Back,28,EUR1.30m,Croatia,CFR Cluj,SuperLiga,free transfer
+Ivo Rodrigues,Right Winger,29,EUR1.30m,Portugal,Arouca,Liga Portugal,free transfer
+Yairo Moreno,Left-Back,29,EUR1.30m,Colombia,Junior FC,Liga DIMAYOR II,free transfer
+Yahya Jabrane,Defensive Midfield,33,EUR1.30m,Morocco,Kuwait SC,N/A,free transfer
+Norbert Gyomber,Centre-Back,32,EUR1.30m,Slovakia,Al-Kholood,Saudi Pro League,free transfer
+Owen Beck,Left-Back,22,EUR1.25m,Wales,Blackburn,Championship,loan transfer
+Min-hyeok Yang,Right Winger,18,EUR1.20m,"Korea, South",Tottenham,Premier League,EUR4.00m
+Edmund Baidoo,Right Winger,18,EUR1.20m,Ghana,RB Salzburg,Bundesliga,EUR3.30m
+Lautaro Diaz,Second Striker,26,EUR1.20m,Argentina,Cruzeiro,Serie A,EUR2.70m
+Oscar Schwartau,Second Striker,18,EUR1.20m,Denmark,Norwich,Championship,EUR2.50m
+Juan Cordoba,Right Winger,21,EUR1.20m,Colombia,Dinamo Zagreb,SuperSport HNL,EUR2.10m
+Andres Martin,Right Winger,25,EUR1.20m,Spain,Racing,LaLiga2,EUR2.00m
+Santiago Mourino,Centre-Back,22,EUR1.20m,Uruguay,Alaves,LaLiga,EUR2.00m
+Choco Lozano,Centre-Forward,31,EUR1.20m,Honduras,Santos Laguna,Liga MX Apertura,EUR2.00m
+Edier Ocampo,Right-Back,20,EUR1.20m,Colombia,Vancouver,MLS,EUR1.60m
+Giuseppe Di Serio,Centre-Forward,22,EUR1.20m,Italy,Spezia Calcio,Serie B,EUR1.50m
+Santiago Arzamendia,Left-Back,26,EUR1.20m,Paraguay,Estudiantes LP,Liga Profesional,EUR1.40m
+Pedrao,Centre-Back,27,EUR1.20m,Brazil,Maccabi Haifa,Ligat ha'Al,EUR1.30m
+Kevin Serna,Right Winger,26,EUR1.20m,Colombia,Fluminense,Serie A,EUR1.65m
+Pierre Cornud,Left-Back,27,EUR1.20m,France,Saint-Etienne,Ligue 1,EUR1.10m
+Topi Keskinen,Left Winger,21,EUR1.20m,Finland,Aberdeen FC,Premiership,EUR1.00m
+Ewerton,Left Winger,27,EUR1.20m,Brazil,Banik Ostrava,Chance Liga,EUR1.00m
+Nazinho,Left-Back,20,EUR1.20m,Portugal,Cercle Brugge,Jupiler Pro League,EUR1.00m
+Marko Tolic,Attacking Midfield,27,EUR1.20m,Croatia,Slo. Bratislava,Nike Liga,EUR1.00m
+Krisztofer Horvath,Attacking Midfield,22,EUR1.20m,Hungary,Ujpest FC,NB I.,EUR1.00m
+Maksim Samorodov,Left Winger,22,EUR1.20m,Kazakhstan,Akhmat Grozny,Premier Liga,EUR1.00m
+Luciano Cabral,Attacking Midfield,29,EUR1.20m,Chile,Leon,Liga MX Apertura,EUR1.00m
+Omar Faraj,Centre-Forward,22,EUR1.20m,Palestine,Zamalek,Premier League,EUR993k
+Tomoki Iwata,Defensive Midfield,27,EUR1.20m,Japan,Birmingham,League One,EUR980k
+Saul Guarirapa,Centre-Forward,21,EUR1.20m,Venezuela,Sochi,1.Division,EUR900k
+Francisco Petrasso,Centre-Back,22,EUR1.20m,Argentina,Rio Ave,Liga Portugal,EUR896k
+Kacper Chodyna,Right Midfield,25,EUR1.20m,Poland,Legia Warszawa,Ekstraklasa,EUR860k
+Lukasz Poreba,Central Midfield,24,EUR1.20m,Poland,Hamburger SV,2. Bundesliga,EUR750k
+David Herold,Left-Back,21,EUR1.20m,Germany,Karlsruher SC,2. Bundesliga,EUR750k
+Mamadou Sangare,Central Midfield,22,EUR1.20m,Mali,Rapid Vienna,Bundesliga,EUR700k
+Gary Magnee,Right-Back,24,EUR1.20m,Belgium,Cercle Brugge,Jupiler Pro League,EUR700k
+Kirill Kaplenko,Defensive Midfield,25,EUR1.20m,Belarus,Khimki,Premier Liga,EUR680k
+Jonathan Gomez,Left-Back,20,EUR1.20m,United States,PAOK Salonika,Super League 1,EUR600k
+Jonas Acevedo,Left Winger,27,EUR1.20m,Argentina,Instituto ACC,N/A,EUR594k
+Sakarias Opsahl,Central Midfield,25,EUR1.20m,Norway,Brann,Eliteserien,EUR590k
+Franco Zapiola,Attacking Midfield,23,EUR1.20m,Argentina,Platense,Liga Profesional,EUR550k
+Bailey Peacock-Farrell,Goalkeeper,27,EUR1.20m,Northern Ireland,Birmingham,League One,EUR530k
+Imanol Garcia de Albeniz,Left-Back,24,EUR1.20m,Spain,Sparta Prague,Chance Liga,EUR500k
+Kolbeinn Finnsson,Left-Back,24,EUR1.20m,Iceland,FC Utrecht,Eredivisie,EUR500k
+Wendel Silva,Centre-Forward,24,EUR1.20m,Brazil,Santos,Serie B,Loan fee:EUR500k
+Jakub Hromada,Defensive Midfield,28,EUR1.20m,Slovakia,FC Rapid,SuperLiga,EUR500k
+Julius Szoke,Defensive Midfield,28,EUR1.20m,Slovakia,Slo. Bratislava,Nike Liga,EUR500k
+Ollie Rathbone,Central Midfield,27,EUR1.20m,England,Wrexham,League One,EUR500k
+Zan Jevsenak,Defensive Midfield,21,EUR1.20m,Slovenia,Pisa,Serie B,EUR500k
+Nico Mantl,Goalkeeper,24,EUR1.20m,Germany,Arouca,Liga Portugal,EUR500k
+Francisco Chaverra,Left Winger,24,EUR1.20m,Colombia,Indep. Medellin,Liga DIMAYOR II,EUR457k
+Eduardo Darias,Right Midfield,26,EUR1.20m,Uruguay,Penarol,N/A,EUR450k
+Filip Kaloc,Central Midfield,24,EUR1.20m,Czech Republic,1.FC K'lautern,2. Bundesliga,EUR435k
+Saul Guarirapa,Centre-Forward,21,EUR1.20m,Venezuela,CSKA Moscow,Premier Liga,Loan fee:EUR400k
+Nikolas Dyhr,Left-Back,23,EUR1.20m,Denmark,Randers FC,Superliga,EUR373k
+Scott Wright,Right Winger,27,EUR1.20m,Scotland,Birmingham,League One,EUR360k
+Oumar Sako,Centre-Back,28,EUR1.20m,Niger,Rostov,Premier Liga,EUR350k
+Alexander Callens,Centre-Back,32,EUR1.20m,Peru,AEK Athens,Super League 1,EUR300k
+Gonzalo Rios,Attacking Midfield,25,EUR1.20m,Argentina,Ind. Rivadavia,Liga Profesional,EUR275k
+Lucas Besozzi,Left Winger,21,EUR1.20m,Argentina,Newell's,Liga Profesional,Loan fee:EUR275k
+Lorenzo Dickmann,Right-Back,27,EUR1.20m,Italy,Brescia,Serie B,EUR250k
+Rustam Yatimov,Goalkeeper,25,EUR1.20m,Tajikistan,Rostov,Premier Liga,EUR230k
+Dani Gomez,Centre-Forward,26,EUR1.20m,Spain,Valencia,LaLiga,Loan fee:EUR150k
+Lasse Gunther,Left-Back,21,EUR1.20m,Germany,Karlsruher SC,2. Bundesliga,Loan fee:EUR100k
+Luca Pfeiffer,Centre-Forward,28,EUR1.20m,Germany,Karlsruher SC,2. Bundesliga,Loan fee:EUR100k
+Christopher Antwi-Adjei,Left Winger,30,EUR1.20m,Ghana,FC Schalke 04,2. Bundesliga,free transfer
+Hyun-ju Lee,Attacking Midfield,21,EUR1.20m,"Korea, South",Hannover 96,2. Bundesliga,loan transfer
+Robin Heusser,Central Midfield,26,EUR1.20m,Germany,Karlsruher SC,2. Bundesliga,free transfer
+Kreshnik Hajrizi,Centre-Back,25,EUR1.20m,Kosovo,Widzew Lodz,Ekstraklasa,free transfer
+Marcao,Centre-Forward,30,EUR1.20m,Brazil,Kocaelispor,1.Lig,loan transfer
+Sebastian Kosa,Centre-Back,20,EUR1.20m,Slovakia,Real Zaragoza,LaLiga2,?
+Dominik Dogan,Centre-Forward,25,EUR1.20m,Croatia,HNK Rijeka,SuperSport HNL,free transfer
+Zalan Vancsa,Left Winger,19,EUR1.20m,Hungary,KAA Gent,Jupiler Pro League,loan transfer
+Dalcio,Central Midfield,28,EUR1.20m,Guinea-Bissau,Red Star,Super liga Srbije,free transfer
+Marcus Mathisen,Centre-Back,28,EUR1.20m,Denmark,1.FC Magdeburg,2. Bundesliga,?
+Siebe Horemans,Right-Back,26,EUR1.20m,Belgium,FC Utrecht,Eredivisie,free transfer
+Ivan Dyulgerov,Goalkeeper,24,EUR1.20m,Bulgaria,CSKA-Sofia,efbet Liga,free transfer
+Yusupha Njie,Centre-Forward,30,EUR1.20m,The Gambia,Santos,Serie B,loan transfer
+Claude Goncalves,Defensive Midfield,30,EUR1.20m,Portugal,Legia Warszawa,Ekstraklasa,free transfer
+Jordi Mboula,Right Winger,25,EUR1.20m,Spain,Hellas Verona,Serie A,free transfer
+Vladan Bubanja,Defensive Midfield,25,EUR1.20m,Montenegro,FK Sarajevo,Premijer Liga BiH,?
+Jessy Deminguet,Central Midfield,26,EUR1.20m,France,FC Metz,Ligue 2,loan transfer
+Sam McCallum,Left-Back,23,EUR1.20m,England,Sheff Utd,Championship,free transfer
+Sinan Bakis,Centre-Forward,30,EUR1.20m,Türkiye,Gornik Zabrze,Ekstraklasa,loan transfer
+Adrian Grbic,Centre-Forward,28,EUR1.20m,Austria,FC Luzern,Super League,?
+Valerio Verre,Attacking Midfield,30,EUR1.20m,Italy,Palermo,Serie B,free transfer
+Lefteris Lyratzis,Right-Back,24,EUR1.20m,Greece,NEC Nijmegen,Eredivisie,loan transfer
+Dinko Horkas,Goalkeeper,25,EUR1.20m,Croatia,UD Las Palmas,LaLiga,free transfer
+Alex Munoz,Centre-Back,29,EUR1.20m,Spain,UD Las Palmas,LaLiga,free transfer
+Noah Persson,Left-Back,21,EUR1.20m,Sweden,Grasshoppers,Super League,loan transfer
+Ben Gibson,Centre-Back,31,EUR1.20m,England,Stoke City,Championship,free transfer
+Alban Ajdini,Right Winger,24,EUR1.20m,Kosovo,Lausanne-Sport,Super League,?
+Arthur Chaves,Centre-Back,23,EUR1.20m,Brazil,TSG Hoffenheim,Bundesliga,?
+Murilo de Souza,Right Winger,29,EUR1.20m,Brazil,Kyoto Sanga,J1 League,free transfer
+Tim Parker,Centre-Back,31,EUR1.20m,United States,New England,MLS,?
+Clement Michelin,Right-Back,27,EUR1.20m,France,Racing,LaLiga2,free transfer
+Ivan Brnic,Left Winger,22,EUR1.20m,Croatia,NK Celje,Prva Liga,loan transfer
+Baptiste Guillaume,Centre-Forward,29,EUR1.20m,Belgium,Almere City,Eredivisie,free transfer
+Augusto Lotti,Second Striker,28,EUR1.20m,Argentina,Platense,Liga Profesional,free transfer
+Timur Suleymanov,Centre-Forward,24,EUR1.20m,Russia,Loko Moscow,Premier Liga,free transfer
+Carlinhos,Attacking Midfield,30,EUR1.20m,Brazil,Qatar SC,Stars League,loan transfer
+Emir Ortakaya,Centre-Back,20,EUR1.20m,Türkiye,KVC Westerlo,Jupiler Pro League,loan transfer
+Gianluca Frabotta,Left-Back,25,EUR1.20m,Italy,West Brom,Championship,free transfer
+Moussa Sissoko,Central Midfield,34,EUR1.20m,France,Watford,Championship,free transfer
+Sam Silvera,Left Winger,23,EUR1.20m,Australia,Portsmouth,Championship,loan transfer
+Andre Dozzell,Central Midfield,25,EUR1.20m,England,Portsmouth,Championship,free transfer
+Ibane Bowat,Centre-Back,21,EUR1.20m,Scotland,Portsmouth,Championship,?
+Tomas Molina,Centre-Forward,29,EUR1.20m,Argentina,Argentinos Jrs.,Liga Profesional,free transfer
+Nathaniel Chalobah,Defensive Midfield,29,EUR1.20m,England,Sheff Wed,Championship,free transfer
+Lorenzo Venuti,Right-Back,29,EUR1.20m,Italy,Sampdoria,Serie B,?
+Nikolas Ioannou,Left-Back,28,EUR1.20m,Cyprus,Sampdoria,Serie B,loan transfer
+Harrison Ashby,Right-Back,22,EUR1.20m,Scotland,QPR,Championship,loan transfer
+Peter Kovacik,Right Winger,22,EUR1.20m,Slovakia,Como,Serie A,?
+Vital Nsimba,Left-Back,31,EUR1.20m,DR Congo,Maccabi Haifa,Ligat ha'Al,free transfer
+Gael Kakuta,Attacking Midfield,33,EUR1.20m,DR Congo,Esteghlal FC,Persian Gulf Pro League,?
+Didier Ndong,Central Midfield,30,EUR1.20m,Gabon,Esteghlal FC,Persian Gulf Pro League,free transfer
+Herbie Kane,Central Midfield,25,EUR1.20m,England,Huddersfield,League One,free transfer
+Kaide Gordon,Right Winger,19,EUR1.20m,England,Norwich,Championship,loan transfer
+Emilio Lara,Right-Back,22,EUR1.20m,Mexico,Necaxa,Liga MX Apertura,loan transfer
+Aliou Badji,Centre-Forward,26,EUR1.20m,Senegal,Red Star FC,Ligue 2,free transfer
+Braydon Manu,Right Winger,27,EUR1.20m,Ghana,PEC Zwolle,Eredivisie,free transfer
+Joao Carvalho,Attacking Midfield,27,EUR1.20m,Portugal,Estoril Praia,Liga Portugal,free transfer
+Francisco Fydriszewski,Centre-Forward,31,EUR1.20m,Argentina,San Lorenzo,Liga Profesional,free transfer
+Daniel Samek,Central Midfield,20,EUR1.20m,Czech Republic,Hradec Kralove,Chance Liga,loan transfer
+Mathias Honsak,Left Winger,27,EUR1.20m,Austria,Heidenheim,Bundesliga,free transfer
+Eric Ramirez,Centre-Forward,27,EUR1.20m,Argentina,Huracan,Liga Profesional,free transfer
+Karol Angielski,Centre-Forward,28,EUR1.20m,Poland,AEK Larnaca,Cyprus League,free transfer
+Boubacar Traore,Centre-Forward,24,EUR1.20m,Mali,AS Vita Club,N/A,?
+Peter Kovacik,Right Winger,22,EUR1.20m,Slovakia,Jagiellonia,Ekstraklasa,loan transfer
+Eder Balanta,Defensive Midfield,31,EUR1.20m,Colombia,CD America,Liga DIMAYOR II,free transfer
+Keita Balde,Centre-Forward,29,EUR1.20m,Senegal,Sivasspor,Super Lig,free transfer
+Tobias Rubio,Right-Back,20,EUR1.20m,Argentina,Defensa,Liga Profesional,loan transfer
+Jordi Mboula,Right Winger,25,EUR1.20m,Spain,Gil Vicente,Liga Portugal,?
+Jonathan Panzo,Centre-Back,23,EUR1.20m,England,Rio Ave,Liga Portugal,loan transfer
+Ahmed Hassan,Centre-Forward,31,EUR1.20m,Egypt,Rio Ave,Liga Portugal,free transfer
+Jesus Bernal,Central Midfield,27,EUR1.20m,Spain,Sporting Gijon,LaLiga2,free transfer
+Nikola Maras,Centre-Back,28,EUR1.20m,Serbia,Sporting Gijon,LaLiga2,loan transfer
+Deano Van Rooyen,Right-Back,27,EUR1.20m,South Africa,Orlando Pirates,Betway Premiership,?
+Jose Matos,Left-Back,29,EUR1.20m,Spain,Cadiz CF,LaLiga2,free transfer
+Hasan Kurucay,Centre-Back,27,EUR1.20m,Türkiye,OH Leuven,Jupiler Pro League,free transfer
+Kenan Kodro,Centre-Forward,30,EUR1.20m,Bosnia-Herzegovina,Gaziantep FK,Super Lig,loan transfer
+Bruno Viana,Centre-Back,29,EUR1.20m,Brazil,Gaziantep FK,Super Lig,loan transfer
+Daniel Jr,Attacking Midfield,22,EUR1.20m,Brazil,America-MG,Serie B,loan transfer
+Nyiko Mobbie,Right-Back,29,EUR1.20m,South Africa,SuperSport Utd.,Betway Premiership,?
+Kasey Palmer,Attacking Midfield,27,EUR1.20m,Jamaica,Hull City,Championship,?
+Theocharis Tsingaras,Central Midfield,24,EUR1.20m,Greece,Atromitos,Super League 1,?
+Xadas,Attacking Midfield,26,EUR1.20m,Portugal,TJ Jinmen Tiger,Super League,free transfer
+Rafa Soares,Left-Back,29,EUR1.20m,Portugal,Famalicao,Liga Portugal,free transfer
+Bechir Ben Said,Goalkeeper,31,EUR1.20m,Tunisia,Esperance,Ligue I Pro,free transfer
+Byron Castillo,Right-Back,29,EUR1.20m,Ecuador,Barcelona SC,Serie A Segunda Etapa,loan transfer
+Jordan Amavi,Left-Back,30,EUR1.20m,France,Stade Brestois,Ligue 1,free transfer
+Raimonds Krollis,Centre-Forward,22,EUR1.20m,Latvia,Triestina,Serie C - A,loan transfer
+Lazar Markovic,Right Winger,30,EUR1.20m,Serbia,FC Baniyas,UAE Pro League,free transfer
+Arnaud Lusamba,Central Midfield,27,EUR1.20m,DR Congo,FC Baniyas,UAE Pro League,?
+Ettson Ayon,Centre-Forward,23,EUR1.20m,Mexico,Leon,Liga MX Apertura,?
+Jordy Alcivar,Defensive Midfield,24,EUR1.20m,Ecuador,Leon,Liga MX Apertura,loan transfer
+Henrich Ravas,Goalkeeper,26,EUR1.20m,Slovakia,Cracovia,Ekstraklasa,?
