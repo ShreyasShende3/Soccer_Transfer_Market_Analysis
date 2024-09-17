@@ -1,0 +1,97 @@
+#,Team Name,League,Market Value (15 Aug 2023),Market Value (Now),% Change
+1,Real Madrid,La Liga,EUR998.00m,EUR1.34bn,34.20%
+2,FC Barcelona,La Liga,EUR769.00m,EUR875.40m,13.80%
+3,Atletico de Madrid,La Liga,EUR529.20m,EUR529.50m,0.10%
+4,Real Sociedad,La Liga,EUR366.05m,EUR431.20m,17.80%
+5,Athletic Bilbao,La Liga,EUR205.90m,EUR318.60m,54.70%
+6,Valencia CF,La Liga,EUR148.50m,EUR260.00m,75.10%
+7,Girona FC,La Liga,EUR123.90m,EUR208.00m,67.90%
+8,Villarreal CF,La Liga,EUR209.70m,EUR196.20m,-6.40%
+9,Real Betis Balompie,La Liga,EUR225.00m,EUR189.40m,-15.80%
+10,Sevilla FC,La Liga,EUR223.55m,EUR181.60m,-18.80%
+11,UD Las Palmas,La Liga,EUR35.60m,EUR112.40m,215.70%
+12,CA Osasuna,La Liga,EUR137.80m,EUR104.20m,-24.40%
+13,RCD Mallorca,La Liga,EUR100.30m,EUR85.70m,-14.60%
+14,Deportivo Alaves,La Liga,EUR39.70m,EUR82.40m,107.60%
+15,Celta de Vigo,La Liga,EUR147.80m,EUR81.35m,-45.00%
+16,Rayo Vallecano,La Liga,EUR74.30m,EUR68.95m,-7.20%
+17,RCD Espanyol Barcelona,La Liga,EUR63.20m,EUR68.30m,8.10%
+18,Getafe CF,La Liga,EUR112.70m,EUR65.80m,-41.60%
+19,CD Leganes,La Liga,EUR15.05m,EUR57.33m,280.90%
+20,Real Valladolid CF,La Liga,EUR48.95m,EUR43.40m,-11.30%
+21,Manchester City,Premier League,EUR1.25bn,EUR1.26bn,1.20%
+22,Arsenal FC,Premier League,EUR1.18bn,EUR1.17bn,-1.10%
+23,Chelsea FC,Premier League,EUR961.95m,EUR948.20m,-1.40%
+24,Liverpool FC,Premier League,EUR794.80m,EUR923.00m,16.10%
+25,Manchester United,Premier League,EUR872.10m,EUR857.35m,-1.70%
+26,Tottenham Hotspur,Premier League,EUR715.30m,EUR768.30m,7.40%
+27,Newcastle United,Premier League,EUR599.00m,EUR651.65m,8.80%
+28,Aston Villa,Premier League,EUR588.50m,EUR595.45m,1.20%
+29,Brighton & Hove Albion,Premier League,EUR350.10m,EUR543.10m,55.10%
+30,West Ham United,Premier League,EUR397.15m,EUR483.50m,21.70%
+31,Crystal Palace,Premier League,EUR308.45m,EUR430.18m,39.50%
+32,Nottingham Forest,Premier League,EUR337.38m,EUR414.00m,22.70%
+33,Brentford FC,Premier League,EUR393.80m,EUR395.03m,0.30%
+34,Wolverhampton Wanderers,Premier League,EUR353.18m,EUR370.50m,4.90%
+35,AFC Bournemouth,Premier League,EUR308.60m,EUR349.85m,13.40%
+36,Everton FC,Premier League,EUR390.15m,EUR349.10m,-10.50%
+37,Fulham FC,Premier League,EUR273.50m,EUR342.00m,25.00%
+38,Southampton FC,Premier League,EUR289.50m,EUR273.20m,-5.60%
+39,Leicester City,Premier League,EUR292.50m,EUR263.90m,-9.80%
+40,Ipswich Town,Premier League,EUR19.43m,EUR161.10m,729.30%
+41,Inter Milan,Serie A,EUR493.35m,EUR672.30m,36.30%
+42,AC Milan,Serie A,EUR574.10m,EUR601.01m,4.70%
+43,Juventus FC,Serie A,EUR471.70m,EUR575.15m,21.90%
+44,SSC Napoli,Serie A,EUR577.55m,EUR431.40m,-25.30%
+45,Atalanta BC,Serie A,EUR338.75m,EUR426.10m,25.80%
+46,AS Roma,Serie A,EUR305.15m,EUR338.50m,10.90%
+47,Bologna FC 1909,Serie A,EUR147.90m,EUR281.30m,90.20%
+48,ACF Fiorentina,Serie A,EUR274.55m,EUR270.90m,-1.30%
+49,SS Lazio,Serie A,EUR256.13m,EUR224.15m,-12.50%
+50,Torino FC,Serie A,EUR171.35m,EUR170.23m,-0.70%
+51,Genoa CFC,Serie A,EUR96.15m,EUR135.85m,41.30%
+52,Udinese Calcio,Serie A,EUR156.43m,EUR112.48m,-28.10%
+53,Como 1907,Serie A,EUR26.75m,EUR105.40m,294.00%
+54,Parma Calcio 1913,Serie A,EUR50.78m,EUR104.50m,105.80%
+55,US Lecce,Serie A,EUR67.90m,EUR93.50m,37.70%
+56,AC Monza,Serie A,EUR118.18m,EUR90.78m,-23.20%
+57,Hellas Verona,Serie A,EUR72.75m,EUR77.30m,6.30%
+58,Cagliari Calcio,Serie A,EUR48.53m,EUR69.35m,42.90%
+59,FC Empoli,Serie A,EUR75.55m,EUR59.13m,-21.70%
+60,Venezia FC,Serie A,EUR30.45m,EUR57.78m,89.70%
+61,Bayern Munich,Bundesliga,EUR981.20m,EUR945.60m,-3.60%
+62,Bayer 04 Leverkusen,Bundesliga,EUR427.75m,EUR627.25m,46.60%
+63,RB Leipzig,Bundesliga,EUR406.90m,EUR513.90m,26.30%
+64,Borussia Dortmund,Bundesliga,EUR461.15m,EUR461.60m,0.10%
+65,VfB Stuttgart,Bundesliga,EUR136.50m,EUR285.08m,108.80%
+66,Eintracht Frankfurt,Bundesliga,EUR276.70m,EUR248.30m,-10.30%
+67,VfL Wolfsburg,Bundesliga,EUR214.10m,EUR211.45m,-1.20%
+68,SC Freiburg,Bundesliga,EUR165.58m,EUR166.00m,0.30%
+69,TSG 1899 Hoffenheim,Bundesliga,EUR130.55m,EUR156.15m,19.60%
+70,Borussia Monchengladbach,Bundesliga,EUR187.73m,EUR139.45m,-25.70%
+71,1.FC Union Berlin,Bundesliga,EUR179.00m,EUR124.68m,-30.30%
+72,SV Werder Bremen,Bundesliga,EUR98.50m,EUR112.85m,14.60%
+73,FC Augsburg,Bundesliga,EUR124.70m,EUR102.23m,-18.00%
+74,1.FSV Mainz 05,Bundesliga,EUR117.85m,EUR89.85m,-23.80%
+75,VfL Bochum,Bundesliga,EUR52.25m,EUR59.28m,13.40%
+76,1.FC Heidenheim 1846,Bundesliga,EUR29.15m,EUR50.15m,72.00%
+77,FC St. Pauli,Bundesliga,EUR19.05m,EUR37.78m,98.30%
+78,Holstein Kiel,Bundesliga,EUR18.95m,EUR32.30m,70.40%
+79,Paris Saint-Germain,Ligue 1,EUR1.12bn,EUR873.50m,-21.70%
+80,AS Monaco,Ligue 1,EUR305.80m,EUR339.20m,10.90%
+81,Olympique Marseille,Ligue 1,EUR288.85m,EUR305.90m,5.90%
+82,Olympique Lyon,Ligue 1,EUR215.90m,EUR265.80m,23.10%
+83,LOSC Lille,Ligue 1,EUR211.50m,EUR257.70m,21.80%
+84,OGC Nice,Ligue 1,EUR224.15m,EUR217.20m,-3.10%
+85,Stade Rennais FC,Ligue 1,EUR313.95m,EUR197.05m,-37.20%
+86,RC Lens,Ligue 1,EUR157.90m,EUR172.15m,9.00%
+87,RC Strasbourg Alsace,Ligue 1,EUR112.65m,EUR158.60m,40.80%
+88,Stade Brestois 29,Ligue 1,EUR56.65m,EUR123.70m,118.40%
+89,Stade Reims,Ligue 1,EUR98.60m,EUR118.85m,20.50%
+90,FC Nantes,Ligue 1,EUR93.78m,EUR94.05m,0.30%
+91,Montpellier HSC,Ligue 1,EUR119.35m,EUR93.30m,-21.80%
+92,FC Toulouse,Ligue 1,EUR75.65m,EUR81.85m,8.20%
+93,Le Havre AC,Ligue 1,EUR45.50m,EUR68.45m,50.40%
+94,AJ Auxerre,Ligue 1,EUR26.20m,EUR55.95m,113.50%
+95,AS Saint-Etienne,Ligue 1,EUR34.75m,EUR44.65m,28.50%
+96,Angers SCO,Ligue 1,EUR33.30m,EUR32.90m,-1.20%
